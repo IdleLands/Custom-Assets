@@ -1,0 +1,1 @@
+"Miniature Toy Soldiers" level=2 class=Fighter str=5
