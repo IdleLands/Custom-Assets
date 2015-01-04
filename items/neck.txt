@@ -1,0 +1,5 @@
+"key-board" str=50 int=50 agi=50 dex=50
+"key-board" str=50 int=50 agi=50 dex=50
+"key-board" str=50 int=50 agi=50 dex=50
+"key-board" str=50 int=50 agi=50 dex=50
+"key-board" str=50 int=50 agi=50 dex=50

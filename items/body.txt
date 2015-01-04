@@ -1,0 +1,5 @@
+"Apocalyptic Sticky Notes" str=200 dex=200 int=200 wis=-200
+"Apocalyptic Sticky Notes" str=200 dex=200 int=200 wis=-200
+"Apocalyptic Sticky Notes" str=200 dex=200 int=200 wis=-200
+"Apocalyptic Sticky Notes" str=200 dex=200 int=200 wis=-200
+"Apocalyptic Sticky Notes" str=200 dex=200 int=200 wis=-200
