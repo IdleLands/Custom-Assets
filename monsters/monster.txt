@@ -1,1 +1,2 @@
 "Miniature Toy Soldiers" level=2 class=Fighter str=5
+"Oversized Toy Soldiers" level=32 class=Fighter str=1200 con=200 dex=500
