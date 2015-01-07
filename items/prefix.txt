@@ -1,2 +1,3 @@
 "deep-fried" conPercent=-3
 "deep-fried" conPercent=-3
+"8-bit" dexPercent=2 intPercent=4 wisPercent=2
