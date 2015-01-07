@@ -1,1 +1,2 @@
 "of the cards" dex=50 con=100 int=50
+"sloth" con=20 haste=-1
