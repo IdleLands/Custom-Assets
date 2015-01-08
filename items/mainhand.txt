@@ -2,3 +2,5 @@
 "Commit Log" str=250 int=300 wis=-100 con=700
 "lasso" dex=102
 "grenade" str=414 dex=30 darkside=1
+"a bucket full of luck" luck=200
+"frying pan" agi=12
