@@ -1,1 +1,2 @@
 "clogs" agi=200 dance=1
+"tap shoes" agi=105 dance=1

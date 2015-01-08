@@ -1,3 +1,4 @@
 "pool noodle" str=-55 int-1 agi=120 luck=3
 "spell book" int=25
 "spell tome" int=125
+"towel" luck=25
