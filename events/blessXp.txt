@@ -1,1 +1,2 @@
 %player becomes lost in a dense fog! After finding %hisher way out, %she earns %xpxp!
+%player dives away from an explosion! %She narrowly avoids it and gains %xpxp.
