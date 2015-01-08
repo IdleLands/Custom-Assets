@@ -1,2 +1,4 @@
 "Pan Galactic Gargle Blaster" wis=500 agi=500 water=100
 "Commit Log" str=250 int=300 wis=-100 con=700
+"lasso" dex=102
+"grenade" str=414 dex=30 darkside=1

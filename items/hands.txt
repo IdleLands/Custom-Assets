@@ -1,0 +1,1 @@
+"fingerless gloves" agi=100 dex=100

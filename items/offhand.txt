@@ -1,0 +1,1 @@
+"pool noodle" str=-55 int-1 agi=120 luck=3
