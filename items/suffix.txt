@@ -4,3 +4,5 @@
 "scallywag" con=50 dex=15 str=15 wis=15
 "landlubber" con=-15 agi=-5 dex=-5 wis=-5
 "tortoise" con=80 hpregen=100
+"storm" thunder=250
+"storm" thunder=250
