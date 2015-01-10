@@ -2,4 +2,3 @@
 "8-bit" dexPercent=2 intPercent=4 wisPercent=2
 "detailed" gold=3 goldPercent=3
 "foam" str=-10 dex=10 strPercent=-10
-"foam" str=-10 dex=10 strPercent=-10
