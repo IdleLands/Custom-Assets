@@ -1,2 +1,1 @@
 %player accidentally signed the wrong contract and created the group "%partyName" including %partyMembers.
-%player accidentally signed the wrong contract and created the group "%partyName" including %partyMembers.
