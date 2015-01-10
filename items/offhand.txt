@@ -4,5 +4,3 @@
 "towel" luck=25
 "encyclopedia" int=22 wis=22
 "spell components" int=150 wis=5
-"encyclopedia" int=22 wis=22
-"spell components" int=150 wis=5
