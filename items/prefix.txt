@@ -2,3 +2,6 @@
 "8-bit" dexPercent=2 intPercent=4 wisPercent=2
 "detailed" gold=3 goldPercent=3
 "foam" str=-10 dex=10 strPercent=-10
+"chilly" ice=75
+"toxic" venom=1 poison=1
+"non-toxic" poison=-1 venom=-1

@@ -1,0 +1,1 @@
+"turtle leggings" str=45 agi=-8 luck=5

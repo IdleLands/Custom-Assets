@@ -1,0 +1,3 @@
+"war paint" str=30 agi=30
+"laurel wreath" str=50 agi=250 int=50 wis=50 gold=10
+"turtle helmet" str=50 agi=-10 luck=5

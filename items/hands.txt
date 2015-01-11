@@ -1,1 +1,2 @@
 "fingerless gloves" agi=100 dex=100
+"sock puppet" int=120

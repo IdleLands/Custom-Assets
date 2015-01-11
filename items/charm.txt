@@ -1,1 +1,2 @@
 
+"loaded dice" luck=100

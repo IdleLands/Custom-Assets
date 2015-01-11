@@ -5,3 +5,4 @@
 "a bucket full of luck" luck=200
 "frying pan" agi=12
 "rocket fist" str=780
+"chainsaw" str=780 strPercent=3

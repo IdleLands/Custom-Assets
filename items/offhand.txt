@@ -4,3 +4,8 @@
 "towel" luck=25
 "encyclopedia" int=22 wis=22
 "spell components" int=150 wis=5
+"torch" fire=500 glowing=1
+"main gauche" agi=255 parry=1
+"sword-breaker" agi=500 offense=1
+"lighter" int=3 fire=25
+"turtle shell shield" str=50 con=40 luck=5

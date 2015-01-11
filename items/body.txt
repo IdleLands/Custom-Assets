@@ -1,1 +1,3 @@
 "Apocalyptic Sticky Notes" str=200 dex=200 int=200 wis=-200
+"lab coat" int=75 wis=75 mp=500
+"turtle scale mail" str=150 agi=-30 luck=10
