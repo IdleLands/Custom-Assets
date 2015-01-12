@@ -1,1 +1,2 @@
 %player checks under the couch cushions and finds %gold gold!
+%pet gets %player's attention to something buried underground. %player digs up some buried treasure worth %gold gold!
