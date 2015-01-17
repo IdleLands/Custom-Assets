@@ -6,3 +6,4 @@
 "frying pan" agi=12
 "rocket fist" str=780
 "chainsaw" str=780 strPercent=3
+"Akarah" crit=3 dance=1 deadeye=1 dex=206 agi=186 thunder=75
