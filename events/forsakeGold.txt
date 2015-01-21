@@ -1,0 +1,1 @@
+A friendly necromancer resurrects %player's favorite plant in exchange for %gold gold.

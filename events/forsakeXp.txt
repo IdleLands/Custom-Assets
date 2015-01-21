@@ -1,3 +1,4 @@
 %player becomes lost in a dense fog! A denizen of the mist escorts %player out, but only in exchange for %xpxp.
 %player dives away from an explosion! %She gets hit by the blast and loses %xpxp.
 %player has been holding %hisher map upside down for hours. %player loses %xpxp getting back on track.
+A necromancer drains some of %player's life away. %She loses %xpxp during the attack.

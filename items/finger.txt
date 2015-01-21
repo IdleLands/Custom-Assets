@@ -1,0 +1,1 @@
+"skull ring" str=200 startle=1
