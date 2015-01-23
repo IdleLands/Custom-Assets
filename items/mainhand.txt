@@ -9,3 +9,5 @@
 "Akarah" crit=3 dance=1 deadeye=1 dex=206 agi=186 thunder=75
 "femur" str=120 wis=120
 "skull-topped cane" str=30 wis=30 mp=50
+"dart" agi=10 dex=10
+"dart gun" agi=200 dex=25 venom=1
