@@ -1,0 +1,3 @@
+"Sedgwick" class=Barbarian
+"Latin" class=Jester
+"Koa" 
