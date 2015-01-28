@@ -1,3 +1,4 @@
 "Sedgwick" class=Barbarian
 "Latin" class=Jester
 "Koa" 
+"Earl of Sandwich" class=SandwichArtist
