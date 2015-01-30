@@ -5,3 +5,4 @@
 "landlubber" con=-15 agi=-5 dex=-5 wis=-5
 "tortoise" con=80 hpregen=100
 "storm" thunder=250
+"archer" dexPercent=10 agiPercent=5 deadeye=1
