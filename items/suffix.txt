@@ -6,3 +6,4 @@
 "tortoise" con=80 hpregen=100
 "storm" thunder=250
 "archer" dexPercent=10 agiPercent=5 deadeye=1
+"gardener" earth=250 water=50
