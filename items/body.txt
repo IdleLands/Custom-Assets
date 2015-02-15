@@ -2,3 +2,4 @@
 "lab coat" int=75 wis=75 mp=500
 "turtle scale mail" str=150 agi=-30 luck=10
 "cultist robe" str=105 con=-50 int=-105 wis=105
+"bath robe" agi=40 int=40 fire=25

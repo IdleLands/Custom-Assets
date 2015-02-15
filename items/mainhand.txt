@@ -11,3 +11,5 @@
 "skull-topped cane" str=30 wis=30 mp=50
 "dart" agi=10 dex=10
 "dart gun" agi=200 dex=25 venom=1
+"katar" dex=300 power=1
+"broom" str=10 earth=100

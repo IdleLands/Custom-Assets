@@ -1,2 +1,3 @@
 
 "loaded dice" luck=100
+"ship in a bottle" int=75 wis=25 water=150

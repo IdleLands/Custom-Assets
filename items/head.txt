@@ -1,3 +1,8 @@
 "war paint" str=30 agi=30
 "laurel wreath" str=50 agi=250 int=50 wis=50 gold=10
 "turtle helmet" str=50 agi=-10 luck=5
+"headband" str=75 Dex=75 agi=25
+"bucket" dex=-205 str=200 agi=25 dance=1
+"bandana" dex=8 agi=5
+"mortarboard" int=155 wis=155
+"pith helmet" con=125 dex=10 earth=50
