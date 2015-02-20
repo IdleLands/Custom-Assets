@@ -2,3 +2,4 @@
 %player dives away from an explosion! %She narrowly avoids it and gains %xpxp.
 %pet finds a child trapped in a well! %player rescues the child and earns %xpxp!
 A passing generalist shares %xpxp worth of knowledge with %player.
+%player watched BEN Drowned and fell into a nearby river.
