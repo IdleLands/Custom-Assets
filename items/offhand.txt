@@ -11,3 +11,4 @@
 "turtle shell shield" str=50 con=40 luck=5
 "Kitako" crit=2 dance=1 lethal=1 dex=186 agi=146 thunder=50
 "skull" str=50 int=50 wis=150
+"metal detector" luck=50 gold=10 goldPercent=10 agi=-100 con=-10
