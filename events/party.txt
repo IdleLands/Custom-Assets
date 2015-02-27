@@ -1,2 +1,3 @@
 %player accidentally signed the wrong contract and created the group "%partyName" including %partyMembers.
 %player can not remember where %hisher last party wandered off to, so %she forms "%partyName" with %partyMembers!
+%player streaks through chat. %partyMembers like what they see. %partyName was formed as a result!
