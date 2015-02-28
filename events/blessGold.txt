@@ -1,3 +1,4 @@
 %player checks under the couch cushions and finds %gold gold!
 %pet gets %player's attention to something buried underground. %player digs up some buried treasure worth %gold gold!
 A Fisherman of Claims dangles a dollar bill on a fishing pole in front of %player, he says 'Hey, got ya a dollar!'
+%player sticks %hisher hand in a vase of scorpions. %Heshe gets the %gold gold and only 5 venomous stings.
