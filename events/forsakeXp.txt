@@ -2,3 +2,13 @@
 %player dives away from an explosion! %She gets hit by the blast and loses %xpxp.
 %player has been holding %hisher map upside down for hours. %player loses %xpxp getting back on track.
 A necromancer drains some of %player's life away. %She loses %xpxp during the attack.
+%player purchased an ice cream and tripped on a rock. Everybody laughed. %xpxp was lost in embarrassment!
+%player runs around shouting, "Why does the destruction conciliate the hissing wood?" Everyone thinks %she is crazy... chances are, %she actually is crazy.
+%player tried fighting $random:monster$ and lost.. how disappointing!
+%player got a call from %hisher mother. She's coming over for a holiday. %player lost %xpxp crying from stress.
+%player got lost in a maze after sleeping in for too long. %She lost %xpxp to an Xp merchant in exchange for directions.
+%player got tired after watching the newest season of House of Bards in one go and completely missed the fact that %she had walked off the track and into the den of a $random:monster$. Obviously %player died and lost %xpxp.
+%player walked into a tree. The tree's mother sued %player's mother for bad parenting. %player lost %xpxp and %hisher mother's love.
+%player was chasing after $random:player$ and ran straight through a glass window! Ouch! %She lost %xpxp and ended up in hospital for a month.
+$random:monster$ was walking around invisible and was able to steal %xpxp from %player! How did %player not see it happen?
+%player fell in love with $random:player$, and they went out on a date. %player didn't end up paying any gold! How lucky! %She did however lose a ton of xp.

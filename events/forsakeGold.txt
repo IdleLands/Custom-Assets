@@ -1,1 +1,11 @@
 A friendly necromancer resurrects %player's favorite plant in exchange for %gold gold.
+%player got married! It only lasted one week. The bride ran away with $random:player$, taking %gold gold before %player knew what was happening. How sad!
+The government photographs %player doing illegal activities. %player paid %gold gold to get them to keep quiet.
+%player goes to a gold dealer to sell %hisher old grandmother's golden necklace. Turns out it was fake, %player had to compensate %gold gold for wasting the dealer's time.
+%player cracks a tooth eating a $random:item$ (don't ask), %she had to pay %gold gold to get the tooth replaced.
+%player was walking down the street and completely forgot what %she was doing. %gold gold was lost due to %hisher forgetfulness.
+A little kid called $random:player$ was trying to sell %player some gold pieces for %gold gold. Turns out they were chocolate.
+%player discovered a new type of animal! %She named it $random:player$ after %hisher one true love. It costed %gold gold to name it.
+%player discovered a monkey doing math. The monkey then tricked %himher into buying %gold gold worth of grapes. Since when did monkeys eat grapes?
+%player heard about a money making plant which gives you money if you give it money. Turns out it was just $random:player$ in a costume. The cheeky bastard made %gold gold from %player!
+%player's pet named %pet made a mess in Old Man Bush's favorite bush. Repairs costed %gold gold.
