@@ -3,3 +3,6 @@
 "turtle scale mail" str=150 agi=-30 luck=10
 "cultist robe" str=105 con=-50 int=-105 wis=105
 "bath robe" agi=40 int=40 fire=25
+"meat suit" agi=10 con=275
+"bandolier" dex=40 con=60 hp=100
+"patchwork cloak" str=80 dex=80 agi=80 con=80 int=80 wis=80 luck=80 sentimentality=80

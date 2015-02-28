@@ -8,3 +8,9 @@
 "archer" dexPercent=10 agiPercent=5 deadeye=1
 "gardener" earth=250 water=50
 "cunning crow" wis=75 dex=25 gold=1
+"forgotten frog" wis=200 royal=1
+"smelly skunk" agi=150 agiPercent=2 conPercent=-2
+"litigious lawyer" gold=100
+"prickly porcupine" str=37 dex=37 absolute=5
+"sleeping sloth" con=75 conPercent=5
+"drunken master" str=175 agi=75 drunk=1

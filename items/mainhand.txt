@@ -13,3 +13,5 @@
 "dart gun" agi=200 dex=25 venom=1
 "katar" dex=300 power=1
 "broom" str=10 earth=100
+"Celestial Crossbow" dex=2500 agi=2500 luck=1000 glowing=1 crit=5 silver=1 power=1 lethal=1
+"star rod" str=305 dex=305 glowing=1

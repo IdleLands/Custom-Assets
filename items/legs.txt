@@ -1,1 +1,2 @@
 "turtle leggings" str=45 agi=-8 luck=5
+"kilt" dex=50 agi=50 int=50
