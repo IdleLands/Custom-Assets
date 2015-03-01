@@ -2,3 +2,7 @@
 %pet gets %player's attention to something buried underground. %player digs up some buried treasure worth %gold gold!
 A Fisherman of Claims dangles a dollar bill on a fishing pole in front of %player, he says 'Hey, got ya a dollar!'
 %player sticks %hisher hand in a vase of scorpions. %Heshe gets the %gold gold and only 5 venomous stings.
+%player found a jar while walking. It not only had an angry hive of bees in it, but also %gold gold!
+%player purchased a treasure map, it led %himher to a buried pile of %gold gold!
+While singing along to Idliathlia's National anthem, %player found a wallet. Inside was an IOU cheque from Scrollback for being so unbelievably useless at times,   %player took the money and used it to buy something nice.
+%player idled for a month in a row! The nice Overlordmansir decided to give them a gift of %gold gold in exchange for their dedication.
