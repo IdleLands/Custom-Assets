@@ -6,3 +6,4 @@ A Fisherman of Claims dangles a dollar bill on a fishing pole in front of %playe
 %player purchased a treasure map, it led %himher to a buried pile of %gold gold!
 While singing along to Idliathlia's National anthem, %player found a wallet. Inside was an IOU cheque from Scrollback for being so unbelievably useless at times,   %player took the money and used it to buy something nice.
 %player idled for a month in a row! The nice Overlordmansir decided to give them a gift of %gold gold in exchange for their dedication.
+%player uses %hisher %item as a pickaxe and finds a lump of ore. %Heshe sells the ore for %goldgold.
