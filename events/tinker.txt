@@ -1,0 +1,1 @@
+%player steals $random:player#1$'s $dict:placeholder#1$ and disassembles it. %player then reassembles %hisher %item with $random:player#1$'s $dict:placeholder#1$'s pieces.

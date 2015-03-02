@@ -1,3 +1,4 @@
 %player's %item starts falling apart right after the warranty expires.
 %player thought %heshe could fly. %hisher %item paid the price
 $random:player#1$ shoves $random:player#2$ but $random:player#2$'s weight causes $random:player#1$ to fall back on to %player's %item. $random:player#1$'s blood, having been cursed by $dict:deity$, causes %player's %item to tarnsh and fall apart in %hisher hand.
+$random:player#1$ shoves $random:player#2$ but $random:player#2$'s weight causes $random:player#1$ to fall back on to %player's %item. $random:player#1$'s blood, having been cursed by $dict:deity$, causes %player's %item to tarnish and fall apart in %hisher hand.

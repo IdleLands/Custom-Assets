@@ -1,0 +1,1 @@
+%partyName starts the cult of $dict:deity#1$. $dict:deity#1$ rewards them with %xpxp.

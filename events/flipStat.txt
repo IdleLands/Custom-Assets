@@ -1,1 +1,2 @@
 %player got hit with a mean curse that switches stats around!
+%player flips a voodoo coin with a picture of %hisher %item. %Hisher %item's %stat copies the movement.
