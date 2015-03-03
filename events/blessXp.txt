@@ -4,3 +4,4 @@
 A passing generalist shares %xpxp worth of knowledge with %player.
 %player watched BEN Drowned and fell into a nearby river.
 %player meets his friend $random:player$ and they learn to play Idle Lands together. As a result, %player gains a whopping %xpxp.
+%player sold %hisher mother to satan for the knowledge of cooking the perfect breakfast egg, gaining %xpxp.
