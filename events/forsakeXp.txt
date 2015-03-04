@@ -12,3 +12,4 @@ A necromancer drains some of %player's life away. %She loses %xpxp during the at
 %player was chasing after $random:player$ and ran straight through a glass window! Ouch! %She lost %xpxp and ended up in hospital for a month.
 $random:monster$ was walking around invisible and was able to steal %xpxp from %player! How did %player not see it happen?
 %player fell in love with $random:player$, and they went out on a date. %player didn't end up paying any gold! How lucky! %She did however lose a ton of xp.
+%player saw a grue and pooped %himherself!
