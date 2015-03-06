@@ -10,3 +10,5 @@ A little kid called $random:player$ was trying to sell %player some gold pieces 
 %player heard about a money making plant which gives you money if you give it money. Turns out it was just $random:player$ in a costume. The cheeky bastard made %gold gold from %player!
 %player's pet named %pet made a mess in Old Man Bush's favorite bush. Repairs costed %gold gold.
 %player drops a penny. Due to inflation, this penny happened to be worth %goldgold.
+%player lost %gold gold through a hole in %hisher pocket.
+%player spent %gold gold on an ice cream cone, then immediately dropped it on the ground.

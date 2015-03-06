@@ -14,3 +14,4 @@ $random:monster$ was walking around invisible and was able to steal %xpxp from %
 %player fell in love with $random:player$, and they went out on a date. %player didn't end up paying any gold! How lucky! %She did however lose a ton of xp.
 %player saw a grue and pooped %himherself!
 %player has had sex, this terrible calamity costs %himher %xpxp.
+God took a dump and to %player's misfortune it lands on %hisher head. %player loses %xpxp.
