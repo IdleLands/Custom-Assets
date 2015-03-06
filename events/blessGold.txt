@@ -9,3 +9,9 @@ While singing along to Idliathlia's National anthem, %player found a wallet. Ins
 %player uses %hisher %item as a pickaxe and finds a lump of ore. %Heshe sells the ore for %goldgold.
 %player made a sperm donation and got %gold gold. What a relief that the spermbank didn't want to know where %heshe had that donation from.
 %player uses a nearby $random:item$ as a pickaxe and finds a lump of ore. %Heshe sells the ore for %goldgold.
+%player decided to propose to %hisher bestfriend of 19 years. %player got rejected and was able to get a refund for the ring consisting of %gold gold!
+%player had a moment of confusion and thought to %himherself, "why does the memory implement the intelligent representative?" RNGesus overheard the thought of %player, and gave %himher %gold gold to shut up.
+%player learns how to fly. %She got given %gold gold to fly away and never come back.
+%player met up with $random:player$ in $random:map$'s hottest bar. They had fun and won the karaoke event. %player won %gold gold!
+They were giving out free gold at the bank... lol, yeah right... %player robbed a bank and got %gold gold for free!
+%player slept with $random:monster#1$'s parents (not *that* kind of 'slept', you dirty bugger!) and $random:monster#1$ paid %player %gold gold!
