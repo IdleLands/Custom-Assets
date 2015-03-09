@@ -7,3 +7,4 @@
 "non-toxic" poison=-1 venom=-1
 "eldritch" int=66 intPercent=2 conPercent=-2
 "wet" water=100 waterPercent=5
+"superheated" fire=250 firePercent=10
