@@ -13,3 +13,4 @@
 "skull" str=50 int=50 wis=150
 "metal detector" luck=50 gold=10 goldPercent=10 agi=-100 con=-10
 "thurible" wis=300 holy=250 holyPercent=5
+"fart in a bag" int=100 wis=30 darkside=1 poison=1

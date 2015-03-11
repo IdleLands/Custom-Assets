@@ -15,3 +15,4 @@ All the people in $random:map$ decided it was time to reward %player for all %hi
 %player got hungry and nagged $random:player#1$ until $random:player#1$ gave in and gave %player %xpxp.
 %player was really tired after staying up all night playing video games. %player did earn %xpxp, so it was totally worth it!
 %player was trying to breathe fire and succeeded. Yay you! Here's a reward: %xpxp!
+%player finished a quest and recieved %xpxp.

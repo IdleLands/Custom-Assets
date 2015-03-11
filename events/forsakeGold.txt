@@ -12,3 +12,4 @@ A little kid called $random:player$ was trying to sell %player some gold pieces 
 %player drops a penny. Due to inflation, this penny happened to be worth %goldgold.
 %player lost %gold gold through a hole in %hisher pocket.
 %player spent %gold gold on an ice cream cone, then immediately dropped it on the ground.
+%player failed to finish a quest and had to pay %gold gold.

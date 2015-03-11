@@ -8,3 +8,4 @@
 "pith helmet" con=125 dex=10 earth=50
 "jester hat" luck=100 luckPercent=5 dance=1
 "third eye" int=250 wis=250 wisPercent=3 limitless=1
+"ribbon" int=35
