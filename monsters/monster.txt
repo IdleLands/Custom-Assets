@@ -10,3 +10,4 @@
 "Experiment .003" class=Fighter level=40 str=140 dex=90 con=140 agi=80
 "Experiment .004" class=Cleric level=45 str=90 dex=45 con=50 int=45 wis=225 agi=45
 "Self Destructing Brute" level=50 hp=100000 hpregen=-20000 str=500
+"Super Saiyan" zone=other level=100 class=Fighter agi=9001 dex=9001 wis=9001 con=9001 luck=9001 int=9001 str=9001

@@ -3,3 +3,4 @@
 %player took a dump. Before flushing %heshe saw something in %hisher pile and found %item.
 %player killed $random:player#1$ and stole %item.
 %player begged for 5 hours in the trade chat and $random:player#1$ was so annoyed and sent %himher %item.
+%player looked into his pocket and found %hisher lost %item.

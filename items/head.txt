@@ -10,3 +10,4 @@
 "third eye" int=250 wis=250 wisPercent=3 limitless=1
 "ribbon" int=35
 "Fabulous Lame Hat" str=100 int=100 dex=100 con=500 agi=100 wis=100 deadeye=1
+"butt" dex=40 agi=80 luck=2 deadeye=1 dance=1
