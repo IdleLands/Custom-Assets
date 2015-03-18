@@ -4,3 +4,4 @@
 %player killed $random:player#1$ and stole %item.
 %player begged for 5 hours in the trade chat and $random:player#1$ was so annoyed and sent %himher %item.
 %player looked into his pocket and found %hisher lost %item.
+%player finds %item hidden beneath a tree.

@@ -17,3 +17,4 @@ All the people in $random:map$ decided it was time to reward %player for all %hi
 %player was trying to breathe fire and succeeded. Yay you! Here's a reward: %xpxp!
 %player finished a quest and recieved %xpxp.
 %player remembered something and earned %himherself %xpxp.
+%player caught an arrow in %hisher hand and gained %xpxp!

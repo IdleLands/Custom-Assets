@@ -20,3 +20,6 @@
 "Celestial Dagger" dex=5000 glowing=1 silver=1 power=1 punish=1 poison=10
 "Celestial Staff" int=4000 wis=1000 luck=1000 water=750 fire=750 thunder=750 thunder=750 earth=750 ice=750 silver=1 power=1 glowing=1
 "repeating crossbow" dex=180 agi=10
+"Geany" int=1000
+"Akelpad" int=400
+"SciTE" int=600 deadeye=1
