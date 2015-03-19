@@ -2,3 +2,6 @@
 "Latin" class=Jester
 "Koa" 
 "Earl of Sandwich" class=SandwichArtist
+"Linus Torvalds" class=Bitomancer
+"Steve Jobs" class=Bitomancer
+"Bill Gates" class=Bitomancer

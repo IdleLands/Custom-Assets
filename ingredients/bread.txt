@@ -1,1 +1,4 @@
 "ciabatta of wisdom" wis=80
+"corn" str=16
+"flat" con=20
+"sweet" wis=25

@@ -1,0 +1,1 @@
+%player heads to the grocery store. There's no food, but there is an exquisite item on sale for only %shopGold gold!

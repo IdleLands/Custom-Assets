@@ -23,3 +23,6 @@
 "Geany" int=1000
 "Akelpad" int=400
 "SciTE" int=600 deadeye=1
+"Notepad2" int=4000
+"gedit" int=3000
+"GNU Emacs" int=2000 deadeye=1 limitless=1

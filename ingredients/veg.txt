@@ -1,1 +1,2 @@
 "stardust" luck=5
+"carrot" dex=10

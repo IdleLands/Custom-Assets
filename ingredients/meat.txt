@@ -1,2 +1,6 @@
 "pastrami" str=3 dex=3 con=3
 "german Schnitzel" str=20 con=40
+"owl" wis=20
+"hawk" agi=20
+"bear" str=20
+"lizard" dex=15
