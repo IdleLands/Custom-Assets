@@ -5,3 +5,11 @@
 "Linus Torvalds" class=Bitomancer
 "Steve Jobs" class=Bitomancer
 "Bill Gates" class=Bitomancer
+"Steve Wozniak" class=Bitomancer
+"tmservo433" class=Bitomancer
+"Ronald Wayne" class=Bitomancer
+"Paul Allen" class=Bitomancer
+"Gordon Moore" class=Bitomancer
+"Robert Noyce" class=Bitomancer
+"Edward Snowden" class=Bitomancer
+"Alan Turing" class=Bitomancer
