@@ -13,3 +13,4 @@
 "Robert Noyce" class=Bitomancer
 "Edward Snowden" class=Bitomancer
 "Alan Turing" class=Bitomancer
+"Futureman" class=Bitomancer
