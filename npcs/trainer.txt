@@ -14,3 +14,4 @@
 "Edward Snowden" class=Bitomancer
 "Alan Turing" class=Bitomancer
 "Futureman" class=Bitomancer
+"Heavy" class=SandwichArtist
