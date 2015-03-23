@@ -31,3 +31,4 @@
 "Fourforce of WIS" wis=10000
 "Fourforce of AGI" agi=10000
 "Fiveforce" str=2500 dex=2500 wis=2500 agi=2500
+"mousepad" int=400 deadeye=4
