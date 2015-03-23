@@ -26,3 +26,8 @@
 "Notepad2" int=4000
 "gedit" int=3000
 "GNU Emacs" int=2000 deadeye=1 limitless=1
+"Fourforce of STR" str=10000
+"Fourforce of DEX" dex=10000
+"Fourforce of WIS" wis=10000
+"Fourforce of AGI" agi=10000
+"Fiveforce" str=2500 dex=2500 wis=2500 agi=2500

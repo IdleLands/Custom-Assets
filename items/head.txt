@@ -11,3 +11,4 @@
 "ribbon" int=35
 "Fabulous Lame Hat" str=100 int=100 dex=100 con=500 agi=100 wis=100 deadeye=1
 "butt" dex=40 agi=80 luck=2 deadeye=1 dance=1
+"Superscouter 1000001" con=1600 dex=1600 luck=60
