@@ -18,3 +18,4 @@ God took a dump and to %player's misfortune it lands on %hisher head. %player lo
 %player failed to finish a quest and lost %xpxp.
 %player forgot something. Because of that %heshe lost %xpxp.
 %player lorem ipsum dolor sit amet, consectetur adipisicing elit. Consequuntur repellendus explicabo eos blanditiis -%xpxp!
+%player's shadow runs away, taking %xpxp with it.

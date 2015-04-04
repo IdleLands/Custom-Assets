@@ -15,3 +15,4 @@
 "sleeping sloth" con=75 conPercent=5
 "drunken master" str=175 agi=75 drunk=1
 "soggy slug" agi=-50 water=175
+"Golden Ratio" goldPercent=61

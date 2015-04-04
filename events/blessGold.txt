@@ -15,3 +15,4 @@ While singing along to Idliathlia's National anthem, %player found a wallet. Ins
 They were giving out free gold at the bank... lol, yeah right... %player robbed a bank and got %gold gold for free!
 %player slept with $random:monster#1$'s parents (not *that* kind of 'slept', you dirty bugger!) and $random:monster#1$ paid %player %gold gold!
 %player finished a quest and recieved %gold gold.
+%player's shadow pickpockets a wandering $random:monster$ for %gold gold.
