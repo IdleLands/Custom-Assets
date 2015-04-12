@@ -32,3 +32,7 @@
 "Fourforce of AGI" agi=10000
 "Fiveforce" str=2500 dex=2500 wis=2500 agi=2500
 "mousepad" int=400 deadeye=4
+"balanced ternary tree" int=1300 luck=30
+"golden gun" str=136 deadeye=22
+"stun gun" prone=1 proneChance=46
+"Handmade Classical Guitar 1969" str=-50 dex=95 agi=40 wis=90 luck=35  offense=-1 vorpal=1
