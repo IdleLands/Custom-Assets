@@ -17,3 +17,5 @@
 "soggy slug" agi=-50 water=175
 "Golden Ratio" goldPercent=61
 "speedrunning snake" haste=8
+"quantal quetzal" luck=12 luckPercent=10
+"utopic unicorn" luck=14 luckPercent=10

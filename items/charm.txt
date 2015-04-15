@@ -2,3 +2,5 @@
 "loaded dice" luck=100
 "ship in a bottle" int=75 wis=25 water=150
 "lucky charm" luck=400
+"holy charm" holyPercent=600
+"7 in 1 lucky charm" luck=65 luckPercent=65

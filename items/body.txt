@@ -7,3 +7,4 @@
 "bandolier" dex=40 con=60 hp=100
 "patchwork cloak" str=80 dex=80 agi=80 con=80 int=80 wis=80 luck=80 sentimentality=80
 "bra" luck=5 con=150 dex=90
+"anti-virus" defense=3

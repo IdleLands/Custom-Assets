@@ -36,3 +36,5 @@
 "golden gun" str=136 deadeye=22
 "stun gun" prone=1 proneChance=46
 "Handmade Classical Guitar 1969" str=-50 dex=95 agi=40 wis=90 luck=35  offense=-1 vorpal=1
+"octree" int=775 intPercent=8
+"vampire killer" holy=3000
