@@ -4,3 +4,4 @@
 "hawk" agi=20
 "bear" str=20
 "lizard" dex=15
+"tofu" wis=25

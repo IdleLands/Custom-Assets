@@ -19,3 +19,6 @@
 "speedrunning snake" haste=8
 "quantal quetzal" luck=12 luckPercent=10
 "utopic unicorn" luck=14 luckPercent=10
+"doctor" hpregenPercent=7
+"speedy cheetah" haste=8
+"courageous crusader" aegis=1

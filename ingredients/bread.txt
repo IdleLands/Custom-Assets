@@ -2,3 +2,4 @@
 "corn" str=16
 "flat" con=20
 "sweet" wis=25
+"donut" con=-10
