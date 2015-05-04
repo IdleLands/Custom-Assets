@@ -13,3 +13,4 @@
 "32-bit" dexPercent=8 intPercent=16 wisPercent=8
 "64-bit" dexPercent=16 intPercent=32 wisPercent=16
 "pre-enchanted" enchantLevel=1
+"Shamrock-Free" -10 luck
