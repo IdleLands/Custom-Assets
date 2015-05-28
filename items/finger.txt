@@ -1,2 +1,3 @@
 "skull ring" str=200 startle=1
 "Ruby Ring" str=50
+"ring of flames" int=5 fire=5
