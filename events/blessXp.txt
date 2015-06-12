@@ -19,3 +19,5 @@ All the people in $random:map$ decided it was time to reward %player for all %hi
 %player remembered something and earned %himherself %xpxp.
 %player caught an arrow in %hisher hand and gained %xpxp!
 %player was playing "Cards Against Norkos" and won a close tie with $random:player$, earning %xpxp!
+%player slowly realized an extraordinary implication and gained %xpxp!
+%player helped a group of senile people cross the road (into danger) and gained %xpxp!

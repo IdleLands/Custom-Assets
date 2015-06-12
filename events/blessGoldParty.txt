@@ -1,3 +1,6 @@
 %partyName meet a friendly troll under a bridge. He shares some of his gold with everyone!
 %partyName opened a bakery and made a ton of dough! Turns out they even made a little bit of gold too.
 %partyName was lucky in the casino and made some gold.
+%partyName's adventure was recorded and presented to the gods as a reality show, and earned a bit of gold from sponsorship!
+%partyName starred in a circus show and was paid in gold!
+%partyName opened a makeshift tavern overcharging other adventurers. They were swiftly shut down for a lack of licenses.

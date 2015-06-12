@@ -1,1 +1,6 @@
 %partyName starts the cult of $dict:deity#1$. $dict:deity#1$ rewards them with %xpxp.
+%partyName had a pizza party of enlightenment!
+%partyName attended a series of cooking classes together, learning to divide workload for complex dishes. And murder.
+%partyName attended a series of boring seminars together. They learnt nothing, but bonded with each other in the process.
+%partyName designed a secret handshake together.
+%partyName sits down and gossip about $random:party$, getting friendier with each other in the process.

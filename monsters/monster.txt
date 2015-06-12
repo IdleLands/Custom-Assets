@@ -11,3 +11,9 @@
 "Experiment .004" class=Cleric level=45 str=90 dex=45 con=50 int=45 wis=225 agi=45
 "Self Destructing Brute" level=50 hp=100000 hpregen=-20000 str=500
 "Super Saiyan" zone=other level=100 class=Fighter agi=9001 dex=9001 wis=9001 con=9001 luck=9001 int=9001 str=9001
+"low mage" zone=forest level=1 class=Mage int=5 wis=3
+"Errin" level=89
+"idle villagers" zone=town level=1
+"human trash" zone=town level=1
+"jack of no trade" zone=forest level=15 class=Generalist str=1 dex=1 con=1 wis=1 int=1 agi=1 luck=1
+"shadowflame quencher" zone=town level=99 class=Monster

@@ -6,3 +6,4 @@
 "lizard" dex=15
 "tofu" wis=25
 "veal" dex=10
+"veal" str=15

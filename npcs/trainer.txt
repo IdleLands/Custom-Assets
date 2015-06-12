@@ -15,3 +15,8 @@
 "Alan Turing" class=Bitomancer
 "Futureman" class=Bitomancer
 "Heavy" class=SandwichArtist
+"Stumblemore" class=Mage
+"Subparway" class=SandwichArtist
+"MCMJ" class=Cleric
+"Lovable" class=Rogue
+"Skelly Temple" class=Necromancer
