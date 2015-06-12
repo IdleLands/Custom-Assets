@@ -5,3 +5,4 @@ Who dares win? Who dares!?
 These two rivals couldn't bottle their anger any longer...
 $combat:party#0$ and $combat:party#1$ engage in the elegant art of feminine conflict!
 $combat:party#1$ turns out to be assassins from the future sent to exterminate $combat:party#0$!
+Who wants to throw a party? $combat:party#0$ does! Now they will try to throw $combat:party#1$ off a cliff!

@@ -16,3 +16,30 @@
 "fart in a bag" int=100 wis=30 darkside=1 poison=1
 "mechanical keyboard" con=300 int=100
 "Meat Shield" con=40 str=15
+"hardened banana" str=5
+"barbell" str=20
+"vibrator" agi=10 dex=15
+"lightspeed vibrator" agi=99 dex=99
+"generic religious object" wis=6 con=6 int=6
+"portable forcefield" con=50 dex=50
+"flattened hundred leaf clover" luck=100 aegis=1
+"pot cover" con=2
+"chopping board" con=3 str=1 dex=1
+"disc of dirt" con=50 earth=50
+"comatose dwarf" con=150 fire=10 earth=25
+"empty canvas" int=3 wis=5
+"ice cream cone" con=5 int=5 ice=50 water=25
+"sauce bottle" dex=17
+"trashy novel" con=1 int=100 wis=100
+"reinforced pancake" str=5 earth=1
+"backup phone" int=9
+"Weatherproof Shield" con=300 fire=150 water=150 thunder=150 ice=150 earth=150
+"offhand remark" wis=1 offense=1
+"backhanded compliment" dex=25 int=5 offense=1
+"wall" con=250
+"castle wall" con=500 aegis=1
+"imaginary shield" aegis=1 con=-5
+"firewall" int=100 wis=100 aegis=1
+"blackboard" con=10 int=50
+"pizza" con=15 agi=5 str=5 fire=5
+"cheese wheel" con=35 str=15 ice=15

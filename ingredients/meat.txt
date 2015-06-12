@@ -7,3 +7,7 @@
 "tofu" wis=25
 "veal" dex=10
 "veal" str=15
+"tofurkey" con=12
+"soylent green" luck=20
+"goldfish" luck=25
+"anchovy" str=10 water=5

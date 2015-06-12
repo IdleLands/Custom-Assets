@@ -1,2 +1,10 @@
 "fingerless gloves" agi=100 dex=100
 "sock puppet" int=120
+"sockpuppet" intPercent=1 strPercent=1 dexPercent=1 conPercent=1 wisPercent=1 agiPercent=1
+"disposable plastic gloves" dex=2
+"hand cream" agi=50 dex=25
+"stonefist" con=50 earth=15
+"arm ring" str=25 con=25
+"hand-shaped forcefield" con=500 aegis=1
+"ring of protection" con=10 defense=1
+"potato ring" str=5 con=5

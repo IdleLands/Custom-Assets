@@ -3,3 +3,11 @@
 "flat" con=20
 "sweet" wis=25
 "donut" con=-10
+"corn" con=50
+"shortbread" str=1 dex=1 con=5 agi=5
+"brioche" dex=15
+"panini" luck=18
+"pain" str=50
+"pain de campagne" dex=20 agi=15
+"baguette" con=15 str=5
+"Mantou" luck=5 agi=5

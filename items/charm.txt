@@ -5,3 +5,4 @@
 "holy charm" holyPercent=600
 "7 in 1 lucky charm" luck=65 luckPercent=65
 "ring of sparks" int=5 thunder=5
+"8 ball clover" luck=8 con=8

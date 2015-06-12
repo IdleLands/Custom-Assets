@@ -2,3 +2,5 @@
 %player can not remember where %hisher last party wandered off to, so %she forms "%partyName" with %partyMembers!
 %player streaks through chat. %partyMembers like what they see. %partyName was formed as a result!
 After taking some summoning classes, %player wants to try %hisher new skills and summons %partyMembers and forms the new party "%partyName".
+Angry at the lack of invitations to a lemon party, %player has formed "%partyName" with %partyMembers.
+Unable to throw a party, %player has decided to join "%partyName" with %partyMembers!

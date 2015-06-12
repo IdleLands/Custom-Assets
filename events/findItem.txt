@@ -5,3 +5,4 @@
 %player begged for 5 hours in the trade chat and $random:player#1$ was so annoyed and sent %himher %item.
 %player looked into his pocket and found %hisher lost %item.
 %player finds %item hidden beneath a tree.
+%player found a %item when it was sent through Amazon as a surprise for 2 billionth purchase!
