@@ -1,3 +1,368 @@
+# mostly str
+"bit" int=1 prone=1
+"ice cream cone" str=1 ice=1
+"arrow" str=3 deadeye=1
+"spoon" str=4
+"rusty spoon" str=5
+"sharp stick" str=6 vorpal=1
+"watermelon" str=7
+"hatchet" str=8
+"knife" str=9
+"glaive" str=11
+"axe" str=15
+"dragonslayer" str=16 silver=1
+"kris" str=17
+"fisticuffs" str=18
+"knuckles" str=19
+"whip" str=20
+"fangs" str=21 power=1
+"shortsword" str=23
+"tonfa" str=25
+"dirk" str=27
+"kukri" str=29
+"nunchucks" str=30
+"sword" str=32
+"war-axe" str=34
+"estoc" str=36
+"jackknife" str=38
+"flail" str=40 offense=1
+"cudgel" str=42
+"scimitar" str=44 defense=1
+"bullet" str=46
+"cutlass" str=48
+"mattock" str=50
+"awl-pike" str=52
+"dagger" str=54
+"mace" str=56
+"morning star" str=58
+"four-by-four" str=60
+"fleuret" str=62
+"claws" str=64
+"epee" str=66
+"claymore" str=68
+"lance" str=70
+"halberd" str=72 offense=2
+"spear" str=74 crit=1
+"billboard" str=76
+"voulge" str=78
+"gladius" str=80
+"talwar" str=82 offense=2
+"longsword" str=84
+"throwing knife" str=86
+"throwing sword" str=88
+"throwing car" str=90
+"falx" str=92
+"harpoon" str=94
+"barong" str=96
+"falchion" str=98 silver=1
+"Full Ale Bottle" str=100 power=1 offense=2
+"cheese wheel" str=100
+"toaster" str=102 fire=20
+"large trout" str=104 offense=2 defense=2
+"snowball" str=106 ice=50
+"machine" str=108
+"shard of glass" str=110 vorpal=1
+"twig" str=112
+"tail" str=114
+"scythe" str=116 power=1
+"warhammer" str=118
+"shuriken" str=120
+"chakram" str=122
+"bucket" str=124 defense=4
+"sling" str=126
+"longbow" str=128
+"crossbow" str=130 deadeye=1
+"greatmace" str=132
+"javelin" str=134
+"gun" str=136
+"partisan" str=138
+"blowgun" str=140 poison=1
+"bazooka" str=142
+"blowzooka" str=144 offense=1 deadeye=1 vorpal=1
+"cannon" str=146
+"rifle" str=148 deadeye=1
+"raygun" str=150
+"flyssa" str=152
+"flyswatter" str=154
+"greataxe" str=156
+"pet rock" str=158
+"glaive" str=160
+"billhook" str=166 vorpal=1
+"tsurigi" str=172
+"stompin' boots" str=178
+"longerbow" str=184
+"zweihander" str=190
+"grayswandir" str=196
+"Vacuum Gun" str=200 power=1 offense=3
+"razor" str=202 vorpal=1
+"eight-by-four" str=208
+"bastardsword" str=214
+"party cannon" str=220
+"muramasa" str=226 silver=1
+"bloodsword" str=232 power=1 vorpal=1
+"sleepsword" str=238
+"flaming arrow" str=244 fire=50
+"frozen arrow" str=250 ice=50
+"spark arrow" str=256 thunder=50
+"torrent arrow" str=262 water=50
+"earthen arrow" str=268 earth=50
+"curative arrow" str=274 heal=50
+"flamewhip" str=286 fire=80
+"frostwhip" str=298 ice=80
+"Gigasword" str=300 power=1 offense=4
+"shockwhip" str=310 thunder=80
+"vinewhip" str=322 earth=80
+"aquawhip" str=334 water=80
+"arbalest" str=346
+"sniper rifle" str=358 deadeye=1
+"m80" str=360
+"deagle" str=372
+"claimh solais" str=384 holy=50
+"uzi" str=396
+"shotgun" str=408
+"minigun" str=420
+"pinto" str=432
+"monado" str=444
+"infinity edge" str=456 crit=1
+"drillbit" str=468 luck=13
+"killer7" str=480 vorpal=1
+"swordchucks" str=492
+"Pinto of Poke" str=500 offense=6
+"graytooth" str=504
+"pet hellhound" str=516
+"crossblade" str=528 vorpal=1 crit=1 offense=1
+"car" str=540 prone=1 silver=1 power=1
+"lightspear" str=552 silver=1
+"lightsword" str=564 silver=1
+"ponybane" str=576
+"holyspear" str=588 silver=1
+"Mom's Knife" str=600 power=1 vorpal=1 offense=1
+"dragon-killing hands" str=620 silver=1
+"skullcrusher" str=640 power=1
+"crystal gun" str=680
+"Magicbane, Bane of Magic" str=700
+"dumpster" str=720
+"gungnir" str=740 deadeye=1 vorpal=1 luck=14
+"tree" str=760
+"Dragon Tree" str=800
+"kikuichimonki" str=820 luck=16
+"evertree" str=840
+"pine tree" str=880
+"gecko tree" str=920
+"flying car" str=960
+"Johnny's Plank" str=900
+"Deathbringer" str=1000 vorpal=1
+"Kusanagi" str=1100
+"Smashing Board" str=1200
+"Turbo Jet Engine" str=1300 dance=1
+"durganball" str=1350
+"Dragonball" str=1400
+"Blade of Infinity" str=1500 offense=1 vorpal=1 silver=1 crit=1
+
+# mostly int
+"byte" int=4 prone=1
+"card" int=6
+"pill" int=7
+"book" int=8
+"scriptures" int=14 deadeye=1
+"deck of cards" int=15 luck=3
+"joystick" int=16 luck=4
+"paper plate" int=17
+"ice cube" int=18 ice=30
+"glowstick" int=19 luck=5
+"whiteboard" int=20
+"tome" int=21
+"sitar" int=23
+"harmonica" int=25
+"flute" int=27 silver=1
+"trumpet" int=30
+"bagpipes" int=33
+"harpsichord" int=35
+"mandolin" int=37
+"ukelele" int=39
+"lyre" int=41
+"pen" int=42
+"shamshir" int=45 luck=6
+"orange creamsicle" int=47 ice=10
+"chinese finger trap" int=49 prone=1
+"flip-phone" int=51
+"crosier" int=53 silver=1
+"subway sub" int=57 luck=7
+"rod" int=59
+"scepter" int=61
+"pole" int=63
+"baton" int=65
+"lute" int=67
+"d2" int=68
+"bell" int=69
+"shell" int=71
+"viola" int=73
+"option" int=75 sentimentality=10 luck=8
+"staff" int=77
+"travel pamphlet" int=79
+"ayuvir" int=81 sentimentality=50 luck=-10
+"contraption" int=83
+"utensil" int=85
+"d4" int=86
+"orb" int=87
+"device" int=89
+"perpetually spinning object" int=91 luck=10
+"pokeball" int=93
+"rosary" int=97 silver=1
+"tears" int=99
+"Din's Fire" int=100 fire=300
+"magic magazine" int=101
+"pillow" int=103
+"d8" int=104
+"reflector" int=105
+"knitting needles" int=107
+"king of hearts" int=109 offense=1 sentimentality=100
+"queen of clubs" int=111 offense=1
+"jack of diamonds" int=113 offense=1
+"chunk of ice" int=115 ice=50 offense=1
+"ace of spades" int=117 offense=1 defense=1 crit=1 luck=10
+"Newton's Cradle" int=119 crit=3
+"philosopher's stone" int=121
+"armcannon" int=123
+"ultraball" int=130
+"gaming laptop" int=137 thunder=50
+"fireflower" int=144
+"body pillow" int=151
+"wand" int=158
+"d12" int=163
+"magic wand" int=165
+"supermagic wand" int=172 luck=1
+"megamagic wand" int=179 luck=2
+"gigamagic wand" int=186 luck=3
+"omegamagic wand" int=193 luck=4
+"alphamagic wand" int=200 luck=5
+"rock candy" int=207
+"chaos emerald" int=214 luck=12
+"ballpoint pen" int=221
+"defibrillator" int=228 thunder=75
+"giant atom" int=239
+"d17" int=244
+"whisker" int=250
+"storm wand indra" int=261 thunder=100
+"fire scepter agni" int=272 fire=100
+"ice staff dagon" int=283 water=100
+"smartphone" int=294
+"d20" int=298
+"Faore's Wind" int=300 dancing=1
+"flame crystal" int=305 fire=600
+"water crystal" int=316 water=600
+"earth crystal" int=327 earth=600
+"ice crystal" int=338 ice=600
+"d100" int=345
+"thunder crystal" int=349 thunder=600
+"kilobyte" int=350 prone=1
+"deathswat" int=371
+"whatisthis" int=392 luck=20 glowing=1
+"Naryu's Love" int=400 silver=1
+"steelhorn" int=413
+"Chaos Grid" int=500
+"silver egg" int=550 luck=-1
+"Notepad++" int=600
+"binary tree" int=625 luck=15
+"ternary tree" int=650
+"quaternary tree" int=675
+"Sublime Text" int=700
+"Sublime Text Too" int=701
+"Golden Egg" int=800 luck=17
+"Macbook Pro" int=900
+"Phantom Tiny Bluescreen" int=1000
+"Bucket of Glitter" int=1100 glowing=1
+"Nuclear Reactor" int=1200 firePercent=10
+"Absolute Zero Chamber" int=1300 icePercent=10
+"Masterball" int=1400 deadeye=1
+"Staff of Infinity" int=1500 offense=1 sentimentality=25
+
+# hybrid int / str
+"cupcake" int=3 str=3
+"sandwich" str=5 int=5 luck=1
+"cane" int=6 str=2
+"pancake" str=7 int=3
+"notepad" int=9 str=3
+"bar" str=8 int=2
+"flowerpot" str=15 int=15 earth=20
+"trident" str=30 int=20
+"tristaff" str=31 int=30
+"runeaxe" str=75 int=55
+"excalipoor" str=80 int=80
+"brazier" fire=100 str=70 int=30
+"blazier" fire=300 str=110 int=70
+"swordcane" str=150 int=50 luck=11
+"sunsword" str=170 int=55
+"murasame" str=218 int=60
+"masamune" str=235 int=80 silver=1
+"mythblade" str=90 int=267
+"flametongue" str=100 int=305 fire=150
+"icebrand" str=110 int=305 ice=80
+"mjollnir" str=335 int=200 thunder=150
+"Punisher" int=400 str=150
+"excalibar" str=400 int=250 silver=1 deadeye=1
+"Excalibur" str=503 int=300 silver=1 deadeye=1
+"computer" str=600 int=200 thunder=100
+"popsicle stick" str=200 int=850
+"nexus" str=300 int=655
+"snickersnee" str=400 int=900
+"popsicle" str=630 int=400 ice=200 prone=1
+"Ziltoid's Touch" int=350 str=350 silver=1 offense=1 defense=1 dancing=1
+"MadCatz Tournament Edition Arcade Stick" int=595 str=200
+"book: 49 shades of idlin'" str=375 int=375
+"Book: 50 Shadows over Idliathlia" str=400 int=400
+"book: 28 days idlier" str=425 int=425
+
+# hybrid str / agi
+"rapier" str=7 agi=5 silver=1
+"kunai" str=10 agi=3
+"hammer" str=18 agi=-4
+"saber" str=53 agi=27 vorpal=1
+"broadsword" str=70 agi=-20
+"pet hedgehog" str=53 agi=50
+"jetengine" str=245 agi=150
+
+# hybrid str / dex
+"butcher blade" str=135 dex=-30
+"yasha" str=100 dex=220
+
+# hybrid int / agi
+"sceptre" int=61 agi=30
+"cube" int=63 agi=35
+"manual" int=65 agi=40
+"vial" int=67 agi=45
+
+# hybrid int / con
+"pet turtle" int=54 con=50
+
+# hybrid str / con
+"sange" str=250 con=70
+
+# hybrid int / wis
+"staff of healing" int=30 wis=100
+"Lord of Vermillion" int=500 wis=200 power=1
+
+# 3 stat hybrids
+"trusty handgun" str=100 int=90 agi=60 fire=10 crit=5 offense=3
+"downvote" str=250 int=-50 wis=-50
+"wad o' cash" str=350 int=100 wis=-50
+"tomato" str=275 agi=75 dex=85
+"peculiar object" str=400 int=-300 wis=-200 mp=500 glowing=3
+
+# 4 stat hybrids
+"Banhammer" str=350 int=100 wis=100 con=-100
+"homeless person" str=500 int=200 wis=-100 dex=400
+
+# idle-class
+"Wingsaber, Whirling Blade of the Idling Gods" str=5000 silver=1 offense=1 prone=1
+
+# godly-class
+"Godly Imagination" str=5000 int=3500
+
+# celestial something or another
+"Celestial Cutlass" str=1000 dex=1000 con=1000 agi=1000 wis=1000 luck=1000 glowing=1 parry=1 offense=1 power=1 silver=1
+
+# custom
 "Pan Galactic Gargle Blaster" wis=500 agi=500 water=100
 "Commit Log" str=250 int=300 wis=-100 con=700
 "lasso" dex=102
