@@ -1,3 +1,117 @@
+# useless
+"birthday suit"
+
+# agi
+"toga" agi=1
+"frock" agi=10
+"smock" agi=16
+"wok" agi=32
+
+# con
+"lace" con=-1 luck=1
+"flannel" con=2
+"paladinmail" con=30 defense=1
+"mithril mail" con=150
+"diamond mail" con=200
+"high-tech armor" con=240
+"winner's shirt" con=270
+"ABS" con=300
+
+# con / wis
+"lifesaver" con=50 wis=80
+
+# agi / con
+"tunic" agi=1 con=1
+"cloak" agi=1 con=4
+"vest" agi=2 con=8
+"robe" agi=3 con=2
+"chiton" agi=3 con=15
+"lamellar" agi=3 con=17
+"coat" agi=4 con=4
+"pelt" agi=5 con=2
+"brigandine" agi=7 con=20
+"plate mail" agi=7 con=32
+"garb" agi=8 con=2
+"cuirass" agi=10 con=20 
+"breastplate" agi=10 con=28
+"banded mail" agi=12 con=20
+"tempered chestplate" agi=15 con=70 
+"chain mail" agi=20 con=16
+"ring mail" agi=25 con=7
+"hauberk" agi=25 con=19
+"riot armor" agi=25 con=25
+"haubergeon" agi=27 con=15
+"scale mail" agi=30 con=30
+"combat vest" agi=30 con=100
+"invisible armor" agi=50 con=150
+"holy garb" agi=120 con=30
+"Viking Armor" con=175 agi=75
+"Space Suit" agi=200 con=300
+"Pokemon Pelt" agi=201 con=151
+"Tuxedo" agi=250 con=100
+"Invisibility Cloak" agi=300 con=100
+"Baron's Cape" agi=400 con=100
+"Sentinel Armor" agi=100 con=550
+"Mazinger Z" agi=350 con=350
+"Armor of Dawn and Twilight" agi=500  con=500 defense=1
+
+# agi / str
+"gi" agi=15 str=3
+
+# con / str
+"rock hard physique" con=160 str=20
+
+# agi/con/dex
+"scale mail" agi=21 con=20 dex=2
+"splint mail" agi=20 con=13 dex=10
+"macrame"  agi=7 con=15 dex=10
+"Suit of Belts" agi=30 con=320 dex=30
+"Kevlar" agi=50 con=200 dex=50
+
+# agi/con/luck
+"fullplate" agi=10 con=35 luck=3
+"dragonscale mail" agi=50 con=30 luck=5
+"byrnie" agi=17 con=15 luck=2
+
+# agi/con/str 
+"dragonscale armor" agi=100 con=100 str=30
+
+# agi/con/wis
+"bustier"  agi=5 con=15 wis=1
+"squishy squish" agi=15 con=80 wis=20
+"Bill Cosby's Sweater" agi=500 con=300 wis=50
+
+# agi/int/str 
+"canvas" agi=10 int=10 str=10
+
+# con/dex/wis
+"burlap" con=10 dex=10 wis=10
+
+# con/int/str
+"Glass Mail" con=1  int=200 str=200
+
+# con/int/wis
+"beautiful dress" con=100 int=60 wis=100
+"Gem Sweater" con=150 int=90 wis=90
+
+# n-stat
+"The Black Box of Reverse" str=-10 con=-10 dex=-10 int=50 wis=50 agi=50
+"Super Tie Dye Shirt" str=70 con=70 int=70 wis=70 dex=70 luck=10
+"Plasma Mail" int=100 con=450 dex=50 str=50 agi=100 offense=1
+
+# luck
+"luck mail" luck=15
+
+# idle-class
+"Avaracious Armor of the Idling Gods" wis=1500 luck=500 con=300 defense=1 darkside=1 sturdy=1
+
+# godly-class
+"Velociraptor" str=5000 dex=2000 con=1000 offense=1
+
+# celestial something or another
+"Celestial Chestpiece" str=1000 dex=1000 con=1000 agi=1000 wis=1000 luck=1000 glowing=1 parry=1 defense=1
+
+# custom
 "Apocalyptic Sticky Notes" str=200 dex=200 int=200 wis=-200
 "lab coat" int=75 wis=75 mp=500
 "turtle scale mail" str=150 agi=-30 luck=10
