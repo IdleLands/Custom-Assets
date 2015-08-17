@@ -1,3 +1,16 @@
+%partyName went to the library for a group study session.
+%partyName had group practice at the local gym.
+%partyName shares stories around the campfire, some of which are educational.
+%partyName orders a magical experience pizza, and each member gets a piece!
+%partyName wins a synchronized swim meet.
+%partyName wins "Scariest Group Costume" at the Halloween party. They weren't dressed up.
+%partyName has a team-building exercise, improving synergy across the board.
+%partyName wins the lottery with a group ticket, which is promptly destroyed in the celebration. Well, they learned their lesson at least.
+%partyName runs a co-op dungeon in Satan -4, and their teamwork improves a bit.
+%partyName attends a group workshop, and learn how to be better adventurers.
+%partyName meets up with $random:party$ and they work together briefly, but break it off before the experience points are split up.
+%partyName stumbles across $random:party$ and they train together! Too bad the experience was gained by only one team.
+%partyName attended a series of dancing classes together.  Now they can dodge more fabulously!
 %partyName starts the cult of $dict:deity#1$. $dict:deity#1$ rewards them with %xpxp.
 %partyName had a pizza party of enlightenment!
 %partyName attended a series of cooking classes together, learning to divide workload for complex dishes. And murder.
