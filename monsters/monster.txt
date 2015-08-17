@@ -548,6 +548,8 @@
 "kawaii-kin"            zone=town   level=96   class=Jester
 "tableflip-kin"         zone=town   level=97   class=Jester
 "dickbutt-kin"          zone=town   level=100   class=Jester
+
+# custom
 "Miniature Toy Soldiers" level=2 class=Fighter str=5
 "Oversized Toy Soldiers" level=32 class=Fighter str=1200 con=200 dex=500
 "crab" zone=water level=18 str=355 agi=120 con=10 defense=1
