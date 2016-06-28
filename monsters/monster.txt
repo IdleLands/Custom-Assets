@@ -23,7 +23,7 @@
 "kitty"                 zone=town level=6 int=3 wis=2
 "hippie"                zone=town level=8 dex=-10
 "hillbilly"             zone=town level=10 agi=-5 dex=100
-"hipster"               zone=town level=12 luck=-10 agi=-5 str=-5 con=200
+"hipster"               zone=town level=12 luk=-10 agi=-5 str=-5 con=200
 "rat"                   zone=town level=14 agi=100 dex=50 dodge=1
 "dog"                   zone=town level=16 str=100 agi=50 offense=1
 "cat"                   zone=town level=18 int=100 str=90 defense=1
@@ -40,7 +40,7 @@
 "internetizen"          zone=town level=60 class=Bard wis=3000 int=3000
 
 # alliterate creatures
-"energetic evangelist"      zone=town   level=4     class=Bard int=10 wis=10 luck=5
+"energetic evangelist"      zone=town   level=4     class=Bard int=10 wis=10 luk=5
 "snorting squirrel"         zone=forest level=8     int=-4 str=3 wis=15 dodge=1
 "apathetic agnostic"        zone=town   level=12    class=Mage int=160 wis=10 str=-10 dex=-10 con=-10
 "radioactive rabbit"        zone=forest level=16    int=110 str=120 dex=120 con=-10 prone=1
@@ -49,12 +49,12 @@
 "killer kobold"             zone=cave   level=26    class=Rogue dex=300 str=300 agi=300
 "welsh warthog"             zone=forest level=28    class=Fighter str=650 con=350
 "helpful hedgehog"          zone=forest level=32    class=Cleric wis=900
-"bustling badger"           zone=forest level=36    class=Generalist wis=300 con=300 dex=300 agi=300 int=300 str=300 luck=40
+"bustling badger"           zone=forest level=36    class=Generalist wis=300 con=300 dex=300 agi=300 int=300 str=300 luk=40
 "jumping jackalope"         zone=forest level=40    class=Rogue agi=500 dex=300 str=300
 "pop-up pirate"             zone=water  level=42    class=Pirate con=700 str=300
 "castrated cat"             zone=town   level=44    dex=-100 str=-100 con=3000
 "gnarly goblin"             zone=cave   level=47    str=300 dex=700 con=400
-"goofy gopher"              zone=town   level=48    wis=300 int=3000 luck=40 agi=200
+"goofy gopher"              zone=town   level=48    wis=300 int=3000 luk=40 agi=200
 "slippery seal"             zone=town   level=52    agi=2000
 "gelatinous jabberwocky"    zone=forest level=56    agi=500 dex=500 con=1000
 "disgruntled developer"     zone=town   level=58    class=Bitomancer agi=500 dex=1500 int=1500
@@ -70,7 +70,7 @@
 "karmic koala"              zone=forest level=92    int=5000 agi=5000 con=5000 str=10000
 "herping heron"             zone=forest level=94    water=100000 int=30000
 "derping deer"              zone=forest level=96    agi=-4000 str=30000 dex=-2000 int=-1000 con=2000
-"fascist fauna"             zone=forest level=98    agi=3000 dex=3000 wis=3000 con=3000 luck=3000 int=3000 str=3000
+"fascist fauna"             zone=forest level=98    agi=3000 dex=3000 wis=3000 con=3000 luk=3000 int=3000 str=3000
 
 # water monsters
 "rubber duck"       zone=water level=1 str=1 dex=1
@@ -119,7 +119,7 @@
 "space anemone"             zone=cave level=20 str=300 agi=-200 int=-500
 "tiny alien"                zone=cave class=Rogue level=28 str=200 agi=300 dex=240 int=400
 "basement hacker"           zone=cave class=Bitomancer level=32 dex=200 agi=300 int=600
-"group of lizards in a trenchcoat" zone=cave class=Jester level=50 luck=1000
+"group of lizards in a trenchcoat" zone=cave class=Jester level=50 luk=1000
 
 # undead entities
 "olde zombie"               zone=town level=5 int=-10 str=-10 dex=-10 con=-10 agi=-10 wis=10
@@ -139,7 +139,7 @@
 "vampyre"                   zone=town level=55 class=Mage int=1000 fire=5000
 "abomination"               zone=town level=65 class=Barbarian str=2000 con=2000 dex=1000 agi=1000 hp=10000
 "wandering spirit"          zone=town level=75 class=Rogue str=3000 dex=5000 agi=5000
-"vampiric gun-slinging samurai space pirate ninja robot schoolgirl" class=Random level=100 agi=2000 dex=2000 wis=2000 con=2000 luck=2000 int=2000 str=2000
+"vampiric gun-slinging samurai space pirate ninja robot schoolgirl" class=Random level=100 agi=2000 dex=2000 wis=2000 con=2000 luk=2000 int=2000 str=2000
 
 # extraplanar entities
 "satanist"                  zone=other level=3
@@ -157,7 +157,7 @@
 "succubus"                  zone=other level=69
 "deity avatar"              zone=other level=75
 "anonymous"                 zone=other level=77 class=Bitomancer str=4500 con=4500 int=2000
-"demigod"                   zone=other level=81 class=Random agi=5000 dex=5000 wis=5000 con=5000 luck=1000 int=5000 str=5000
+"demigod"                   zone=other level=81 class=Random agi=5000 dex=5000 wis=5000 con=5000 luk=1000 int=5000 str=5000
 "incubator"                 zone=other level=100 class=Mage int=40000
 
 # other civilized beings
@@ -215,13 +215,13 @@
 ►   level=70
 
 # generic entities
-"generalist"            zone=forest level=1 class=Generalist str=8 dex=8 con=8 wis=8 int=8 agi=8 luck=8
+"generalist"            zone=forest level=1 class=Generalist str=8 dex=8 con=8 wis=8 int=8 agi=8 luk=8
 "fighter"               zone=forest level=2 class=Fighter str=50 con=10
 "mage"                  zone=forest level=3 class=Mage int=60
 "cleric"                zone=forest level=4 class=Cleric wis=60
 "barbarian"             zone=forest level=5 class=Barbarian str=30 con=30
 "bard"                  zone=forest level=6 class=Bard int=30 wis=30
-"jester"                zone=forest level=7 class=Jester luck=60
+"jester"                zone=forest level=7 class=Jester luk=60
 "rogue"                 zone=forest level=8 class=Rogue agi=40 dex=30 str=20
 "druid"                 zone=forest level=9 class=Druid wis=40 str=10 dex=10 int=30
 "sandwich artist"       zone=forest level=10 class=SandwichArtist dex=70 str=30 wis=60
@@ -234,14 +234,14 @@
 
 # gnomish beings
 "gnome"                 zone=forest level=13
-"gnome shuffler"        zone=forest level=13 class=Random str=111 dex=111 int=111 con=111 wis=111 agi=111 luck=11
-"gnome nudist"          zone=forest level=13 class=Generalist str=111 dex=111 int=111 con=111 wis=111 agi=111 luck=11
+"gnome shuffler"        zone=forest level=13 class=Random str=111 dex=111 int=111 con=111 wis=111 agi=111 luk=11
+"gnome nudist"          zone=forest level=13 class=Generalist str=111 dex=111 int=111 con=111 wis=111 agi=111 luk=11
 "gnome rager"           zone=forest level=13 class=Barbarian str=251 dex=111 con=221
 "gnome fighter"         zone=forest level=13 class=Fighter str=113 dex=112 con=124
 "gnome cleric"          zone=forest level=13 class=Cleric wis=125 str=121
 "gnome singer"          zone=forest level=13 class=Bard int=241 wis=241
 "gnome magicslinger"    zone=forest level=13 class=Mage int=50
-"gnome loller"          zone=forest level=13 class=Jester luck=100
+"gnome loller"          zone=forest level=13 class=Jester luk=100
 "gnome stealer"         zone=forest level=13 class=Rogue dex=70 agi=70
 "gnome foodmaker"       zone=forest level=13 class=SandwichArtist dex=90 str=50
 "gnome swashbuckler"    zone=water  level=13 class=Pirate con=100 str=50
@@ -255,14 +255,14 @@
 # human beings
 "human"                 zone=town level=18
 "human child"           zone=town level=17
-"human shuffler"        zone=town level=18 class=Random str=211 dex=211 int=211 con=211 wis=211 agi=211 luck=11
-"human nudist"          zone=town level=18 class=Generalist str=211 dex=211 int=211 con=211 wis=211 agi=211 luck=11
+"human shuffler"        zone=town level=18 class=Random str=211 dex=211 int=211 con=211 wis=211 agi=211 luk=11
+"human nudist"          zone=town level=18 class=Generalist str=211 dex=211 int=211 con=211 wis=211 agi=211 luk=11
 "human barbarian"       zone=town level=18 class=Barbarian str=400 dex=200 con=300
 "human fighter"         zone=town level=18 class=Fighter str=300 dex=200 con=300
 "human cleric"          zone=town level=18 class=Cleric wis=500 con=300
 "human bard"            zone=town level=18 class=Bard int=500 wis=500 con=100
 "human mage"            zone=town level=18 class=Mage int=1000
-"human jester"          zone=town level=18 class=Jester luck=300
+"human jester"          zone=town level=18 class=Jester luk=300
 "human rogue"           zone=town level=18 class=Rogue dex=500 agi=500
 "human sandwich artist" zone=town level=18 class=SandwichArtist dex=480 str=300 wis=250
 "human buccaneer"       zone=town level=18 class=Pirate con=500 str=500
@@ -274,14 +274,14 @@
 
 # kobold beings
 "kobold"                zone=cave level=26
-"kobold shuffler"       zone=cave level=26 class=Random str=311 dex=311 int=311 con=311 wis=311 agi=311 luck=11
-"kobold nudist"         zone=cave level=26 class=Generalist str=311 dex=311 int=311 con=311 wis=311 agi=311 luck=11
+"kobold shuffler"       zone=cave level=26 class=Random str=311 dex=311 int=311 con=311 wis=311 agi=311 luk=11
+"kobold nudist"         zone=cave level=26 class=Generalist str=311 dex=311 int=311 con=311 wis=311 agi=311 luk=11
 "kobold warrior"        zone=cave level=26 class=Fighter str=700 dex=300 con=500
 "kobold caster"         zone=cave level=26 class=Mage int=1000 con=200
 "kobold curist"         zone=cave level=26 class=Cleric wis=1000 con=300
 "kobold chanter"        zone=cave level=26 class=Bard int=650 wis=650
 "kobold zerker"         zone=cave level=26 class=Barbarian str=1500
-"kobold jester"         zone=cave level=26 class=Jester luck=400
+"kobold jester"         zone=cave level=26 class=Jester luk=400
 "kobold lockpick"       zone=cave level=26 class=Rogue dex=500 str=500 agi=500 con=200
 "kobold foodie"         zone=cave level=26 class=SandwichArtist dex=1000 wis=300 str=500
 "kobold privateer"      zone=water level=26 class=Pirate con=1000 str=750
@@ -292,8 +292,8 @@
 
 # orcish beings
 "orc"                   zone=cave level=35
-"orc shuffler"          zone=cave level=35 class=Random str=400 dex=400 int=400 con=400 wis=400 agi=400 luck=20
-"orc nudist"            zone=cave level=35 class=Generalist str=400 dex=400 int=400 con=400 wis=400 agi=400 luck=20
+"orc shuffler"          zone=cave level=35 class=Random str=400 dex=400 int=400 con=400 wis=400 agi=400 luk=20
+"orc nudist"            zone=cave level=35 class=Generalist str=400 dex=400 int=400 con=400 wis=400 agi=400 luk=20
 "orc brawler"           zone=cave level=35 class=Barbarian str=900 con=700 dex=400
 "orc rockstar"          zone=cave level=35 class=Bard int=900 wis=900
 "orc spy"               zone=cave level=35 class=Rogue dex=600 str=800 agi=600
@@ -302,7 +302,7 @@
 "orc holyfighter"       zone=cave level=35
 "orc boomcaster"        zone=cave level=35 class=Mage int=1500
 "orc healer"            zone=cave level=35 class=Cleric wis=1500
-"orc fool"              zone=cave level=35 class=Jester luck=500
+"orc fool"              zone=cave level=35 class=Jester luk=500
 "orc sandwich guy"      zone=cave level=35 class=SandwichArtist dex=1300 str=400 wis=200
 "orc drunkard"          zone=cave level=35 class=Pirate con=1000 str=500
 "orc technologist"      zone=cave level=35 class=Bitomancer int=1000 dex=500
@@ -312,15 +312,15 @@
 
 # skeletal beings
 "skeleton"              zone=cave level=41
-"skeleton shuffler"     zone=cave level=41 class=Random str=500 dex=500 int=500 con=500 wis=500 agi=500 luck=50
-"skeleton nudist"       zone=cave level=41 class=Generalist str=500 dex=500 int=500 con=500 wis=500 agi=500 luck=50
+"skeleton shuffler"     zone=cave level=41 class=Random str=500 dex=500 int=500 con=500 wis=500 agi=500 luk=50
+"skeleton nudist"       zone=cave level=41 class=Generalist str=500 dex=500 int=500 con=500 wis=500 agi=500 luk=50
 "skeleton mage"         zone=cave level=41 class=Mage int=1900
 "skeleton witch"        zone=cave level=41 class=Bard int=1100 wis=1100
 "skeleton meathead"     zone=cave level=41 class=Barbarian str=2000
 "skeleton stabber"      zone=cave level=41 class=Fighter str=1000 dex=300 con=700
 "skeleton sneaker"      zone=cave level=41 class=Rogue str=800 con=800 dex=800
 "skeleton healer"       zone=cave level=41 class=Cleric wis=1900
-"skeleton jester"       zone=cave level=41 class=Jester luck=600
+"skeleton jester"       zone=cave level=41 class=Jester luk=600
 "skeleton enhungerer"   zone=cave level=41 class=SandwichArtist dex=1500 str=500 wis=-300
 "skeleton pirate"       zone=cave level=41 class=Pirate con=1350 str=550
 "skeleton bitmaster"    zone=cave level=41 class=Bitomancer int=1900
@@ -330,12 +330,12 @@
 
 # half-orc beings
 "half-orc"                  zone=cave level=46
-"half-orc shuffler"         zone=cave level=46 class=Random str=600 dex=600 int=600 con=600 wis=600 agi=600 luck=100
-"half-orc nudist"           zone=cave level=46 class=Generalist str=600 dex=600 int=600 con=600 wis=600 agi=600 luck=100
+"half-orc shuffler"         zone=cave level=46 class=Random str=600 dex=600 int=600 con=600 wis=600 agi=600 luk=100
+"half-orc nudist"           zone=cave level=46 class=Generalist str=600 dex=600 int=600 con=600 wis=600 agi=600 luk=100
 "half-orc giant"            zone=cave level=46 class=Barbarian str=2500
 "half-orc fighter"          zone=cave level=46 class=Fighter str=1200 dex=400 con=500
 "half-orc magicer"          zone=cave level=46 class=Mage int=2100
-"half-orc jester"           zone=cave level=46 class=Jester luck=700
+"half-orc jester"           zone=cave level=46 class=Jester luk=700
 "half-orc hider"            zone=cave level=46 class=Rogue str=1000 agi=800 dex=400
 "half-orc healer"           zone=cave level=46 class=Cleric wis=1800 con=400
 "half-orc sandwicher"       zone=cave level=46 class=SandwichArtist dex=1500 str=300 wis=500
@@ -352,7 +352,7 @@
 "goblin giant"          zone=cave level=51 class=Barbarian str=2300 dex=300 con=500
 "goblin fighter"        zone=cave level=51 class=Fighter str=1500 dex=1200 con=300
 "goblin magicer"        zone=cave level=51 class=Mage int=2200 con=500
-"goblin jester"         zone=cave level=51 class=Jester luck=800
+"goblin jester"         zone=cave level=51 class=Jester luk=800
 "goblin hider"          zone=cave level=51 class=Rogue str=800 agi=1300 dex=300
 "goblin healer"         zone=cave level=51 class=Cleric wis=2200 agi=500
 "goblin foodmaker"      zone=cave level=51 class=SandwichArtist dex=2000 str=300 wis=200
@@ -375,7 +375,7 @@
 "half-human giant"      zone=cave level=57 class=Bard int=1000 wis=1000
 "half-giant human"      zone=cave level=57 class=Rogue dex=1000 agi=1000 str=500
 "half-kobold giant"     zone=cave level=57 class=Cleric wis=3000
-"half-giant giant"      zone=cave level=57 class=Jester luck=750
+"half-giant giant"      zone=cave level=57 class=Jester luk=750
 "half-elf giant"        zone=cave level=57 class=SandwichArtist dex=3000
 "half-giant elf"        zone=cave level=57 class=Archer dex=3000
 "half-drunk giant"      zone=cave level=57 class=Pirate con=2000 str=1000
@@ -384,52 +384,52 @@
 
 # elvish beings
 "elf"                   zone=town level=63
-"elf shuffler"          zone=town level=63 class=Random str=1900 con=1900 dex=1900 agi=1900 int=1900 wis=1900 luck=100
-"elf nudist"            zone=town level=63 class=Generalist str=1900 con=1900 dex=1900 agi=1900 int=1900 wis=1900 luck=100
-"elf magician"          zone=town level=63 class=Mage int=3500 wis=1500 con=2500 agi=1500 luck=200
+"elf shuffler"          zone=town level=63 class=Random str=1900 con=1900 dex=1900 agi=1900 int=1900 wis=1900 luk=100
+"elf nudist"            zone=town level=63 class=Generalist str=1900 con=1900 dex=1900 agi=1900 int=1900 wis=1900 luk=100
+"elf magician"          zone=town level=63 class=Mage int=3500 wis=1500 con=2500 agi=1500 luk=200
 "elf singer"            zone=town level=63 class=Bard int=3000 wis=3000 con=3500 str=2500 agi=1500
-"elf cleric"            zone=town level=63 class=Cleric wis=4500 agi=1500 int=1500 luck=100 con=2000
-"elf servant"           zone=town level=63 class=Jester luck=5000
+"elf cleric"            zone=town level=63 class=Cleric wis=4500 agi=1500 int=1500 luk=100 con=2000
+"elf servant"           zone=town level=63 class=Jester luk=5000
 "elf warrior"           zone=town level=63 class=Fighter str=5000 con=5000 dex=5000 agi=1500
 "elf zerker"            zone=town level=63 class=Barbarian str=6500 con=6500 agi=1500 dex=1500
-"elf sandwich creator"  zone=town level=63 class=SandwichArtist str=3500 int=3500 wis=1000 luck=-100 agi=1500
+"elf sandwich creator"  zone=town level=63 class=SandwichArtist str=3500 int=3500 wis=1000 luk=-100 agi=1500
 "elf privateer"         zone=town level=63 class=Pirate str=5500 con=5500 dex=4000 agi=1000
-"elf bitcaster"         zone=town level=63 class=Bitomancer int=2500 wis=2500 agi=2500 con=2500 luck=500
-"elf bowmaster"         zone=town level=63 class=Archer dex=5000 agi=5000 str=3500 con=2500 luck=200
+"elf bitcaster"         zone=town level=63 class=Bitomancer int=2500 wis=2500 agi=2500 con=2500 luk=500
+"elf bowmaster"         zone=town level=63 class=Archer dex=5000 agi=5000 str=3500 con=2500 luk=200
 "elf necromancer"       zone=cave level=63 class=Necromancer dex=2500 str=2500 wis=5000
 "elvish vanity mirror"  level=63 mirror=1
 
 # dwarven beings
 "dwarf"                 zone=town level=69
-"dwarf shuffler"        zone=town level=69 class=Random str=2300 con=2300 dex=2300 agi=2300 int=2300 wis=2300 luck=150
-"dwarf nudist"          zone=town level=69 class=Generalist str=2300 con=2300 dex=2300 agi=2300 int=2300 wis=2300 luck=100
+"dwarf shuffler"        zone=town level=69 class=Random str=2300 con=2300 dex=2300 agi=2300 int=2300 wis=2300 luk=150
+"dwarf nudist"          zone=town level=69 class=Generalist str=2300 con=2300 dex=2300 agi=2300 int=2300 wis=2300 luk=100
 "dwarf fighter"         zone=town level=69 class=Fighter str=6500 con=6500 dex=4500 agi=1500
 "dwarf barbarian"       zone=town level=69 class=Barbarian str=8000 con=8000 agi=1500 dex=1000
-"dwarf healer"          zone=town level=69 class=Cleric wis=6000 agi=1500 int=1500 luck=100 con=2000
-"dwarf jester"          zone=town level=69 class=Jester luck=6500
+"dwarf healer"          zone=town level=69 class=Cleric wis=6000 agi=1500 int=1500 luk=100 con=2000
+"dwarf jester"          zone=town level=69 class=Jester luk=6500
 "dwarf king"            zone=town level=69 class=Pirate str=6500 con=6000 dex=3500 agi=2500
-"dwarf queen"           zone=town level=69 class=Bitomancer int=4500 wis=2500 agi=2500 con=2500 luck=500
+"dwarf queen"           zone=town level=69 class=Bitomancer int=4500 wis=2500 agi=2500 con=2500 luk=500
 "dwarf shadowknight"    zone=town level=69 class=Necromancer wis=5000 dex=5000 str=5000
-"dwarf sandwichknight"  zone=town level=69 class=SandwichArtist str=4500 int=4500 wis=1500 luck=-100 agi=1500
-"dwarf shadowcaster"    zone=town level=69 class=Mage int=5000 wis=1500 con=2500 agi=1500 luck=200
+"dwarf sandwichknight"  zone=town level=69 class=SandwichArtist str=4500 int=4500 wis=1500 luk=-100 agi=1500
+"dwarf shadowcaster"    zone=town level=69 class=Mage int=5000 wis=1500 con=2500 agi=1500 luk=200
 "dwarf shadowdancer"    zone=town level=69 class=Rogue dex=5000 agi=5000 con=5000
 "dwarf prince"          zone=town level=69 class=Bard int=4000 wis=4000 con=3500 str=2500 agi=1500
-"dwarf arbalest"        zone=town level=69 class=Archer dex=7500 agi=5000 str=3500 con=2500 luck=200
+"dwarf arbalest"        zone=town level=69 class=Archer dex=7500 agi=5000 str=3500 con=2500 luk=200
 "dwarf shadow"          zone=town level=69 class=Lich
 "dwarven ale bottle"    level=69 mirror=1
 
 # pygmy beings
 "pygmy"                 zone=cave level=76
-"pygmy shuffler"        zone=cave level=76 class=Random str=3000 con=3000 dex=3000 agi=3000 int=3000 wis=3000 luck=200
-"pygmy nudist"          zone=cave level=76 class=Generalist str=3000 con=3000 dex=3000 agi=3000 int=3000 wis=3000 luck=100
+"pygmy shuffler"        zone=cave level=76 class=Random str=3000 con=3000 dex=3000 agi=3000 int=3000 wis=3000 luk=200
+"pygmy nudist"          zone=cave level=76 class=Generalist str=3000 con=3000 dex=3000 agi=3000 int=3000 wis=3000 luk=100
 "pygmy warrior"         zone=cave level=76 class=Fighter str=7500 con=8000 dex=5000 agi=2500
 "pygmy berserker"       zone=cave level=76 class=Barbarian str=9000 con=9000 dex=2000
 "pygmy wiseman"         zone=cave level=76 class=Cleric wis=6500 agi=1000 int=4000 dex=1000 str=1000
-"pygmy laughtermaker"   zone=cave level=76 class=Jester luck=7500
+"pygmy laughtermaker"   zone=cave level=76 class=Jester luk=7500
 "pygmy axebearer"       zone=cave level=76 class=Pirate str=8000 dex=3500 con=9000
 "pygmy hermit"          zone=cave level=76 class=Bitomancer int=5500 wis=1500 agi=3500 con=2500
-"pygmy nomnomer"        zone=cave level=76 class=SandwichArtist int=5000 str=5000 wis=1000 luck=-150 agi=3500
-"pygmy zapper"          zone=cave level=76 class=Mage int=7500 wis=1500 con=3000 agi=2500 luck=500
+"pygmy nomnomer"        zone=cave level=76 class=SandwichArtist int=5000 str=5000 wis=1000 luk=-150 agi=3500
+"pygmy zapper"          zone=cave level=76 class=Mage int=7500 wis=1500 con=3000 agi=2500 luk=500
 "pygmy thief"           zone=cave level=76 class=Rogue dex=7000 agi=7000 str=6000 con=1000
 "pygmy crier"           zone=cave level=76 class=Bard int=5500 wis=5500 con=2500 str=2500
 "pygmy shooter"         zone=cave level=76 class=Archer dex=10000 agi=5000 str=1500
@@ -438,16 +438,16 @@
 
 # ogre beings
 "ogre"                  zone=cave level=85
-"ogre shuffler"         zone=cave level=85 class=Random str=3500 con=3500 dex=3500 agi=3500 int=3500 wis=3500 luck=250
-"ogre nudist"           zone=cave level=85 class=Generalist str=3500 con=3500 dex=3500 agi=3500 int=3500 wis=3500 luck=100
+"ogre shuffler"         zone=cave level=85 class=Random str=3500 con=3500 dex=3500 agi=3500 int=3500 wis=3500 luk=250
+"ogre nudist"           zone=cave level=85 class=Generalist str=3500 con=3500 dex=3500 agi=3500 int=3500 wis=3500 luk=100
 "ogre fighter"          zone=cave level=85 class=Fighter str=9000 con=9000 dex=3500 agi=3500
-"ogre healer"           zone=cave level=85 class=Cleric str=1500 con=2500 agi=2500 int=3500 wis=7000 luck=100
-"ogre caster"           zone=cave level=85 class=Mage con=1000 agi=1000 int=8500 wis=1500 luck=100
+"ogre healer"           zone=cave level=85 class=Cleric str=1500 con=2500 agi=2500 int=3500 wis=7000 luk=100
+"ogre caster"           zone=cave level=85 class=Mage con=1000 agi=1000 int=8500 wis=1500 luk=100
 "ogre stabber"          zone=cave level=85 class=Rogue dex=8000 agi=8000 str=5000 con=2000
 "ogre techwizarder"     zone=cave level=85 class=Bitomancer int=7500 wis=1500 agi=3500 con=2500
-"ogre howler"           zone=cave level=85 class=Jester luck=8250
+"ogre howler"           zone=cave level=85 class=Jester luk=8250
 "ogre bootystealer"     zone=cave level=85 class=Pirate str=10000 dex=3500 con=7500
-"ogre eater"            zone=cave level=85 class=SandwichArtist int=5500 str=4500 wis=1500 luck=-200 agi=3000
+"ogre eater"            zone=cave level=85 class=SandwichArtist int=5500 str=4500 wis=1500 luk=-200 agi=3000
 "ogre singer"           zone=cave level=85 class=Bard int=6500 wis=6500 con=2500 str=2500
 "ogre pewpewer"         zone=cave level=85 class=Archer dex=10000 agi=5000 str=5000
 "ogre roidrager"        zone=cave level=85 class=Barbarian str=12000 con=12000
@@ -456,16 +456,16 @@
 
 # holywater beings
 "holywater"                 zone=town level=93
-"holywater shuffler"        zone=town level=93 class=Random str=4000 con=4000 dex=4000 agi=4000 int=4000 wis=4000 luck=300
-"holywater nudist"          zone=town level=93 class=Generalist str=4000 con=4000 dex=4000 agi=4000 int=4000 wis=4000 luck=300
+"holywater shuffler"        zone=town level=93 class=Random str=4000 con=4000 dex=4000 agi=4000 int=4000 wis=4000 luk=300
+"holywater nudist"          zone=town level=93 class=Generalist str=4000 con=4000 dex=4000 agi=4000 int=4000 wis=4000 luk=300
 "holywater barbarian"       zone=town level=93 class=Barbarian str=10000 con=10000 dex=5000 agi=2500
 "holywater fighter"         zone=town level=93 class=Fighter str=9000 con=9000 dex=5000 agi=5000
-"holywater cleric"          zone=town level=93 class=Cleric str=2500 con=3500 agi=2500 int=3500 wis=9000 luck=100
+"holywater cleric"          zone=town level=93 class=Cleric str=2500 con=3500 agi=2500 int=3500 wis=9000 luk=100
 "holywater bard"            zone=town level=93 class=Bard int=6500 wis=6500 con=4500 str=2500
-"holywater mage"            zone=town level=93 class=Mage con=4000 agi=1000 int=7500 wis=1500 luck=100
-"holywater jester"          zone=town level=93 class=Jester luck=9000
+"holywater mage"            zone=town level=93 class=Mage con=4000 agi=1000 int=7500 wis=1500 luk=100
+"holywater jester"          zone=town level=93 class=Jester luk=9000
 "holywater rogue"           zone=town level=93 class=Rogue dex=7000 agi=7000 str=5000 con=5000
-"holywater sandwich artist" zone=town level=93 class=SandwichArtist int=3500 str=3500 wis=750 luck=-200 agi=2500 con=2500
+"holywater sandwich artist" zone=town level=93 class=SandwichArtist int=3500 str=3500 wis=750 luk=-200 agi=2500 con=2500
 "holywater buccaneer"       zone=town level=93 class=Pirate str=7500 dex=1500 con=7500 agi=2500
 "holywater bitomancer"      zone=town level=93 class=Bitomancer int=7500 wis=1500 agi=3500 con=4500
 "holywater archer"          zone=town level=93 class=Archer dex=8500 agi=4500 str=4500 con=2500
@@ -474,16 +474,16 @@
 
 # shadowflame beings
 "shadowflame"                 zone=town level=99
-"shadowflame shuffler"        zone=town level=99 class=Random str=4500 con=4500 dex=4500 agi=4500 int=4500 wis=4500 luck=500
-"shadowflame nudist"          zone=town level=99 class=Generalist str=4500 con=4500 dex=4500 agi=4500 int=4500 wis=4500 luck=500
+"shadowflame shuffler"        zone=town level=99 class=Random str=4500 con=4500 dex=4500 agi=4500 int=4500 wis=4500 luk=500
+"shadowflame nudist"          zone=town level=99 class=Generalist str=4500 con=4500 dex=4500 agi=4500 int=4500 wis=4500 luk=500
 "shadowflame barbarian"       zone=town level=99 class=Barbarian str=11000 con=9000 dex=5000 agi=2500
 "shadowflame fighter"         zone=town level=99 class=Fighter str=10000 con=8000 dex=5000 agi=5000
-"shadowflame cleric"          zone=town level=99 class=Cleric str=2500 con=3500 agi=2500 int=3500 wis=10000 luck=100
+"shadowflame cleric"          zone=town level=99 class=Cleric str=2500 con=3500 agi=2500 int=3500 wis=10000 luk=100
 "shadowflame bard"            zone=town level=99 class=Bard int=7500 wis=7500 con=2500 str=2500
-"shadowflame mage"            zone=town level=99 class=Mage con=2500 agi=500 int=10000 wis=750 luck=100
-"shadowflame jester"          zone=town level=99 class=Jester luck=10000
+"shadowflame mage"            zone=town level=99 class=Mage con=2500 agi=500 int=10000 wis=750 luk=100
+"shadowflame jester"          zone=town level=99 class=Jester luk=10000
 "shadowflame rogue"           zone=town level=99 class=Rogue dex=7000 agi=7000 str=7500 con=2500
-"shadowflame sandwich artist" zone=town level=99 class=SandwichArtist int=3500 str=3500 wis=750 luck=-200 agi=2500 con=2500
+"shadowflame sandwich artist" zone=town level=99 class=SandwichArtist int=3500 str=3500 wis=750 luk=-200 agi=2500 con=2500
 "shadowflame buccaneer"       zone=town level=99 class=Pirate str=75000 dex=1500 con=7500 agi=2500
 "shadowflame bitomancer"      zone=town level=99 class=Bitomancer int=10000 wis=750 agi=2500 con=1500
 "shadowflame archer"          zone=town level=99 class=Archer dex=2500 agi=2500 str=10000 con=1500
@@ -562,10 +562,10 @@
 "Experiment .003" class=Fighter level=40 str=140 dex=90 con=140 agi=80
 "Experiment .004" class=Cleric level=45 str=90 dex=45 con=50 int=45 wis=225 agi=45
 "Self Destructing Brute" level=50 hp=100000 hpregen=-20000 str=500
-"Super Saiyan" zone=other level=100 class=Fighter agi=9001 dex=9001 wis=9001 con=9001 luck=9001 int=9001 str=9001
+"Super Saiyan" zone=other level=100 class=Fighter agi=9001 dex=9001 wis=9001 con=9001 luk=9001 int=9001 str=9001
 "low mage" zone=forest level=1 class=Mage int=5 wis=3
 "Errin" level=89
 "idle villagers" zone=town level=1
 "human trash" zone=town level=1
-"jack of no trade" zone=forest level=15 class=Generalist str=1 dex=1 con=1 wis=1 int=1 agi=1 luck=1
+"jack of no trade" zone=forest level=15 class=Generalist str=1 dex=1 con=1 wis=1 int=1 agi=1 luk=1
 "shadowflame quencher" zone=town level=99 class=Monster
