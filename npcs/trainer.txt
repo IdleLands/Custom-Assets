@@ -91,7 +91,7 @@
 "Deadhead" class=Necromancer
 "Sedgwick" class=Barbarian
 "Latin" class=Jester
-"Koa" 
+"Koa" class=Barbarian
 "Earl of Sandwich" class=SandwichArtist
 "Linus Torvalds" class=Bitomancer
 "Steve Jobs" class=Bitomancer
