@@ -2,7 +2,7 @@
 "turkey" wis=10
 "chicken" agi=10
 "ostrich" int=10
-"worm" luck=10
+"worm" luk=10
 "sand" str=-10
 "fish" agi=10
 "ham" con=20
@@ -18,6 +18,6 @@
 "veal" dex=10
 "veal" str=15
 "tofurkey" con=12
-"soylent green" luck=20
-"goldfish" luck=25
+"soylent green" luk=20
+"goldfish" luk=25
 "anchovy" str=10 water=5
