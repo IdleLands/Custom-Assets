@@ -8,7 +8,7 @@
 "wok" agi=32
 
 # con
-"lace" con=-1 luck=1
+"lace" con=-1 luk=1
 "flannel" con=2
 "paladinmail" con=30 defense=1
 "mithril mail" con=150
@@ -32,10 +32,10 @@
 "brigandine" agi=7 con=20
 "plate mail" agi=7 con=32
 "garb" agi=8 con=2
-"cuirass" agi=10 con=20 
+"cuirass" agi=10 con=20
 "breastplate" agi=10 con=28
 "banded mail" agi=12 con=20
-"tempered chestplate" agi=15 con=70 
+"tempered chestplate" agi=15 con=70
 "chain mail" agi=20 con=16
 "ring mail" agi=25 con=7
 "hauberk" agi=25 con=19
@@ -69,11 +69,11 @@
 "Kevlar" agi=50 con=200 dex=50
 
 # agi/con/luck
-"fullplate" agi=10 con=35 luck=3
-"dragonscale mail" agi=50 con=30 luck=5
-"byrnie" agi=17 con=15 luck=2
+"fullplate" agi=10 con=35 luk=3
+"dragonscale mail" agi=50 con=30 luk=5
+"byrnie" agi=17 con=15 luk=2
 
-# agi/con/str 
+# agi/con/str
 "dragonscale armor" agi=100 con=100 str=30
 
 # agi/con/wis
@@ -81,7 +81,7 @@
 "squishy squish" agi=15 con=80 wis=20
 "Bill Cosby's Sweater" agi=500 con=300 wis=50
 
-# agi/int/str 
+# agi/int/str
 "canvas" agi=10 int=10 str=10
 
 # con/dex/wis
@@ -96,29 +96,29 @@
 
 # n-stat
 "The Black Box of Reverse" str=-10 con=-10 dex=-10 int=50 wis=50 agi=50
-"Super Tie Dye Shirt" str=70 con=70 int=70 wis=70 dex=70 luck=10
+"Super Tie Dye Shirt" str=70 con=70 int=70 wis=70 dex=70 luk=10
 "Plasma Mail" int=100 con=450 dex=50 str=50 agi=100 offense=1
 
 # luck
-"luck mail" luck=15
+"luck mail" luk=15
 
 # idle-class
-"Avaracious Armor of the Idling Gods" wis=1500 luck=500 con=300 defense=1 darkside=1 sturdy=1
+"Avaracious Armor of the Idling Gods" wis=1500 luk=500 con=300 defense=1 darkside=1 sturdy=1
 
 # godly-class
 "Velociraptor" str=5000 dex=2000 con=1000 offense=1
 
 # celestial something or another
-"Celestial Chestpiece" str=1000 dex=1000 con=1000 agi=1000 wis=1000 luck=1000 glowing=1 parry=1 defense=1
+"Celestial Chestpiece" str=1000 dex=1000 con=1000 agi=1000 wis=1000 luk=1000 glowing=1 parry=1 defense=1
 
 # custom
 "Apocalyptic Sticky Notes" str=200 dex=200 int=200 wis=-200
 "lab coat" int=75 wis=75 mp=500
-"turtle scale mail" str=150 agi=-30 luck=10
+"turtle scale mail" str=150 agi=-30 luk=10
 "cultist robe" str=105 con=-50 int=-105 wis=105
 "bath robe" agi=40 int=40 fire=25
 "meat suit" agi=10 con=275
 "bandolier" dex=40 con=60 hp=100
-"patchwork cloak" str=80 dex=80 agi=80 con=80 int=80 wis=80 luck=80 sentimentality=80
-"bra" luck=5 con=150 dex=90
+"patchwork cloak" str=80 dex=80 agi=80 con=80 int=80 wis=80 luk=80 sentimentality=80
+"bra" luk=5 con=150 dex=90
 "anti-virus" defense=3

@@ -1,5 +1,5 @@
 # str
-"iMac" str=666 luck=-10
+"iMac" str=666 luk=-10
 
 # con
 "wooden board" con=1
@@ -20,7 +20,7 @@
 "bulwark" str=15 con=12
 "lunchbox" con=15 str=10
 "escutcheon" str=20 con=11
-"magic bubble" con=25 str=20 water=20 luck=1
+"magic bubble" con=25 str=20 water=20 luk=1
 "shieldkind" con=31 str=20
 "iron ingot" con=43 str=20
 "mirror shield" str=30 con=42
@@ -43,7 +43,7 @@
 "The Moon" con=1000 str=200 defense=1
 
 # str / int
-"magic orb shield" str=103 int=40 luck=5
+"magic orb shield" str=103 int=40 luk=5
 
 # con / int
 "keyboard" con=30 int=10
@@ -60,14 +60,14 @@
 "fender" con=20 dex=20 str=5
 "carapace" con=34 dex=10 agi=-5
 "baroque shield" str=100 con=100 dex=100
-"Companion Cube" con=280 wis=100 sentimentality=200 int=10 luck=15
+"Companion Cube" con=280 wis=100 sentimentality=200 int=10 luk=15
 "The Propugner" str=200 dex=200 con=400 defense=1
 
 # n-stat
-"garbage can lid" dex=5 con=1 str=2 luck=1
+"garbage can lid" dex=5 con=1 str=2 luk=1
 "scutum" str=10 dex=10 con=10 wis=10
 "parasol" str=20 dex=30 agi=40 con=50
-"Magnetic Field" str=-30 con=50 dex=50 wis=50 thunder=100 luck=10
+"Magnetic Field" str=-30 con=50 dex=50 wis=50 thunder=100 luk=10
 
 # idle-class
 "Supersonic Shield of the Idling Gods" con=1000 str=1500 defense=1 aegis=1
@@ -76,23 +76,23 @@
 "Solar System" con=3000
 
 # celestial something or another
-"Celestial Cover" str=1000 dex=1000 con=1000 agi=1000 wis=1000 luck=1000 glowing=1 parry=1 defense=2 sturdy=1
+"Celestial Cover" str=1000 dex=1000 con=1000 agi=1000 wis=1000 luk=1000 glowing=1 parry=1 defense=2 sturdy=1
 
 # custom
-"pool noodle" str=-55 int-1 agi=120 luck=3
+"pool noodle" str=-55 int-1 agi=120 luk=3
 "spell book" int=25
 "spell tome" int=125
-"towel" luck=25
+"towel" luk=25
 "encyclopedia" int=22 wis=22
 "spell components" int=150 wis=5
 "torch" fire=500 glowing=1
 "main gauche" agi=255 parry=1
 "sword-breaker" agi=500 offense=1
 "lighter" int=3 fire=25
-"turtle shell shield" str=50 con=40 luck=5
+"turtle shell shield" str=50 con=40 luk=5
 "Kitako" crit=2 dance=1 lethal=1 dex=186 agi=146 thunder=50
 "skull" str=50 int=50 wis=150
-"metal detector" luck=50 gold=10 goldPercent=10 agi=-100 con=-10
+"metal detector" luk=50 gold=10 goldPercent=10 agi=-100 con=-10
 "thurible" wis=300 holy=250 holyPercent=5
 "fart in a bag" int=100 wis=30 darkside=1 poison=1
 "mechanical keyboard" con=300 int=100
@@ -103,7 +103,7 @@
 "lightspeed vibrator" agi=99 dex=99
 "generic religious object" wis=6 con=6 int=6
 "portable forcefield" con=50 dex=50
-"flattened hundred leaf clover" luck=100 aegis=1
+"flattened hundred leaf clover" luk=100 aegis=1
 "pot cover" con=2
 "chopping board" con=3 str=1 dex=1
 "disc of dirt" con=50 earth=50

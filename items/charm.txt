@@ -12,9 +12,9 @@
 "Fox Rods" int=631
 
 # luck
-"4 leaf clover" luck=4
-"8 leaf clover" luck=8
-"Standard Monetary Unit" luck=45
+"4 leaf clover" luk=4
+"8 leaf clover" luk=8
+"Standard Monetary Unit" luk=45
 
 # wis
 "plume" wis=10
@@ -51,32 +51,32 @@
 "Nevermeltice" int=230 wis=329 ice=100
 "Everburn" int=350 wis=300 fire=100
 "Faithful Pet Wolf" int=300 wis=450
-"Mask de Smith" int=377 wis=400 
+"Mask de Smith" int=377 wis=400
 "Magnitude Pocketwatch" int=500 wis=500
 
 # luck/wis
-"bauble"  luck=1 wis=7
-"bead"  luck=5 wis=50
-"superstitious button" luck=50 wis=100
+"bauble"  luk=1 wis=7
+"bead"  luk=5 wis=50
+"superstitious button" luk=50 wis=100
 
 # str/wis
 "10 pound earring" str=40 wis=-5
 
 # agi/int/luck
-"teleporter" agi=10 int=20 luck=3  dance=1
+"teleporter" agi=10 int=20 luk=3  dance=1
 
 #agi/int/wis
 "Whole Rabbit" wis=200 int=100 agi=100
 
 # int/luck/wis
-"luckstone" int=16 luck=10 wis=16 
-"juju" int=30 luck=-5 wis=-7
-"sextant" int=69 wis=18 luck=7
-"die-cast robot princess bubblegum" int=100 luck=8  wis=43 power=1 
-"Rabbit's Foot"  int=150 luck=30 wis=200
+"luckstone" int=16 luk=10 wis=16
+"juju" int=30 luk=-5 wis=-7
+"sextant" int=69 wis=18 luk=7
+"die-cast robot princess bubblegum" int=100 luk=8  wis=43 power=1
+"Rabbit's Foot"  int=150 luk=30 wis=200
 
 # hybrid
-"prism" str=10 con=10 int=10 wis=10 dex=10 luck=1
+"prism" str=10 con=10 int=10 wis=10 dex=10 luk=1
 
 # idle-class
 "Cosmic Charm of the Idling Gods" int=2500 dex=2500 vorpal=1 startle=1 venom=1
@@ -85,13 +85,13 @@
 "Black Hole" int=1000 dex=1500 con=500 wis=1500 str=1500 agi=1500
 
 # celestial something or another
-"Celestial Chess Piece" str=1000 dex=1000 con=1000 agi=1000 wis=1000 luck=1000 glowing=1 parry=1 offense=1
+"Celestial Chess Piece" str=1000 dex=1000 con=1000 agi=1000 wis=1000 luk=1000 glowing=1 parry=1 offense=1
 
 # custom
-"loaded dice" luck=100
+"loaded dice" luk=100
 "ship in a bottle" int=75 wis=25 water=150
-"lucky charm" luck=400
+"lucky charm" luk=400
 "holy charm" holyPercent=600
-"7 in 1 lucky charm" luck=65 luckPercent=65
+"7 in 1 lucky charm" luk=65 luckPercent=65
 "ring of sparks" int=5 thunder=5
-"8 ball clover" luck=8 con=8
+"8 ball clover" luk=8 con=8

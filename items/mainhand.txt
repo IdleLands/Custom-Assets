@@ -124,7 +124,7 @@
 "pinto" str=432
 "monado" str=444
 "infinity edge" str=456 crit=1
-"drillbit" str=468 luck=13
+"drillbit" str=468 luk=13
 "killer7" str=480 vorpal=1
 "swordchucks" str=492
 "Pinto of Poke" str=500 offense=6
@@ -142,10 +142,10 @@
 "crystal gun" str=680
 "Magicbane, Bane of Magic" str=700
 "dumpster" str=720
-"gungnir" str=740 deadeye=1 vorpal=1 luck=14
+"gungnir" str=740 deadeye=1 vorpal=1 luk=14
 "tree" str=760
 "Dragon Tree" str=800
-"kikuichimonki" str=820 luck=16
+"kikuichimonki" str=820 luk=16
 "evertree" str=840
 "pine tree" str=880
 "gecko tree" str=920
@@ -165,11 +165,11 @@
 "pill" int=7
 "book" int=8
 "scriptures" int=14 deadeye=1
-"deck of cards" int=15 luck=3
-"joystick" int=16 luck=4
+"deck of cards" int=15 luk=3
+"joystick" int=16 luk=4
 "paper plate" int=17
 "ice cube" int=18 ice=30
-"glowstick" int=19 luck=5
+"glowstick" int=19 luk=5
 "whiteboard" int=20
 "tome" int=21
 "sitar" int=23
@@ -182,12 +182,12 @@
 "ukelele" int=39
 "lyre" int=41
 "pen" int=42
-"shamshir" int=45 luck=6
+"shamshir" int=45 luk=6
 "orange creamsicle" int=47 ice=10
 "chinese finger trap" int=49 prone=1
 "flip-phone" int=51
 "crosier" int=53 silver=1
-"subway sub" int=57 luck=7
+"subway sub" int=57 luk=7
 "rod" int=59
 "scepter" int=61
 "pole" int=63
@@ -197,16 +197,16 @@
 "bell" int=69
 "shell" int=71
 "viola" int=73
-"option" int=75 sentimentality=10 luck=8
+"option" int=75 sentimentality=10 luk=8
 "staff" int=77
 "travel pamphlet" int=79
-"ayuvir" int=81 sentimentality=50 luck=-10
+"ayuvir" int=81 sentimentality=50 luk=-10
 "contraption" int=83
 "utensil" int=85
 "d4" int=86
 "orb" int=87
 "device" int=89
-"perpetually spinning object" int=91 luck=10
+"perpetually spinning object" int=91 luk=10
 "pokeball" int=93
 "rosary" int=97 silver=1
 "tears" int=99
@@ -220,7 +220,7 @@
 "queen of clubs" int=111 offense=1
 "jack of diamonds" int=113 offense=1
 "chunk of ice" int=115 ice=50 offense=1
-"ace of spades" int=117 offense=1 defense=1 crit=1 luck=10
+"ace of spades" int=117 offense=1 defense=1 crit=1 luk=10
 "Newton's Cradle" int=119 crit=3
 "philosopher's stone" int=121
 "armcannon" int=123
@@ -231,13 +231,13 @@
 "wand" int=158
 "d12" int=163
 "magic wand" int=165
-"supermagic wand" int=172 luck=1
-"megamagic wand" int=179 luck=2
-"gigamagic wand" int=186 luck=3
-"omegamagic wand" int=193 luck=4
-"alphamagic wand" int=200 luck=5
+"supermagic wand" int=172 luk=1
+"megamagic wand" int=179 luk=2
+"gigamagic wand" int=186 luk=3
+"omegamagic wand" int=193 luk=4
+"alphamagic wand" int=200 luk=5
 "rock candy" int=207
-"chaos emerald" int=214 luck=12
+"chaos emerald" int=214 luk=12
 "ballpoint pen" int=221
 "defibrillator" int=228 thunder=75
 "giant atom" int=239
@@ -257,18 +257,18 @@
 "thunder crystal" int=349 thunder=600
 "kilobyte" int=350 prone=1
 "deathswat" int=371
-"whatisthis" int=392 luck=20 glowing=1
+"whatisthis" int=392 luk=20 glowing=1
 "Naryu's Love" int=400 silver=1
 "steelhorn" int=413
 "Chaos Grid" int=500
-"silver egg" int=550 luck=-1
+"silver egg" int=550 luk=-1
 "Notepad++" int=600
-"binary tree" int=625 luck=15
+"binary tree" int=625 luk=15
 "ternary tree" int=650
 "quaternary tree" int=675
 "Sublime Text" int=700
 "Sublime Text Too" int=701
-"Golden Egg" int=800 luck=17
+"Golden Egg" int=800 luk=17
 "Macbook Pro" int=900
 "Phantom Tiny Bluescreen" int=1000
 "Bucket of Glitter" int=1100 glowing=1
@@ -279,7 +279,7 @@
 
 # hybrid int / str
 "cupcake" int=3 str=3
-"sandwich" str=5 int=5 luck=1
+"sandwich" str=5 int=5 luk=1
 "cane" int=6 str=2
 "pancake" str=7 int=3
 "notepad" int=9 str=3
@@ -291,7 +291,7 @@
 "excalipoor" str=80 int=80
 "brazier" fire=100 str=70 int=30
 "blazier" fire=300 str=110 int=70
-"swordcane" str=150 int=50 luck=11
+"swordcane" str=150 int=50 luk=11
 "sunsword" str=170 int=55
 "murasame" str=218 int=60
 "masamune" str=235 int=80 silver=1
@@ -360,14 +360,14 @@
 "Godly Imagination" str=5000 int=3500
 
 # celestial something or another
-"Celestial Cutlass" str=1000 dex=1000 con=1000 agi=1000 wis=1000 luck=1000 glowing=1 parry=1 offense=1 power=1 silver=1
+"Celestial Cutlass" str=1000 dex=1000 con=1000 agi=1000 wis=1000 luk=1000 glowing=1 parry=1 offense=1 power=1 silver=1
 
 # custom
 "Pan Galactic Gargle Blaster" wis=500 agi=500 water=100
 "Commit Log" str=250 int=300 wis=-100 con=700
 "lasso" dex=102
 "grenade" str=414 dex=30 darkside=1
-"a bucket full of luck" luck=200
+"a bucket full of luck" luk=200
 "frying pan" agi=12
 "rocket fist" str=780
 "chainsaw" str=780 strPercent=3
@@ -378,12 +378,12 @@
 "dart gun" agi=200 dex=25 venom=1
 "katar" dex=300 power=1
 "broom" str=10 earth=100
-"Celestial Crossbow" dex=2500 agi=2500 luck=1000 glowing=1 crit=5 silver=1 power=1 lethal=1
+"Celestial Crossbow" dex=2500 agi=2500 luk=1000 glowing=1 crit=5 silver=1 power=1 lethal=1
 "star rod" str=305 dex=305 glowing=1
 "book: The Good, the Bad, and the Idle" str=450 int=450
-"Celestial Battleaxe" str=7500 con=2500 luck=1000 glowing=1 silver=1 power=1 vorpal=1 fear=1
+"Celestial Battleaxe" str=7500 con=2500 luk=1000 glowing=1 silver=1 power=1 vorpal=1 fear=1
 "Celestial Dagger" dex=5000 glowing=1 silver=1 power=1 punish=1 poison=10
-"Celestial Staff" int=4000 wis=1000 luck=1000 water=750 fire=750 thunder=750 thunder=750 earth=750 ice=750 silver=1 power=1 glowing=1
+"Celestial Staff" int=4000 wis=1000 luk=1000 water=750 fire=750 thunder=750 thunder=750 earth=750 ice=750 silver=1 power=1 glowing=1
 "repeating crossbow" dex=180 agi=10
 "Geany" int=1000
 "Akelpad" int=400
@@ -397,9 +397,9 @@
 "Fourforce of AGI" agi=10000
 "Fiveforce" str=2500 dex=2500 wis=2500 agi=2500
 "mousepad" int=400 deadeye=4
-"balanced ternary tree" int=1300 luck=30
+"balanced ternary tree" int=1300 luk=30
 "golden gun" str=136 deadeye=22
 "stun gun" prone=1 proneChance=46
-"Handmade Classical Guitar 1969" str=-50 dex=95 agi=40 wis=90 luck=35  offense=-1 vorpal=1
+"Handmade Classical Guitar 1969" str=-50 dex=95 agi=40 wis=90 luk=35  offense=-1 vorpal=1
 "octree" int=775 intPercent=8
 "vampire killer" holy=3000

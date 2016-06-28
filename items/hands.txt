@@ -10,7 +10,7 @@
 "princess glove" dex=15 int=30
 "techno glove" dex=20 int=150
 "magic hand" dex=30 int=80
-"Merlin's Mittens" dex=50 int=550 
+"Merlin's Mittens" dex=50 int=550
 "Magefist" dex=100 int=300 fire=100
 
 # dex/str
@@ -19,7 +19,7 @@
 "armlets" dex=8 str=2
 "chainmail gloves" dex=5 str=7
 "scalemail gloves" dex=12 str=12
-"dragonscale gloves" dex=12 str=20 
+"dragonscale gloves" dex=12 str=20
 "blacksmith gloves" dex=15 str=30
 "big cartoon gloves" dex=20 str=40
 "ninja gloves" dex=55 str=10
@@ -34,22 +34,22 @@
 "Hands of Fate" dex=500 str=500 power=1
 
 # luck/str
-"gloves" luck=1 str=3
+"gloves" luk=1 str=3
 
 # dex/luck/str
-"tempered gloves" dex=60 luck=2 str=20
-"Real Steel" dex=156 luck=4 str=100
-"Glover" dex=200 luck=3 str=50
-"My Little Painbringers"  dex=311 luck=5 str=200
+"tempered gloves" dex=60 luk=2 str=20
+"Real Steel" dex=156 luk=4 str=100
+"Glover" dex=200 luk=3 str=50
+"My Little Painbringers"  dex=311 luk=5 str=200
 
 # idle-class
-"Glowing Gauntlets of the Idling Gods" str=1500 dex=1000 agi=1500 luck=200 glowing=1 defense=1 parry=2
+"Glowing Gauntlets of the Idling Gods" str=1500 dex=1000 agi=1500 luk=200 glowing=1 defense=1 parry=2
 
 # godly-class
 "Infinitely Expanding Fractal Gloves" int=-1000 con=1000 str=3000 dex=3000 darkside=4 fear=1
 
 # celestial something or another
-"Celestial Cannonhands" str=1000 dex=1000 con=1000 agi=1000 wis=1000 luck=1000 glowing=1 parry=1 offense=1
+"Celestial Cannonhands" str=1000 dex=1000 con=1000 agi=1000 wis=1000 luk=1000 glowing=1 parry=1 offense=1
 
 # custom
 "fingerless gloves" agi=100 dex=100

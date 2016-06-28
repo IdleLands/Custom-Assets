@@ -6,16 +6,16 @@
 "barbed wire necklace" str=50 con=-5
 
 # wis
-"chain" wis=1 luck=1
+"chain" wis=1 luk=1
 "brooch" wis=2
 "collar" wis=9
 "huggable monkey" wis=10
 "eye" wis=15
-"platinum chain" wis=70 luck=3
+"platinum chain" wis=70 luk=3
 "Antique Brooch" wis=550
 
 # wis / dex
-"amulet" wis=2 dex=1 luck=1
+"amulet" wis=2 dex=1 luk=1
 "tie" wis=5 dex=5
 "barcode" wis=3 dex=19
 "flower" wis=12 dex=10
@@ -28,7 +28,7 @@
 "necklace" wis=2 int=2
 "pendant" wis=3 int=3
 "bowtie" wis=5 int=5
-"orb" int=15 wis=10 luck=5
+"orb" int=15 wis=10 luk=5
 "locket" wis=25 int=10 sentimentality=5
 "rubik's cube on a string" wis=50 int=50
 "Amethyst Necklace" int=250 wis=200
@@ -43,11 +43,11 @@
 "Steel Gorget" con=450 wis=400
 
 # wis / str
-"pushpin" wis=2 str=5 luck=1
+"pushpin" wis=2 str=5 luk=1
 "leash" str=3 wis=4
 "beads" wis=30 str=20
 "dog tags" str=50 wis=30
-"fake beard" str=182 wis=100 luck=8
+"fake beard" str=182 wis=100 luk=8
 "Steel-Spiked Collar" str=450 wis=400
 
 # wis / agi
@@ -72,7 +72,7 @@
 "Visible Light" wis=4500 int=4500 deadeye=1 fear=1 glowing=1
 
 # celestial something or another
-"Celestial Choker" str=1000 dex=1000 con=1000 agi=1000 wis=1000 luck=1000 glowing=1 parry=1 offense=1 punish=1
+"Celestial Choker" str=1000 dex=1000 con=1000 agi=1000 wis=1000 luk=1000 glowing=1 parry=1 offense=1 punish=1
 
 # custom
 "key-board" str=50 int=50 agi=50 dex=50
