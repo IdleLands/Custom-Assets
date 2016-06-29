@@ -62,29 +62,29 @@ Someone tied %player's shoelaces together.  %player took a spill and the stars %
 %player pulled the Never Ever Lever and lost %xpxp in the ensuing dragon attack!
 A survivor on %player's team turned into a zombie and bit %himher! This transgression cost %xpxp!
 %player failed to defend %hisher fortress from the undead and lost %xpxp!
-%player built a watch tower in %hisher warehouse to keep away the zombies, but no one was guarding it, so they got in.
-%player's teammates left the gates open, and the undead got in and slaughtered %hisher team.
+%player built a watch tower in %hisher warehouse to keep away the zombies, but no one was guarding it, so they got in. %player's neck got bitten and %xpxp spilled out.
+%player's teammates left the gates open, and the undead got in and slaughtered %hisher team. It cost %xpxp to reset to an old savefile.
 %player got run over by a PC truck. The owner of the truck, $chance:name$, installed Windows on %player, forcing %himher to wait while updates were downloaded and installed.  %She lost %xpxp waiting for this process to finish.
-%player got mowed down by a mac and cheese truck when it exploded. %She drowned in the cheesy deliciousness.
-%player got stopped by a chili mac truck. The driver got out and threw hot chili in %hisher face.
+%player got mowed down by a mac and cheese truck when it exploded. %She drowned in the cheesy deliciousness and lose %xpxp.
+%player got stopped by a chili mac truck. The driver got out and threw hot chili in %hisher face. It was so hot, %xpxp oozed out of %himher.
 Sarda, The Wizard Who Did It took %xpxp from %player, saying he needed it back.
 %player entered the famous competition show "Are You Smarter Than A Cheese Grater" and lost. %xpxp ran away in embarrassment.
-There was a snail burrito laying on the ground and %player, being as wise as %she is, decided to eat it. Good job.
-In todays Death Daily, %player found %hisher name. Better luck next time!
-%player forgot to use %hisher blinker when merging into a nearby lane, and got hit off the road due to %hisher negligence!
-%player found a legendary weapon and went to fight the demon lord. Sadly it was Excalipoor and %player died quickly losing %xp xp.
-%player got "The Song That Never Ends" stuck in %hisher head. It won't go away. For weeks!
-%player took a right turn at $chance:city$ and it turned out to be a waste of time.
-%player went to $chance:address$ and found a really creepy mansion. Creepy! %player isn't going in that place.
+There was a snail burrito laying on the ground and %player, being as wise as %she is, decided to eat it. Good job, you just lost %xpxp.
+In todays Death Daily, %player found %hisher name. Of course, %heshe died, losing %xpxp. Better luck next time!
+%player forgot to use %hisher blinker when merging into a nearby lane, and got hit off the road due to %hisher negligence! It cost %xpxp to get the BMW repaired.
+%player found a legendary weapon and went to fight the demon lord. Sadly it was Excalipoor and %player died quickly losing %xpxp.
+%player got "The Song That Never Ends" stuck in %hisher head. It won't go away. For weeks! Eventually, %heshe paid an exorcist %xpxp to get it out of %hisher head.
+%player took a right turn at $chance:city$ and it turned out to be a waste of time. It took about %xpxp to get back on track.
+%player went to $chance:address$ and found a really creepy mansion. Creepy! %player isn't going in that place, but lost %xpxp.
 %player becomes lost in a dense fog! A denizen of the mist escorts %player out, but only in exchange for %xpxp.
 %player dives away from an explosion! %She gets hit by the blast and loses %xpxp.
 %player has been holding %hisher map upside down for hours. %player loses %xpxp getting back on track.
 A necromancer named $chance:name$ drains some of %player's life away. %She loses %xpxp during the attack.
 %player purchased an ice cream and tripped on a rock. Everybody laughed. %xpxp was lost in embarrassment!
-%player runs around shouting, "Why does the destruction conciliate the hissing wood?" Everyone thinks %she is crazy... chances are, %she actually is crazy.
-%player tried fighting $random:monster$ and lost.. how disappointing!
+%player runs around shouting, "Why does the destruction conciliate the hissing wood?" Everyone thinks %she is crazy... chances are, %she actually is crazy. %She lost %xpxp due to crazy!
+%player tried fighting $random:monster$ and lost... how disappointing! There goes %xpxp.
 %player got a call from %hisher mother. She's coming over for a holiday. %player lost %xpxp crying from stress.
-%player got lost in a maze after sleeping in for too long. %She lost %xpxp to an Xp merchant in exchange for directions.
+%player got lost in a maze after sleeping in for too long. %She lost %xpxp to an XP merchant in exchange for directions.
 %player got tired after watching the newest season of House of Bards in one go and completely missed the fact that %she had walked off the track and into the den of a $random:monster$. Obviously %player died and lost %xpxp.
 %player walked into a tree. The tree's mother sued %player's mother for bad parenting. %player lost %xpxp and %hisher mother's love.
 %player was chasing after $random:player$ and ran straight through a glass window! Ouch! %She lost %xpxp and ended up in hospital for a month.
