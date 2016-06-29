@@ -38,7 +38,7 @@ Sarda, The Wizard Who Did It gave %player %xpxp to borrow.
 %player becomes lost in a dense fog! After finding %hisher way out, %she earns %xpxp!
 %player dives away from an explosion! %She narrowly avoids it and gains %xpxp.
 %pet finds a child trapped in a well! %player rescues the child and earns %xpxp!
-A passing generalist shares %xpxp worth of knowledge with %player.
+A passing $random:class$ shares %xpxp worth of knowledge with %player.
 %player watched BEN Drowned and avoided falling into a nearby river. Avoiding BEN was worth %xpxp!
 %player meets his friend $random:player$ and they learn to play Idle Lands together. As a result, %player gains a whopping %xpxp.
 %player sold %hisher mother to satan for the knowledge of cooking the perfect breakfast egg, gaining %xpxp.
