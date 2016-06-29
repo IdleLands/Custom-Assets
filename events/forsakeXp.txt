@@ -90,7 +90,7 @@ A necromancer named $chance:name$ drains some of %player's life away. %She loses
 %player was chasing after $random:player$ and ran straight through a glass window! Ouch! %She lost %xpxp and ended up in hospital for a month.
 $random:monster$ was walking around invisible and was able to steal %xpxp from %player! How did %player not see it happen?
 %player fell in love with $random:player$, and they went out on a date. %player didn't end up paying any gold! How lucky! %She did however lose a ton of xp.
-%player saw a grue and pooped %himherself!
+%player saw a grue and pooped %himherself! %xpxp came out with the poop, ewww. You don't want that back.
 %player has had sex, this terrible calamity costs %himher %xpxp.
 Kami-sama took a dump and to %player's misfortune it lands on %hisher head. %player loses %xpxp.
 %player failed to finish a quest and lost %xpxp.
