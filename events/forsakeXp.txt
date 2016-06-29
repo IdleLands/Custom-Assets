@@ -4,7 +4,7 @@
 %player was mauled by a $random:monster#1$, and the $random:monster#1$ stole %xpxp afterwards.
 %player was eaten by a grue. %player had to pay a %xpxp fee to respawn!
 %player was shot in the leg, causing %xpxp to pour out of the wound.
-%player ate $dict:placeholder$, %hisher poor dieting habits causing %player to lose %xpxp.
+%player ate $dict:placeholder$, and %hisher poor dieting habits caused %himher to lose %xpxp.
 %player found a chest! Inside this chest is another chest. This chest meta is too overwhelming for %himher to understand, and causes %himher to lose %xpxp.
 %player saw a really bright light, and went stumbling around in a forest for hours, getting %xpxp stolen from %himher by pixies.
 %player had a piano fall on %hisher head. %player was knocked out for long enough to make %himher lose %xpxp.
@@ -30,7 +30,7 @@
 %player found the missing link between %himher and the ground. This reunion costed %himher %xpxp.
 %player ran in circles around a $dict:adjective$ tree, exhausting %player of %xpxp.
 %player stepped in a large pile of monkey poo. The monkeys sued %player for %xpxp over the damages done to their feces.
-%player threw an apple at a tree, and had it richochet back and hit %himher in the face.
+%player threw an apple at a tree, and had it ricochet back and hit %himher in the face.
 %player was cursed by Oyashiro-sama. %player had to spend %xpxp to save %himherself.
 %player was pushed into a burning river by an old lady and a monkey named $chance:first$. %player paid the hospital %xpxp to fix the injuries.
 %player woke up without %hisher pants on. %player realized %she'd also lost %xpxp.
@@ -60,8 +60,8 @@ Someone tied %player's shoelaces together.  %player took a spill and the stars %
 %player got a bit tipsy and decided to test the old myth about urinating on an electrified fence.  Suffice to say, it didn't go very well: %she lost %xpxp in the process.
 %player went to anti-college and received a diploma worth -%xpxp!
 %player pulled the Never Ever Lever and lost %xpxp in the ensuing dragon attack!
-A survivor on %player's team turned into a zombie and bit %himher!
-%player failed to defend %hisher fortress from the undead!
+A survivor on %player's team turned into a zombie and bit %himher! This transgression cost %xpxp!
+%player failed to defend %hisher fortress from the undead and lost %xpxp!
 %player built a watch tower in %hisher warehouse to keep away the zombies, but no one was guarding it, so they got in.
 %player's teammates left the gates open, and the undead got in and slaughtered %hisher team.
 %player got run over by a PC truck. The owner of the truck, $chance:name$, installed Windows on %player, forcing %himher to wait while updates were downloaded and installed.  %She lost %xpxp waiting for this process to finish.
@@ -79,7 +79,7 @@ In todays Death Daily, %player found %hisher name. Better luck next time!
 %player becomes lost in a dense fog! A denizen of the mist escorts %player out, but only in exchange for %xpxp.
 %player dives away from an explosion! %She gets hit by the blast and loses %xpxp.
 %player has been holding %hisher map upside down for hours. %player loses %xpxp getting back on track.
-A necromancer drains some of %player's life away. %She loses %xpxp during the attack.
+A necromancer named $chance:name$ drains some of %player's life away. %She loses %xpxp during the attack.
 %player purchased an ice cream and tripped on a rock. Everybody laughed. %xpxp was lost in embarrassment!
 %player runs around shouting, "Why does the destruction conciliate the hissing wood?" Everyone thinks %she is crazy... chances are, %she actually is crazy.
 %player tried fighting $random:monster$ and lost.. how disappointing!
@@ -92,7 +92,7 @@ $random:monster$ was walking around invisible and was able to steal %xpxp from %
 %player fell in love with $random:player$, and they went out on a date. %player didn't end up paying any gold! How lucky! %She did however lose a ton of xp.
 %player saw a grue and pooped %himherself!
 %player has had sex, this terrible calamity costs %himher %xpxp.
-God took a dump and to %player's misfortune it lands on %hisher head. %player loses %xpxp.
+Kami-sama took a dump and to %player's misfortune it lands on %hisher head. %player loses %xpxp.
 %player failed to finish a quest and lost %xpxp.
 %player forgot something. Because of that %heshe lost %xpxp.
 %player lorem ipsum dolor sit amet, consectetur adipisicing elit. Consequuntur repellendus explicabo eos blanditiis -%xpxp!

@@ -39,8 +39,8 @@ Sarda, The Wizard Who Did It took %gold gold from %player because he could.
 %player bought a burrito for %gold gold, sadly it was a snail burrito.
 %player decided to invest in a pyramid scheme.  After spending %gold gold, %heshe sits no closer to the top.
 %player was caught "treasure hunting" and lost %gold gold.
-A friendly necromancer resurrects %player's favorite plant in exchange for %gold gold.
-%player got married! It only lasted one week. The bride ran away with $random:player$, taking %gold gold before %player knew what was happening. How sad!
+A friendly necromancer named $chance:name:{'middle':true}$ resurrects %player's favorite plant in exchange for %gold gold.
+%player got married to $random:player#1$! It only lasted one week. The bride ran away with $random:player#2$, taking %gold gold before %player knew what was happening. How sad!
 The government photographs %player doing illegal activities. %player paid %gold gold to get them to keep quiet.
 %player goes to a gold dealer to sell %hisher old grandmother's golden necklace. Turns out it was fake, %player had to compensate %gold gold for wasting the dealer's time.
 %player cracks a tooth eating a $random:item$ (don't ask), %she had to pay %gold gold to get the tooth replaced.
