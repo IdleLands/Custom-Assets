@@ -10,7 +10,7 @@
 %player tries busking with %hisher trusty lute in the street. No one offers %himher any currency, but %she feels %xpxp fuller!
 %player finally got that check in the mail, and along with it was a package containing %xpxp solid xp!
 %player returned a stray faerie to the forest. The faerie queen then rewarded %player with %xpxp!
-%player poured acid on a mean old lady named $chance:name:{'female':true}$, then proceeded to steal %xpxp from her while she was busy dissolving.
+%player poured acid on a mean old lady named $chance:name:{'gender':'female'}$, then proceeded to steal %xpxp from her while she was busy dissolving.
 %player found a can of Green Viper, and it gives %himher wii~ings! %xpxp worth of wings, actually.
 %player found a nugget of pure win. It was appraised to be worth %xpxp!
 %player found a golden nugget, but when %player appraised it it turned out to be a capsule for %xpxp.

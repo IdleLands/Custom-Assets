@@ -8,7 +8,7 @@
 %player found a chest! Inside this chest is another chest. This chest meta is too overwhelming for %himher to understand, and causes %himher to lose %xpxp.
 %player saw a really bright light, and went stumbling around in a forest for hours, getting %xpxp stolen from %himher by pixies.
 %player had a piano fall on %hisher head. %player was knocked out for long enough to make %himher lose %xpxp.
-%player had acid poured on %himher by an old lady named $chance:name:{'female':true}$. The acid also dissolved %xpxp!
+%player had acid poured on %himher by an old lady named $chance:name:{'gender':'female'}$. The acid also dissolved %xpxp!
 %player got hit with a flying card, square between the eyes, and was knocked to the ground. %xpxp fell out of %hisher pocket when %player fell!
 %player was attacked by a giant waffle iron falling from the sky, crushing %himher, turning %himher into a waffle. $random:player$ ate %himher as a waffle, making %player lose %xpxp.
 %player was vomited on by an adorable little kitty. %player began to question %hisher existence, which caused %himher to lose %xpxp.
