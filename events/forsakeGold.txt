@@ -13,7 +13,7 @@ As %player was going around stealing cheese wheels from various shops, a guard n
 %player spent %gold gold on an exotic new food that was on display. It turned out to be a testicle of a newt.
 %player donates %gold bits of gold to a project on Punchgetgoing that was aiming to create the first 3D gaming system. The gaming system turned out to be a flop, and all that gold went down the drain...
 %player slipped and fell on a wet floor in a restaurant. The owner, $chance:name$, sued %player for %gold gold for vandalizing the floor with blood.
-%player took an arrow to the gold pouch, losing %gold all over the ground.
+%player took an arrow to the gold pouch, losing %gold gold all over the ground.
 %player spent %gold gold reforging %hisher items, and none of them are Mythical.
 %player spent %gold gold reforging %hisher items, and none of them are Unreal.
 %player spent %gold gold reforging %hisher items, and none of them are Legendary.
