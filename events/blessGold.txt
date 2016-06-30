@@ -49,7 +49,7 @@ A time anomaly made a few bank statements non-exist! The bank credits %player %g
 %player smashes a parking meter with a stick, and absconds with the %gold gold inside it.
 %player took %gold gold from a passerby and ran away yelling "I'm a treasure hunter, not a thief!"
 %player found $random:item$ but decided it would be better off liquidated, so %heshe sold it for %gold gold.
-%player saw $random:party$ and found it to be the perfect time to loot %gold from them!
+%player saw $random:party$ and found it to be the perfect time to loot %gold gold from them!
 %player checks under the couch cushions and finds %gold gold!
 %pet gets %player's attention to something buried underground. %player digs up some buried treasure worth %gold gold!
 A Fisherman of Claims dangles a dollar bill on a fishing pole in front of %player, he says 'Hey, got ya a dollar!'
