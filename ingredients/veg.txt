@@ -2,8 +2,8 @@
 "tomato" str=10
 "grass" luk=-10
 "microgreens" int=10
-"dandelion" wis=10
-"poison ivy" wis=-25
+"dandelion" dex=10
+"poison ivy" int=-25
 "frozen vegetables" con=-20
 "bamboo" con=20
 "mushrooms" int=15
@@ -17,7 +17,7 @@
 "cabbage" con=15
 "spinach" str=100
 "turnip" dex=2 con=9 int=1
-"pumpkin" luk=5 wis=10
+"pumpkin" luk=5 int=10
 "cucumber" agi=5 str=5 con=5
 "pickles" str=12
 "bell pepper" con=5 fire=5 str=5

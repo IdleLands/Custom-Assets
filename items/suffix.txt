@@ -1,4 +1,4 @@
-"ill iguana" str=-5 wis=10
+"ill iguana" str=-5 int=10
 "bear" str=15 int=-5
 "viper" str=5 dex=10
 "pig" con=18 agi=-3
@@ -6,24 +6,24 @@
 "fish" agi=15
 "barbarian" str=25 int=-7
 "sly fish" agi=25 str=-7 luk=1
-"dog" wis=10 con=10
+"dog" int=10 con=10
 "hunter" agi=10 dex=10
-"amazon" str=10 wis=10
+"amazon" str=10 int=10
 "snake" agi=15 int=10
-"artist" wis=20 int=5 luk=1
-"wonderful fish" agi=20 wis=5 luk=3
+"artist" int=20 int=5 luk=1
+"wonderful fish" agi=20 int=5 luk=3
 "undertaker" str=40 dex=-15
 "insect" agi=40 str=-10
-"lover" wis=30
+"lover" int=30
 "fighter" dex=30
 "kraken" str=5
-"fabulous fish" int=30 wis=10
-"dragon" strPercent=4 agiPercent=3 hpregen=200
-"unicorn" intPercent=3 agiPercent=4 mpregen=200
-"pixie" wisPercent=3 intPercent=3 luk=1
-"pie" wis=42
+"fabulous fish" int=30 con=10
+"dragon" str=40 agi=30 hpregen=200
+"unicorn" int=30 agi=40 mpregen=200
+"pixie" int=60 luk=1
+"pie" int=42
 "cake" dex=42
-"lucky lickitung" luk=10 luckPercent=10
+"lucky lickitung" luk=40
 "red-eyed programmer" int=55 agi=-10
 "ornate otaku" con=55 agi=-10
 "radioactive rabbit" agi=60 con=-20
@@ -31,8 +31,8 @@
 "barius" str=100 int=-50
 "marrus" int=100 str=-50
 "silly snake" agi=40 int=20
-"st. galli" wis=60
-"goofy gopher" con=30 wis=30
+"st. galli" int=60
+"goofy gopher" con=30 int=30
 "slippery seal" dex=60
 "ornery ocelot" dex=50 str=30
 "beast" con=40 dex=40
@@ -41,74 +41,74 @@
 "wonder" int=100
 "gory giraffe" str=200 con=-100
 "bustling badger" agi=100
-"diaphanous drake" strPercent=7 intPercent=-2
+"diaphanous drake" str=120 int=-20
 "furious fawn" dex=20 agi=90
-"moon" intPercent=5 agiPercent=2
-"sun" strPercent=5 dexPercent=2
-"stars" wisPercent=5 conPercent=2
+"moon" int=15 agi=12
+"sun" str=15 dex=12
+"stars" luk=15 con=12
 "ascetic" hpregen=400 mpregen=400
 "karmic koala" luk=120
 "lucid lynx" dex=10 agi=100
 "corrupt" str=100 int=50 con=-30
-"pure" wis=70 dex=40
+"pure" int=70 dex=40
 "hallowed" dex=100 int=30
 "malicious meerkat" str=30 agi=40 dex=30
-"never-narwhal" strPercent=4 intPercent=4
+"never-narwhal" str=40 int=40
 "welsh warthog" con=100 str=20
 "white knight" dex=100 con=50
 "black knight" str=100 con=50
 "spirit" con=100 int=50 luk=3
 "duplicating dog" dex=70 con=70
-"helpful hedgehog" wis=120 con=10
-"herping heron" luk=-40 wis=220
+"helpful hedgehog" int=120 con=10
+"herping heron" luk=-40 int=220
 "derping deer" luk=-40 con=220
 "interpid iguana" con=200 agi=-20
-"daring duck" str=50 wis=150
-"derpig" conPercent=8 agiPercent=-2
+"daring duck" str=50 int=150
+"derpig" con=80 agi=-20
 "horny hornet" dex=100 agi=110
-"jumping jackalope" wis=110 agi=100
-"gelatinous jabberwocky" strPercent=5 intPercent=5
+"jumping jackalope" int=110 agi=100
+"gelatinous jabberwocky" str=50 int=50
 "snorting squirrel" agi=250
 "castrated cat" agi=-300 str=-50
 "vicious viking" str=350 int=-100
-"wightful werewolf" dexPercent=6 agiPercent=2
+"wightful werewolf" dex=60 agi=30
 "machine" dex=150 con=150
-"worrisome wizard" wis=250 dex=50
+"worrisome wizard" int=250 dex=50
 "angel" str=70 int=200 luk=50
 "demon" str=120 int=200 luk=-50
 "explosive thing" str=400
 "KayArr" int=400
 "all-seeing eye" dex=400
 "terrible pterodactyl" agi=400
-"skynet" wis=400 luk=45
+"skynet" int=400 luk=45
 "tower of god" con=400
-"phoenix" strPercent=6 intPercent=6 agiPercent=6
-"deity" intPercent=10 conPercent=20
-"Creator" intPercent=10 strPercent=10 dexPercent=10 conPercent=10 wisPercent=10 agiPercent=10 luckPercent=10
+"phoenix" str=60 int=60 agi=60
+"deity" int=100 con=20
+"Creator" int=100 str=100 con=100 dex=100 agi=100 luk=100
 "Idleness" luk=400 sentimentality=5000
 
 # custom
 "of the cards" dex=50 con=100 int=50
 "sloth" con=20 haste=-1
-"pixel" dex=25 int=50 wis=25
-"scallywag" con=50 dex=15 str=15 wis=15
-"landlubber" con=-15 agi=-5 dex=-5 wis=-5
+"pixel" dex=25 int=50 agi=25
+"scallywag" con=50 dex=15 str=15 int=15
+"landlubber" con=-15 agi=-5 dex=-5 int=-5
 "tortoise" con=80 hpregen=100
 "storm" thunder=250
-"archer" dexPercent=10 agiPercent=5 deadeye=1
+"archer" dex=10 agi=5 deadeye=1
 "gardener" earth=250 water=50
-"cunning crow" wis=75 dex=25 gold=1
-"forgotten frog" wis=200 royal=1
-"smelly skunk" agi=150 agiPercent=2 conPercent=-2
+"cunning crow" int=75 dex=25 gold=1
+"forgotten frog" int=200 royal=1
+"smelly skunk" agi=175 con=-20
 "litigious lawyer" gold=100
 "prickly porcupine" str=37 dex=37 absolute=5
-"sleeping sloth" con=75 conPercent=5
+"sleeping sloth" con=95
 "drunken master" str=175 agi=75 drunk=1
 "soggy slug" agi=-50 water=175
-"Golden Ratio" goldPercent=61
+"Golden Ratio" gold=1618
 "speedrunning snake" haste=8
-"quantal quetzal" luk=12 luckPercent=10
-"utopic unicorn" luk=14 luckPercent=10
-"doctor" hpregenPercent=7
+"quantal quetzal" luk=17
+"utopic unicorn" luk=20
+"doctor" con=37
 "speedy cheetah" haste=8
 "courageous crusader" aegis=1

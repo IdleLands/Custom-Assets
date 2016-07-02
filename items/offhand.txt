@@ -52,22 +52,22 @@
 "wing" con=17 agi=20 dance=1
 "clock" con=35 agi=20
 
-# wis / str
-"upvote" wis=200 str=-50
+# int / str
+"upvote" int=200 str=-50
 
 # 3-stat
 "pie plate" dex=5 con=-3 agi=4
 "fender" con=20 dex=20 str=5
 "carapace" con=34 dex=10 agi=-5
 "baroque shield" str=100 con=100 dex=100
-"Companion Cube" con=280 wis=100 sentimentality=200 int=10 luk=15
+"Companion Cube" con=280 int=100 sentimentality=200 luk=15
 "The Propugner" str=200 dex=200 con=400 defense=1
 
 # n-stat
 "garbage can lid" dex=5 con=1 str=2 luk=1
-"scutum" str=10 dex=10 con=10 wis=10
+"scutum" str=10 dex=10 con=10 int=10
 "parasol" str=20 dex=30 agi=40 con=50
-"Magnetic Field" str=-30 con=50 dex=50 wis=50 thunder=100 luk=10
+"Magnetic Field" str=-30 con=50 dex=50 int=50 thunder=100 luk=10
 
 # idle-class
 "Supersonic Shield of the Idling Gods" con=1000 str=1500 defense=1 aegis=1
@@ -76,51 +76,51 @@
 "Solar System" con=3000
 
 # celestial something or another
-"Celestial Cover" str=1000 dex=1000 con=1000 agi=1000 wis=1000 luk=1000 glowing=1 parry=1 defense=2 sturdy=1
+"Celestial Cover" str=1000 dex=1000 con=1000 agi=1000 luk=1000 glowing=1 parry=1 defense=2 sturdy=1
 
 # custom
 "pool noodle" str=-55 int-1 agi=120 luk=3
 "spell book" int=25
 "spell tome" int=125
 "towel" luk=25
-"encyclopedia" int=22 wis=22
-"spell components" int=150 wis=5
+"encyclopedia" int=33
+"spell components" int=150 dex=5
 "torch" fire=500 glowing=1
 "main gauche" agi=255 parry=1
 "sword-breaker" agi=500 offense=1
 "lighter" int=3 fire=25
 "turtle shell shield" str=50 con=40 luk=5
 "Kitako" crit=2 dance=1 lethal=1 dex=186 agi=146 thunder=50
-"skull" str=50 int=50 wis=150
-"metal detector" luk=50 gold=10 goldPercent=10 agi=-100 con=-10
-"thurible" wis=300 holy=250 holyPercent=5
-"fart in a bag" int=100 wis=30 darkside=1 poison=1
+"skull" str=50 int=100
+"metal detector" luk=50 gold=50 agi=-100 con=-10
+"thurible" int=300
+"fart in a bag" int=100 agi=30 darkside=1 poison=1
 "mechanical keyboard" con=300 int=100
 "Meat Shield" con=40 str=15
 "hardened banana" str=5
 "barbell" str=20
 "vibrator" agi=10 dex=15
 "lightspeed vibrator" agi=99 dex=99
-"generic religious object" wis=6 con=6 int=6
+"generic religious object" con=6 int=-6
 "portable forcefield" con=50 dex=50
 "flattened hundred leaf clover" luk=100 aegis=1
 "pot cover" con=2
 "chopping board" con=3 str=1 dex=1
 "disc of dirt" con=50 earth=50
 "comatose dwarf" con=150 fire=10 earth=25
-"empty canvas" int=3 wis=5
+"empty canvas" int=8
 "ice cream cone" con=5 int=5 ice=50 water=25
 "sauce bottle" dex=17
-"trashy novel" con=1 int=100 wis=100
+"trashy novel" con=100 int=-100
 "reinforced pancake" str=5 earth=1
 "backup phone" int=9
 "Weatherproof Shield" con=300 fire=150 water=150 thunder=150 ice=150 earth=150
-"offhand remark" wis=1 offense=1
+"offhand remark" int=1 offense=1
 "backhanded compliment" dex=25 int=5 offense=1
 "wall" con=250
 "castle wall" con=500 aegis=1
 "imaginary shield" aegis=1 con=-5
-"firewall" int=100 wis=100 aegis=1
+"firewall" int=100 aegis=1
 "blackboard" con=10 int=50
 "pizza" con=15 agi=5 str=5 fire=5
 "cheese wheel" con=35 str=15 ice=15

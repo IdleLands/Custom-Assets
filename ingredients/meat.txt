@@ -1,20 +1,20 @@
 "steak" str=10
-"turkey" wis=10
+"turkey" con=10
 "chicken" agi=10
 "ostrich" int=10
 "worm" luk=10
 "sand" str=-10
-"fish" agi=10
+"fish" dex=10
 "ham" con=20
 "snake" int=25
 "boar" str=25
 "pastrami" str=3 dex=3 con=3
 "german Schnitzel" str=20 con=40
-"owl" wis=20
+"owl" int=20
 "hawk" agi=20
 "bear" str=20
 "lizard" dex=15
-"tofu" wis=25
+"tofu" int=25
 "veal" dex=10
 "veal" str=15
 "tofurkey" con=12

@@ -49,12 +49,11 @@
 "Infinitely Expanding Fractal Gloves" int=-1000 con=1000 str=3000 dex=3000 darkside=4 fear=1
 
 # celestial something or another
-"Celestial Cannonhands" str=1000 dex=1000 con=1000 agi=1000 wis=1000 luk=1000 glowing=1 parry=1 offense=1
+"Celestial Cannonhands" str=1000 dex=1000 con=1000 agi=1000 int=1000 luk=1000 glowing=1 parry=1 offense=1
 
 # custom
 "fingerless gloves" agi=100 dex=100
 "sock puppet" int=120
-"sockpuppet" intPercent=1 strPercent=1 dexPercent=1 conPercent=1 wisPercent=1 agiPercent=1
 "disposable plastic gloves" dex=2
 "hand cream" agi=50 dex=25
 "stonefist" con=50 earth=15

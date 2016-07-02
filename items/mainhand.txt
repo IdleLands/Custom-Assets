@@ -272,8 +272,8 @@
 "Macbook Pro" int=900
 "Phantom Tiny Bluescreen" int=1000
 "Bucket of Glitter" int=1100 glowing=1
-"Nuclear Reactor" int=1200 firePercent=10
-"Absolute Zero Chamber" int=1300 icePercent=10
+"Nuclear Reactor" int=1200 con=100
+"Absolute Zero Chamber" int=1300 dex=100
 "Masterball" int=1400 deadeye=1
 "Staff of Infinity" int=1500 offense=1 sentimentality=25
 
@@ -338,20 +338,20 @@
 # hybrid str / con
 "sange" str=250 con=70
 
-# hybrid int / wis
-"staff of healing" int=30 wis=100
-"Lord of Vermillion" int=500 wis=200 power=1
+# hybrid int / agi
+"staff of healing" int=30 agi=100
+"Lord of Vermillion" int=500 agi=200 power=1
 
 # 3 stat hybrids
 "trusty handgun" str=100 int=90 agi=60 fire=10 crit=5 offense=3
-"downvote" str=250 int=-50 wis=-50
-"wad o' cash" str=350 int=100 wis=-50
+"downvote" str=250 int=-50 agi=-50
+"wad o' cash" str=350 int=100 agi=-50
 "tomato" str=275 agi=75 dex=85
-"peculiar object" str=400 int=-300 wis=-200 mp=500 glowing=3
+"peculiar object" str=400 int=-300 agi=-200 mp=500 glowing=3
 
 # 4 stat hybrids
-"Banhammer" str=350 int=100 wis=100 con=-100
-"homeless person" str=500 int=200 wis=-100 dex=400
+"Banhammer" str=350 int=100 agi=100 con=-100
+"homeless person" str=500 int=200 agi=-100 dex=400
 
 # idle-class
 "Wingsaber, Whirling Blade of the Idling Gods" str=5000 silver=1 offense=1 prone=1
@@ -360,20 +360,20 @@
 "Godly Imagination" str=5000 int=3500
 
 # celestial something or another
-"Celestial Cutlass" str=1000 dex=1000 con=1000 agi=1000 wis=1000 luk=1000 glowing=1 parry=1 offense=1 power=1 silver=1
+"Celestial Cutlass" str=1000 dex=1000 con=1000 agi=1000 int=1000 luk=1000 glowing=1 parry=1 offense=1 power=1 silver=1
 
 # custom
-"Pan Galactic Gargle Blaster" wis=500 agi=500 water=100
-"Commit Log" str=250 int=300 wis=-100 con=700
+"Pan Galactic Gargle Blaster" int=500 agi=500 water=100
+"Commit Log" str=250 int=300 agi=-100 con=700
 "lasso" dex=102
 "grenade" str=414 dex=30 darkside=1
 "a bucket full of luck" luk=200
 "frying pan" agi=12
 "rocket fist" str=780
-"chainsaw" str=780 strPercent=3
+"chainsaw" str=780
 "Akarah" crit=3 dance=1 deadeye=1 dex=206 agi=186 thunder=75
-"femur" str=120 wis=120
-"skull-topped cane" str=30 wis=30 mp=50
+"femur" str=120 int=120
+"skull-topped cane" str=30 int=30 mp=50
 "dart" agi=10 dex=10
 "dart gun" agi=200 dex=25 venom=1
 "katar" dex=300 power=1
@@ -383,7 +383,7 @@
 "book: The Good, the Bad, and the Idle" str=450 int=450
 "Celestial Battleaxe" str=7500 con=2500 luk=1000 glowing=1 silver=1 power=1 vorpal=1 fear=1
 "Celestial Dagger" dex=5000 glowing=1 silver=1 power=1 punish=1 poison=10
-"Celestial Staff" int=4000 wis=1000 luk=1000 water=750 fire=750 thunder=750 thunder=750 earth=750 ice=750 silver=1 power=1 glowing=1
+"Celestial Staff" int=4000 luk=1000 silver=1 power=1 glowing=1
 "repeating crossbow" dex=180 agi=10
 "Geany" int=1000
 "Akelpad" int=400
@@ -393,13 +393,13 @@
 "GNU Emacs" int=2000 deadeye=1 limitless=1
 "Fourforce of STR" str=10000
 "Fourforce of DEX" dex=10000
-"Fourforce of WIS" wis=10000
+"Fourforce of INT" int=10000
 "Fourforce of AGI" agi=10000
-"Fiveforce" str=2500 dex=2500 wis=2500 agi=2500
+"Fiveforce" str=2500 dex=2500 int=2500 agi=2500
 "mousepad" int=400 deadeye=4
 "balanced ternary tree" int=1300 luk=30
 "golden gun" str=136 deadeye=22
 "stun gun" prone=1 proneChance=46
-"Handmade Classical Guitar 1969" str=-50 dex=95 agi=40 wis=90 luk=35  offense=-1 vorpal=1
-"octree" int=775 intPercent=8
-"vampire killer" holy=3000
+"Handmade Classical Guitar 1969" str=-50 dex=95 agi=40 int=90 luk=35 offense=-1 vorpal=1
+"octree" int=775
+"vampire killer" str=500 int=500 dex=500

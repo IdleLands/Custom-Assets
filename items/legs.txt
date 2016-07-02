@@ -6,7 +6,7 @@
 "oak leaf" agi=5
 "poison ivy leaf" agi=8 poison=1
 "flexible thong" agi=60
-"fuzzy legwarmers" agi=150 wis=-5
+"fuzzy legwarmers" agi=150 int=-5
 "kneesocks" agi=245
 "Hottest Pants" agi=450 fire=50
 "Bunny Pajamas" agi=675
@@ -46,9 +46,9 @@
 "Full Monty" agi=400 con=400
 "Greaves of Null and All" agi=500 con=500
 
-# agi / wis
-"Granny's Pantaloons" agi=100 wis=75
-"Victoria's Panties" agi=300 wis=50
+# agi / int
+"Granny's Pantaloons" agi=100 int=75
+"Victoria's Panties" agi=300 int=50
 
 # con/int
 "smarty pants" con=20 int=40
@@ -66,7 +66,7 @@
 "The Biggest Fishnets You Ever Dun Seen" agi=1500 dex=7000 con=500 dance=1 startle=1
 
 # celestial something or another
-"Celestial Chausses" str=1000 dex=1000 con=1000 agi=1000 wis=1000 luk=1000 glowing=1 parry=1 offense=1
+"Celestial Chausses" str=1000 dex=1000 con=1000 agi=1000 int=1000 luk=1000 glowing=1 parry=1 offense=1
 
 # custom
 "turtle leggings" str=45 agi=-8 luk=5

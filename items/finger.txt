@@ -5,51 +5,49 @@
 "wire" int=2
 "Blood of the Victims" int=275
 
-# wis
-"ringlet" wis=1
+# int
+"ringlet" int=1
+"thimble" int=2
+"band" int=3
+"ring" int=4
+"tape" int=6
+"poison touch" int=15 poison=1
+"uncut nails" int=40
+"fingerpuppet" int=65
+"painted nails" int=150
+"Family Jewels" int=207
+"Thickly Twisted Wire" int=250
+"Magnetic Gloves" int=300
+"Midas Touch" int=350
+"Black Hole" int=400
 
-# int / wis
-"thimble" int=1  wis=4
-"band" int=2 wis=2
-"ring" int=4 wis=1
-"tape" int=6 wis=25
-"poison touch" int=15 wis=10 poison=1
-"uncut nails" int=40 wis=10
-"fingerpuppet" int=65 wis=100
-"painted nails" int=150 wis=200
-"Family Jewels" int=207 wis=207
-"Thickly Twisted Wire" int=250 wis=200
-"Magnetic Gloves" int=300 wis=200
-"Midas Touch" int=300 wis=300
-"Black Hole" int=400 wis=350
+# str/int
+"knuckle" str=7 int=3
+"knuckleduster" str=25 int=20
 
-# str/wis
-"knuckle" str=7 wis=3
-"knuckleduster" str=25 wis=20
-
-# dex/int/wis
-"Egregiously Long Nails" dex=-25 int=100 wis=175
-"vine ring" dex=50 int=50 wis=250
+# dex/int
+"Egregiously Long Nails" dex=-25 int=275
+"vine ring" dex=50 int=300
 
 # int/luck/str
 "fingerblades" int=30 luk=1 str=30
 
-# int/luck/wis
-"Ring of Slow Digestion" int=50 luk=5 wis=300
-"miniature world" int=60 luk=3 wis=50
-"Ring of Death and Life" int=500 luk=15 wis=500 crit=1
+# int/luck
+"Ring of Slow Digestion" int=350 luk=5
+"miniature world" int=110 luk=3
+"Ring of Death and Life" int=250 str=250 luk=15 crit=1
 
-# int/str/wis
-"Wolverine" int=150 str=300 wis=150
+# int/str
+"Wolverine" int=300 str=300
 
 # idle-class
-"Rebellious Ring of the Idling Gods" luk=200 int=1000 wis=1500 dex=1000 parry=1 defense=1 punish=1
+"Rebellious Ring of the Idling Gods" luk=200 int=1000 int=1500 dex=1000 parry=1 defense=1 punish=1
 
 # godly-class
 "Earth-sized Diamond" str=12000 agi=-1000 dex=-1000 offense=1 vorpal=1
 
 # celestial something or another
-"Celestial Circle" str=1000 dex=1000 con=1000 agi=1000 wis=1000 luk=1000 glowing=1 parry=1 defense=1 royal=1 shatter=1
+"Celestial Circle" str=1000 dex=1000 con=1000 agi=1000 int=1000 luk=1000 glowing=1 parry=1 defense=1 royal=1 shatter=1
 
 # custom
 "skull ring" str=200 startle=1
@@ -60,5 +58,5 @@
 "signet ring" luk=5 int=5
 "green thumb" agi=5 dex=5 int=5 earth=50
 "fish finger" water=25 str=5
-"chocolate fingers" crit=1 wis=5
+"chocolate fingers" crit=1 int=5
 "butter fingers" dex=100
