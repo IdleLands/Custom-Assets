@@ -415,7 +415,6 @@
 "dwarf shadowdancer"    zone=town level=69 class=Rogue dex=5000 agi=5000 con=5000
 "dwarf prince"          zone=town level=69 class=Bard int=4000 dex=4000 con=3500 str=2500 agi=1500
 "dwarf arbalest"        zone=town level=69 class=Archer dex=7500 agi=5000 str=3500 con=2500 luk=200
-"dwarf shadow"          zone=town level=69 class=Lich
 "dwarven ale bottle"    level=69 mirror=1
 
 # pygmy beings
