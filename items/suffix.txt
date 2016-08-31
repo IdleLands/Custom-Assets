@@ -88,7 +88,7 @@
 "Idleness" luk=400 sentimentality=5000
 
 # custom
-"of the cards" dex=50 con=100 int=50
+"cards" dex=50 con=100 int=50
 "sloth" con=20 haste=-1
 "pixel" dex=25 int=50 agi=25
 "scallywag" con=50 dex=15 str=15 int=15

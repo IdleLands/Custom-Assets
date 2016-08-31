@@ -82,7 +82,7 @@
 "lutefisk"          zone=water level=15 str=310 dex=51 int=-10
 "laser shark"       zone=water level=37 str=500 dex=500 agi=300
 "pistol shrimp"     zone=water level=40 class=Archer dex=700 agi=400
-"geoduck"           zone=water level=55 class=Druid con=1300 int=1500 earth=500
+"geoduck"           zone=water level=55 con=1300 int=1500 earth=500
 "jellyfish"         zone=water level=62 con=100 dex=1200 int=300 agi=400 str=1500 poison=1
 "kraken"            zone=water level=87 class=Mage water=1000 int=4000 con=3000 hp=10000 dex=2000 agi=4000
 "hydra"             zone=swamp level=99 class=Fighter str=4500 con=4500 dex=3000 hp=100000 agi=5000
@@ -223,7 +223,7 @@
 "bard"                  zone=forest level=6 class=Bard int=30 dex=30
 "jester"                zone=forest level=7 class=Jester luk=60
 "rogue"                 zone=forest level=8 class=Rogue agi=40 dex=30 str=20
-"druid"                 zone=forest level=9 class=Druid agi=40 str=10 dex=10 int=30
+"druid"                 zone=forest level=9 agi=40 str=10 dex=10 int=30
 "sandwich artist"       zone=forest level=10 class=SandwichArtist dex=70 str=30 int=60
 "archer"                zone=forest level=11 class=Archer
 "pirate"                zone=forest level=12 class=Pirate
@@ -568,7 +568,6 @@
 "Experiment .002" class=Bitomancer level=40 str=40 dex=120 con=50 int=160 agi=40
 "Experiment .003" class=Fighter level=40 str=140 dex=90 con=140 agi=80
 "Experiment .004" class=Cleric level=45 str=90 dex=45 con=50 int=45 agi=45
-"Self Destructing Brute" level=50 hp=100000 hpregen=-20000 str=500
 "Super Saiyan" zone=other level=100 class=Fighter agi=9001 dex=9001 con=9001 luk=9001 int=9001 str=9001
 "low mage" zone=forest level=1 class=Mage int=5
 "Errin" level=89

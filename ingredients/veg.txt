@@ -22,6 +22,6 @@
 "pickles" str=12
 "bell pepper" con=5 fire=5 str=5
 "green chile" con=5 fire=15 water=5
-"Jalapeño" con=5 fire=80
-"Habanero" str=10 fire=500
+"jalapeño" con=5 fire=80
+"habanero" str=10 fire=500
 "bird's chili" agi=15 fire=300

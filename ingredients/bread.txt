@@ -22,4 +22,4 @@
 "pain" str=50
 "pain de campagne" dex=20 agi=15
 "baguette" con=15 str=5
-"Mantou" luk=5 agi=5
+"mantou" luk=5 agi=5
