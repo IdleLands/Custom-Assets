@@ -360,6 +360,7 @@
 "goblin bitbitbit"      zone=cave level=51 class=Bitomancer int=1700 str=700 dex=200
 "goblin shooter"        zone=cave level=51 class=Archer dex=1700 agi=700 con=200
 "goblin evilspirit"     zone=cave level=51 class=Necromancer dex=800 str=800 int=1800
+"goblin darkmagicer"    zone=cave level=51 class=Lich int=800 str=800 con=800
 "goblish mirror"        level=51 mirror=1
 
 # giant beings
@@ -380,6 +381,7 @@
 "half-giant elf"        zone=cave level=57 class=Archer dex=3000
 "half-drunk giant"      zone=cave level=57 class=Pirate con=2000 str=1000
 "half-dead giant"       zone=cave level=57 class=Necromancer dex=1300 str=1300 int=1500
+"half-forever giant"    zone=cave level=57 class=Lich int=1300 str=1300 con=1300
 "half-shiny mirror"     level=57 mirror=1
 
 # elvish beings
@@ -397,6 +399,7 @@
 "elf bitcaster"         zone=town level=63 class=Bitomancer int=2500 dex=2500 agi=2500 con=2500 luk=500
 "elf bowmaster"         zone=town level=63 class=Archer dex=5000 agi=5000 str=3500 con=2500 luk=200
 "elf necromancer"       zone=cave level=63 class=Necromancer dex=2500 str=2500 int=5000
+"elf lich"              zone=cave level=57 class=Lich int=2500 str=2500 con=2500
 "elvish vanity mirror"  level=63 mirror=1
 
 # dwarven beings
@@ -415,7 +418,7 @@
 "dwarf shadowdancer"    zone=town level=69 class=Rogue dex=5000 agi=5000 con=5000
 "dwarf prince"          zone=town level=69 class=Bard int=4000 dex=4000 con=3500 str=2500 agi=1500
 "dwarf arbalest"        zone=town level=69 class=Archer dex=7500 agi=5000 str=3500 con=2500 luk=200
-"dwarf shadow"          zone=town level=69 class=Lich
+"dwarf shadow"          zone=town level=69 class=Lich int=3500 str=3500 con=3500
 "dwarven ale bottle"    level=69 mirror=1
 
 # pygmy beings
@@ -434,6 +437,7 @@
 "pygmy crier"           zone=cave level=76 class=Bard int=5500 dex=5500 con=2500 str=2500
 "pygmy shooter"         zone=cave level=76 class=Archer dex=10000 agi=5000 str=1500
 "pygmy ritualist"       zone=cave level=76 class=Necromancer int=10000 dex=3500 str=3500 con=1000 hp=1000
+"pygmy darknesser"      zone=town level=76 class=Lich int=5000 str=5000 con=5000
 "pygmish glass shard"   level=76 mirror=1
 
 # ogre beings
@@ -452,6 +456,7 @@
 "ogre pewpewer"         zone=cave level=85 class=Archer dex=10000 agi=5000 str=5000
 "ogre roidrager"        zone=cave level=85 class=Barbarian str=12000 con=12000
 "ogre scarycaster"      zone=cave level=85 class=Necromancer int=7500 dex=1500 str=9500 con=2000 hp=3000
+"ogre reviver"          zone=town level=85 class=Lich int=6500 str=6500 con=6500
 "crude mirror"          level=85 mirror=1
 
 # holywater beings
@@ -470,6 +475,7 @@
 "holywater bitomancer"      zone=town level=93 class=Bitomancer int=7500 dex=1500 agi=3500 con=4500
 "holywater archer"          zone=town level=93 class=Archer dex=8500 agi=4500 str=4500 con=2500
 "holywater evil cleric"     zone=town level=93 class=Necromancer int=12000 dex=7500 str=5500 hp=5000
+"holywater lich"            zone=town level=93 class=Lich int=7500 str=7500 con=7500
 "holywater mirror"          level=93 mirror=1
 
 # shadowflame beings
@@ -488,6 +494,7 @@
 "shadowflame bitomancer"      zone=town level=99 class=Bitomancer int=10000 dex=750 agi=2500 con=1500
 "shadowflame archer"          zone=town level=99 class=Archer dex=2500 agi=2500 str=10000 con=1500
 "shadowflame spirit twister"  zone=town level=99 class=Necromancer int=15000 dex=6500 str=6500 hp=15000
+"shadowflame lich"            zone=town level=99 class=Lich int=10000 str=10000 con=10000
 "shadowflame mirror"          level=99 mirror=1
 
 # kin beings
