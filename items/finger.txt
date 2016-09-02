@@ -19,7 +19,7 @@
 "Thickly Twisted Wire" int=250
 "Magnetic Gloves" int=300
 "Midas Touch" int=350
-"Black Hole" int=400
+"Mini Black Hole" int=400
 
 # str/int
 "knuckle" str=7 int=3
