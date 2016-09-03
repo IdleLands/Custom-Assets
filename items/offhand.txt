@@ -79,7 +79,7 @@
 "Celestial Cover" str=1000 dex=1000 con=1000 agi=1000 luk=1000 glowing=1 parry=1 defense=2 sturdy=1
 
 # custom
-"pool noodle" str=-55 int-1 agi=120 luk=3
+"pool noodle" str=-55 int=-1 agi=120 luk=3
 "spell book" int=25
 "spell tome" int=125
 "towel" luk=25
