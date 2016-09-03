@@ -117,7 +117,7 @@
 "Antiverse Circlet" str=100 int=100 dex=100 con=500 agi=100 deadeye=1
 
 # idle-class
-"Feathered Fez of the Idling Gods" int=-100 str=500 int=-100 agi=900 dex=1500 con=500 crit=1 deadeye=1 lethal=1
+"Feathered Fez of the Idling Gods" str=500 int=-100 agi=900 dex=1500 con=500 crit=1 deadeye=1 lethal=1
 
 # godly-class
 "Pile Of Hats That Reaches to the Moon" int=3500 agi=2500 luk=500 dex=1500 defense=1
