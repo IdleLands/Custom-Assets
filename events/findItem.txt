@@ -20,7 +20,7 @@ The God of Items, Shashkajze, caused a golden, shimmering %item to appear in fro
 Sarda, The Wizard Who Did It gave %player a shiny new %item. Everyone is jealous.
 %player ends up fighting with $random:player$ over %item and $random:item#1$. %player ends up keeping %item.
 %player threw a boomerang but the item that came back was something completely different. The item that came back broke %hisher hand but at least %heshe got to keep the %item.
-%player finished a quest and recieved %item.
+%player finished a quest and received %item.
 %player took a dump. Before flushing %heshe saw something in %hisher pile and found %item.
 %player killed $random:player#1$ and stole %item.
 %player begged for 5 hours in the trade chat and $random:player#1$ was so annoyed and sent %himher %item.
