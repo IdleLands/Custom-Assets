@@ -94,9 +94,9 @@
 "scallywag" con=50 dex=15 str=15 int=15
 "landlubber" con=-15 agi=-5 dex=-5 int=-5
 "tortoise" con=80 hpregen=100
-"storm" thunder=250
+"storm" int=155
 "archer" dex=10 agi=5 deadeye=1
-"gardener" earth=250 water=50
+"gardener" int=125 con=15
 "cunning crow" int=75 dex=25 gold=1
 "forgotten frog" int=200 royal=1
 "smelly skunk" agi=175 con=-20
@@ -104,7 +104,7 @@
 "prickly porcupine" str=37 dex=37 absolute=5
 "sleeping sloth" con=95
 "drunken master" str=175 agi=75 drunk=1
-"soggy slug" agi=-50 water=175
+"soggy slug" agi=-50
 "Golden Ratio" gold=1618
 "speedrunning snake" haste=8
 "quantal quetzal" luk=17

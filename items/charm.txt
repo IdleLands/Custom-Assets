@@ -63,7 +63,7 @@
 "Mirror Mirror" int=312 str=213
 
 # agi/int/luck
-"teleporter" agi=10 int=20 luk=3  dance=1
+"teleporter" agi=10 int=20 luk=3 dance=1
 
 # agi/int
 "Whole Rabbit" int=300 agi=100
@@ -93,5 +93,5 @@
 "lucky charm" luk=150
 "holy charm" luk=200
 "7 in 1 lucky charm" luk=65
-"ring of sparks" int=5 thunder=5
+"ring of sparks" int=5
 "8 ball clover" luk=8 con=8

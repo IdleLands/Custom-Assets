@@ -20,8 +20,8 @@
 "pumpkin" luk=5 int=10
 "cucumber" agi=5 str=5 con=5
 "pickles" str=12
-"bell pepper" con=5 fire=5 str=5
-"green chile" con=5 fire=15 water=5
-"jalapeño" con=5 fire=80
-"habanero" str=10 fire=500
-"bird's chili" agi=15 fire=300
+"bell pepper" con=5
+"green chile" con=5
+"jalapeño" con=5
+"habanero" str=10
+"bird's chili" agi=15

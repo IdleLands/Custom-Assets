@@ -20,7 +20,7 @@
 "bulwark" str=15 con=12
 "lunchbox" con=15 str=10
 "escutcheon" str=20 con=11
-"magic bubble" con=25 str=20 water=20 luk=1
+"magic bubble" con=25 str=20 luk=1
 "shieldkind" con=31 str=20
 "iron ingot" con=43 str=20
 "mirror shield" str=30 con=42
@@ -32,8 +32,7 @@
 "phalanx shield" con=113 str=60
 "spiked targe" str=153 con=50
 "pavise" con=175 str=50 defense=1
-"large dragon's scale" str=200 con=50 fire=200
-"Shield of Five Elements" con=150 str=150 fire=50 water=50 thunder=50 ice=50 earth=50
+"large dragon's scale" str=200 con=50
 "Reinforced Chunk of Rust" con=100 str=350
 "Summoned Swords" str=400 con=70 offense=1
 "Hero's Shield" con=450 str=200 defense=1
@@ -67,7 +66,8 @@
 "garbage can lid" dex=5 con=1 str=2 luk=1
 "scutum" str=10 dex=10 con=10 int=10
 "parasol" str=20 dex=30 agi=40 con=50
-"Magnetic Field" str=-30 con=50 dex=50 int=50 thunder=100 luk=10
+"Magnetic Field" str=-30 con=50 dex=50 int=50 luk=10
+"Shield of Five Stats" con=150 str=150 dex=150 agi=150 int=150
 
 # idle-class
 "Supersonic Shield of the Idling Gods" con=1000 str=1500 defense=1 aegis=1
@@ -85,7 +85,7 @@
 "towel" luk=25
 "encyclopedia" int=33
 "spell components" int=150 dex=5
-"torch" fire=500 glowing=1
+"torch" glowing=1
 "main gauche" agi=255 parry=1
 "sword-breaker" agi=500 offense=1
 "lighter" int=3 fire=25
@@ -106,15 +106,15 @@
 "flattened hundred leaf clover" luk=100 aegis=1
 "pot cover" con=2
 "chopping board" con=3 str=1 dex=1
-"disc of dirt" con=50 earth=50
-"comatose dwarf" con=150 fire=10 earth=25
+"disc of dirt" con=50
+"comatose dwarf" con=150
 "empty canvas" int=8
-"ice cream cone" con=5 int=5 ice=50 water=25
+"ice cream cone" con=5 int=5
 "sauce bottle" dex=17
 "trashy novel" con=100 int=-100
-"reinforced pancake" str=5 earth=1
+"reinforced pancake" str=5
 "backup phone" int=9
-"Weatherproof Shield" con=300 fire=150 water=150 thunder=150 ice=150 earth=150
+"Weatherproof Shield" con=300
 "offhand remark" int=1 offense=1
 "backhanded compliment" dex=25 int=5 offense=1
 "wall" con=250
@@ -122,5 +122,5 @@
 "imaginary shield" aegis=1 con=-5
 "firewall" int=100 aegis=1
 "blackboard" con=10 int=50
-"pizza" con=15 agi=5 str=5 fire=5
-"cheese wheel" con=35 str=15 ice=15
+"pizza" con=15 agi=5 str=5
+"cheese wheel" con=35 str=15

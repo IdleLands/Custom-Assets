@@ -34,10 +34,10 @@
 "earbuds" str=101
 
 # agi/con
-"diving helm"  agi=-20 con=150
+"diving helm" agi=-20 con=150
 "sombrero" agi=2 con=2
 "cowboy hat" agi=50 con=40
-"backwards baseball cap"  agi=100 con=90
+"backwards baseball cap" agi=100 con=90
 "Headwings" agi=430 con=200
 "Aerodynamic Haircut" agi=840 con=400
 
@@ -133,7 +133,7 @@
 "bucket" dex=-205 str=200 agi=25 dance=1
 "bandana" dex=8 agi=5
 "mortarboard" int=155
-"pith helmet" con=125 dex=10 earth=50
+"pith helmet" con=125 dex=10
 "jester hat" luk=120 dance=1
 "third eye" int=250 limitless=1
 "ribbon" int=35
