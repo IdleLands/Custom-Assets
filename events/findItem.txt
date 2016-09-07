@@ -25,5 +25,5 @@ Sarda, The Wizard Who Did It gave %player a shiny new %item. Everyone is jealous
 %player killed $random:player#1$ and stole %item.
 %player begged for 5 hours in the trade chat and $random:player#1$ was so annoyed and sent %himher %item.
 %player looked into %hisher pocket and found %hisher lost %item.
-%player finds %item hidden beneath a tree.
+%player found %item hidden beneath a tree.
 %player found a %item when it was sent through Amazon as a surprise for 2 billionth purchase!
