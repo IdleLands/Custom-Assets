@@ -38,7 +38,7 @@
 "medal" int=4 con=5
 "heart" con=10 int=10
 "whistle" int=15 con=10
-"franklin badge" int=40 con=30 thunder=30
+"franklin badge" int=40 con=30
 "Arihman's Heart" con=350 int=350
 "Steel Gorget" con=450 int=400
 
