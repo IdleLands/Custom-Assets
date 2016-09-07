@@ -6,12 +6,12 @@
 
 # dex/int
 "silk gloves" dex=2 int=5
-"ove gloves" dex=5 int=15  fire=5
+"ove gloves" dex=5 int=15
 "princess glove" dex=15 int=30
 "techno glove" dex=20 int=150
 "magic hand" dex=30 int=80
 "Merlin's Mittens" dex=50 int=550
-"Magefist" dex=100 int=300 fire=100
+"Magefist" dex=100 int=300
 
 # dex/str
 "bracers" dex=3 str=1
@@ -56,7 +56,7 @@
 "sock puppet" int=120
 "disposable plastic gloves" dex=2
 "hand cream" agi=50 dex=25
-"stonefist" con=50 earth=15
+"stonefist" con=50
 "arm ring" str=25 con=25
 "hand-shaped forcefield" con=500 aegis=1
 "ring of protection" con=10 defense=1
