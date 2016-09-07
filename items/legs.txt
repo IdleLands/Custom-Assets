@@ -8,7 +8,7 @@
 "flexible thong" agi=60
 "fuzzy legwarmers" agi=150 int=-5
 "kneesocks" agi=245
-"Hottest Pants" agi=450 fire=50
+"Hottest Pants" agi=450
 "Bunny Pajamas" agi=675
 
 # con
