@@ -9,7 +9,7 @@
 %player found some kind of high-technologic device, which %she proceeds to bash against a rock and then loots %gold bits of gold from inside.
 A friend of %player gives %himher %gold bits of gold, saying something about a 'debt'... Well, that doesn't happen too often.
 The Goddess of Riches, Kirierath, causes it to rain gold down at %player only, and %she proceeds to pick up as much as %gold bits of gold.
-%player finds a gold ingot with a lemon peel wrapped around it, and it was worth %gold gold!
+%player found a gold ingot with a lemon peel wrapped around it, and it was worth %gold gold!
 %player tripped into a lake, and discovered someone's secret stash of %gold gold.
 %player was rewarded %gold gold after having performed a generic fetch quest.
 %player made %gold gold selling snake oil.
@@ -38,7 +38,7 @@ Sarda, The Wizard Who Did It gave %player %gold gold to shake up the economy.
 A time anomaly made a few bank statements non-exist! The bank credits %player %gold gold.
 %player starts a Youtube channel! %She was paid %gold gold.
 %player chanced upon some unicorn dung! %She finds %gold gold in it.
-%player finds the right end of a black hole! %She finds %gold gold.
+%player found the right end of a black hole! %She finds %gold gold.
 %player works a night guarding a VIP. %player is paid %gold gold. Good job.
 %player kills a caribou and crawls inside. %She finds %gold gold in it's stomach!
 %player starts eating moonrocks... a week later %she finds %gold gold...
@@ -53,13 +53,13 @@ A time anomaly made a few bank statements non-exist! The bank credits %player %g
 %player checks under the couch cushions and finds %gold gold!
 %pet gets %player's attention to something buried underground. %player digs up some buried treasure worth %gold gold!
 A Fisherman of Claims dangles a dollar bill on a fishing pole in front of %player, he says 'Hey, got ya a dollar!'
-%player sticks %hisher hand in a vase of scorpions. %Heshe gets the %gold gold and only 5 venomous stings.
+%player stuck %hisher hand in a vase of scorpions. %Heshe gets the %gold gold and only 5 venomous stings.
 %player found a jar while walking. It not only had an angry hive of bees in it, but also %gold gold!
 %player purchased a treasure map, it led %himher to a buried pile of %gold gold!
 While singing along to Idliathlia's National anthem, %player found a wallet. Inside was an IOU cheque from Scrollback for being so unbelievably useless at times,   %player took the money and used it to buy something nice.
 %player idled for a month in a row! The nice Overlordmansir decided to give them a gift of %gold gold in exchange for their dedication.
 %player made a sperm donation and got %gold gold. What a relief that the spermbank didn't want to know where %heshe had that donation from.
-%player uses a nearby $random:item$ as a pickaxe and finds a lump of ore. The ore sells for %gold gold.
+%player used a nearby $random:item$ as a pickaxe and finds a lump of ore. The ore sells for %gold gold.
 %player decided to propose to %hisher best friend of 19 years. %player got rejected and was able to get a refund for the ring consisting of %gold gold!
 %player had a moment of confusion and thought to %himherself, "why does the memory implement the intelligent representative?" RNGesus overheard the thought of %player, and gave %himher %gold gold to shut up.
 %player learns how to fly. %She got given %gold gold to fly away and never come back.
