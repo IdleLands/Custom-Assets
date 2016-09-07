@@ -21,4 +21,4 @@
 "turducken" con=40
 "soylent green" luk=20
 "goldfish" luk=25
-"anchovy" str=10 water=5
+"anchovy" str=10
