@@ -297,7 +297,7 @@
 "8-bit" dex=12 int=27
 "detailed" gold=7 str=2 dex=3
 "foam" str=-20 dex=10
-"chilly" ice=75
+"chilly" int=75
 "toxic" venom=1 poison=1
 "non-toxic" poison=-1 venom=-1
 "eldritch" int=86 con=-17

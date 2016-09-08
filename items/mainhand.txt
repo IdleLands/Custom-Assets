@@ -57,9 +57,9 @@
 "falchion" str=98 silver=1
 "Full Ale Bottle" str=100 power=1 offense=2
 "cheese wheel" str=100
-"toaster" str=102 fire=20
+"toaster" str=102
 "large trout" str=104 offense=2 defense=2
-"snowball" str=106 ice=50
+"snowball" str=106
 "machine" str=108
 "shard of glass" str=110 vorpal=1
 "twig" str=112
@@ -68,7 +68,6 @@
 "warhammer" str=118
 "shuriken" str=120
 "chakram" str=122
-"bucket" str=124 defense=4
 "sling" str=126
 "longbow" str=128
 "crossbow" str=130 deadeye=1
@@ -101,23 +100,23 @@
 "muramasa" str=226 silver=1
 "bloodsword" str=232 power=1 vorpal=1
 "sleepsword" str=238
-"flaming arrow" str=244 fire=50
-"frozen arrow" str=250 ice=50
-"spark arrow" str=256 thunder=50
-"torrent arrow" str=262 water=50
-"earthen arrow" str=268 earth=50
-"curative arrow" str=274 heal=50
-"flamewhip" str=286 fire=80
-"frostwhip" str=298 ice=80
+"flaming arrow" str=244
+"frozen arrow" str=250
+"spark arrow" str=256
+"torrent arrow" str=262
+"earthen arrow" str=268
+"curative arrow" str=274
+"flamewhip" str=286
+"frostwhip" str=298
 "Gigasword" str=300 power=1 offense=4
-"shockwhip" str=310 thunder=80
-"vinewhip" str=322 earth=80
-"aquawhip" str=334 water=80
+"shockwhip" str=310
+"vinewhip" str=322
+"aquawhip" str=334
 "arbalest" str=346
 "sniper rifle" str=358 deadeye=1
 "m80" str=360
 "deagle" str=372
-"claimh solais" str=384 holy=50
+"claimh solais" str=384
 "uzi" str=396
 "shotgun" str=408
 "minigun" str=420
@@ -168,7 +167,7 @@
 "deck of cards" int=15 luk=3
 "joystick" int=16 luk=4
 "paper plate" int=17
-"ice cube" int=18 ice=30
+"ice cube" int=18
 "glowstick" int=19 luk=5
 "whiteboard" int=20
 "tome" int=21
@@ -183,7 +182,7 @@
 "lyre" int=41
 "pen" int=42
 "shamshir" int=45 luk=6
-"orange creamsicle" int=47 ice=10
+"orange creamsicle" int=47
 "chinese finger trap" int=49 prone=1
 "flip-phone" int=51
 "crosier" int=53 silver=1
@@ -210,7 +209,7 @@
 "pokeball" int=93
 "rosary" int=97 silver=1
 "tears" int=99
-"Din's Fire" int=100 fire=300
+"Din's Fire" int=100
 "magic magazine" int=101
 "pillow" int=103
 "d8" int=104
@@ -225,7 +224,7 @@
 "philosopher's stone" int=121
 "armcannon" int=123
 "ultraball" int=130
-"gaming laptop" int=137 thunder=50
+"gaming laptop" int=137
 "fireflower" int=144
 "body pillow" int=151
 "wand" int=158
@@ -239,22 +238,22 @@
 "rock candy" int=207
 "chaos emerald" int=214 luk=12
 "ballpoint pen" int=221
-"defibrillator" int=228 thunder=75
+"defibrillator" int=228
 "giant atom" int=239
 "d17" int=244
 "whisker" int=250
-"storm wand indra" int=261 thunder=100
-"fire scepter agni" int=272 fire=100
-"ice staff dagon" int=283 water=100
+"storm wand indra" int=261
+"fire scepter agni" int=272
+"ice staff dagon" int=283
 "smartphone" int=294
 "d20" int=298
 "Faore's Wind" int=300 dancing=1
-"flame crystal" int=305 fire=600
-"water crystal" int=316 water=600
-"earth crystal" int=327 earth=600
-"ice crystal" int=338 ice=600
+"flame crystal" int=305
+"water crystal" int=316
+"earth crystal" int=327
+"ice crystal" int=338
 "d100" int=345
-"thunder crystal" int=349 thunder=600
+"thunder crystal" int=349
 "kilobyte" int=350 prone=1
 "deathswat" int=371
 "whatisthis" int=392 luk=20 glowing=1
@@ -284,29 +283,29 @@
 "pancake" str=7 int=3
 "notepad" int=9 str=3
 "bar" str=8 int=2
-"flowerpot" str=15 int=15 earth=20
+"flowerpot" str=15 int=15
 "trident" str=30 int=20
 "tristaff" str=31 int=30
 "runeaxe" str=75 int=55
 "excalipoor" str=80 int=80
-"brazier" fire=100 str=70 int=30
-"blazier" fire=300 str=110 int=70
+"brazier" str=70 int=30
+"blazier" str=110 int=70
 "swordcane" str=150 int=50 luk=11
 "sunsword" str=170 int=55
 "murasame" str=218 int=60
 "masamune" str=235 int=80 silver=1
 "mythblade" str=90 int=267
-"flametongue" str=100 int=305 fire=150
-"icebrand" str=110 int=305 ice=80
-"mjollnir" str=335 int=200 thunder=150
+"flametongue" str=100 int=305
+"icebrand" str=110 int=305
+"mjollnir" str=335 int=200
 "Punisher" int=400 str=150
 "excalibar" str=400 int=250 silver=1 deadeye=1
 "Excalibur" str=503 int=300 silver=1 deadeye=1
-"computer" str=600 int=200 thunder=100
+"computer" str=600 int=200
 "popsicle stick" str=200 int=850
 "nexus" str=300 int=655
 "snickersnee" str=400 int=900
-"popsicle" str=630 int=400 ice=200 prone=1
+"popsicle" str=630 int=400 prone=1
 "Ziltoid's Touch" int=350 str=350 silver=1 offense=1 defense=1 dancing=1
 "MadCatz Tournament Edition Arcade Stick" int=595 str=200
 "book: 49 shades of idlin'" str=375 int=375
@@ -343,7 +342,7 @@
 "Lord of Vermillion" int=500 agi=200 power=1
 
 # 3 stat hybrids
-"trusty handgun" str=100 int=90 agi=60 fire=10 crit=5 offense=3
+"trusty handgun" str=100 int=90 agi=60 crit=5 offense=3
 "downvote" str=250 int=-50 agi=-50
 "wad o' cash" str=350 int=100 agi=-50
 "tomato" str=275 agi=75 dex=85
@@ -363,7 +362,7 @@
 "Celestial Cutlass" str=1000 dex=1000 con=1000 agi=1000 int=1000 luk=1000 glowing=1 parry=1 offense=1 power=1 silver=1
 
 # custom
-"Pan Galactic Gargle Blaster" int=500 agi=500 water=100
+"Pan Galactic Gargle Blaster" int=500 agi=500
 "Commit Log" str=250 int=300 agi=-100 con=700
 "lasso" dex=102
 "grenade" str=414 dex=30 darkside=1
@@ -371,13 +370,13 @@
 "frying pan" agi=12
 "rocket fist" str=780
 "chainsaw" str=780
-"Akarah" crit=3 dance=1 deadeye=1 dex=206 agi=186 thunder=75
+"Akarah" crit=3 dance=1 deadeye=1 dex=206 agi=186
 "femur" str=120 int=120
 "skull-topped cane" str=30 int=30 mp=50
 "dart" agi=10 dex=10
 "dart gun" agi=200 dex=25 venom=1
 "katar" dex=300 power=1
-"broom" str=10 earth=100
+"broom" str=10
 "Celestial Crossbow" dex=2500 agi=2500 luk=1000 glowing=1 crit=5 silver=1 power=1 lethal=1
 "star rod" str=305 dex=305 glowing=1
 "book: The Good, the Bad, and the Idle" str=450 int=450

@@ -76,5 +76,5 @@
 # custom
 "clogs" agi=200 dance=1
 "tap shoes" agi=105 dance=1
-"slippers" agi=5 int=15 fire=25
+"slippers" agi=5 int=15
 "Speed Shoes" haste=5

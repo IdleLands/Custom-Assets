@@ -52,11 +52,11 @@
 # custom
 "skull ring" str=200 startle=1
 "Ruby Ring" str=50
-"ring of flames" int=5 fire=5
+"ring of flames" int=5
 "middle finger extension" offense=1 crit=1 dex=1
 "wedding ring" luk=2 con=2
 "signet ring" luk=5 int=5
-"green thumb" agi=5 dex=5 int=5 earth=50
-"fish finger" water=25 str=5
+"green thumb" agi=5 dex=5 int=5
+"fish finger" str=5
 "chocolate fingers" crit=1 int=5
 "butter fingers" dex=100
