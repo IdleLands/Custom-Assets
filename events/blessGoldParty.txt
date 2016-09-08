@@ -1,5 +1,5 @@
-%partyName released a self-titled album. They even manage to sell a few copies!
-%partyName combed the beach with metal detectors, managing to find some gold!
+%partyName released a self-titled album. They even managed to sell a few copies!
+%partyName combed the beach with metal detectors, and managed to find some gold!
 %partyName found an open vault, and ran away with as much gold as they could!
 %partyName held a bake sale to fund their adventures.
 %partyName were hired as clowns at a birthday party.
