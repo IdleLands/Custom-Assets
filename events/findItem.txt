@@ -1,11 +1,11 @@
 %player stumbled across %item!
-While stumbling around, %player finds a Pokeball with %item inside.
-%player opens a chest and finds %item in it.
+While stumbling around, %player found a Pokeball with %item inside.
+%player opened a chest and found %item in it.
 %player got %item as a reward for performing a generic fetch quest.
-%player digs around in a skag pile and finds %item... Nice.
+%player digged around in a skag pile and found %item... Nice.
 %player went dumpster diving and found %item!
 %player found %item while %she was raiding a dungeon.
-A giant present suddenly drops from the sky, which %player opens up to find %item inside!
+A giant present suddenly dropped from the sky, which %player opened up to find %item inside!
 %player was given %item by a shady magician.
 %player found %item from an enemy corpse that was lying around.
 %player was donated %item to help %himher with %hisher quest!
@@ -13,12 +13,12 @@ A giant present suddenly drops from the sky, which %player opens up to find %ite
 The God of Items, Shashkajze, caused a golden, shimmering %item to appear in front of %player.
 %player broke the seal on a magic crystal, which turned out to contain %item!
 %player saw a strange shooting star fly down to hit the ground nearby, which %she went to the impact crater to find a glowing-hot %item in the middle of it.
-%player opens a crate and finds %item in it.  It's like Christmas!
-%player parts a curtain and picks up something saying, "We've got %item over here!"
-%player finishes doing %hisher laundry and mourns the loss of a sock to the Dryer Monster.  The clothing gods took pity on %himher...%she found %item instead!
+%player opened a crate and found %item in it.  It's like Christmas!
+%player parted a curtain and picks up something saying, "We've got %item over here!"
+%player finished doing %hisher laundry and mourned the loss of a sock to the Dryer Monster.  The clothing gods took pity on %himher...%she found %item instead!
 %player found %item in the backseat of the taxi %she got into.  The previous passenger must have left it behind...
-Sarda, The Wizard Who Did It gave %player a shiny new %item. Everyone is jealous.
-%player ends up fighting with $random:player$ over %item and $random:item#1$. %player ends up keeping %item.
+Sarda, The Wizard Who Did It gave %player a shiny new %item. Everyone was jealous.
+%player ended up fighting with $random:player$ over %item and $random:item#1$. %player ended up keeping %item.
 %player threw a boomerang but the item that came back was something completely different. The item that came back broke %hisher hand but at least %heshe got to keep the %item.
 %player finished a quest and received %item.
 %player took a dump. Before flushing %heshe saw something in %hisher pile and found %item.

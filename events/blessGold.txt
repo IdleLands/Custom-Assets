@@ -6,9 +6,9 @@
 %player went spelunking in a cave, and found a room full of ancient artifacts. %player also found %gold gold!
 %player won the lottery and gained %gold gold, after taxes of course.
 %player discovered what no alchemist could in many years: how to turn a bit of lead into %gold bits of gold.
-%player found some kind of high-technologic device, which %she proceeds to bash against a rock and then loots %gold bits of gold from inside.
-A friend of %player gives %himher %gold bits of gold, saying something about a 'debt'... Well, that doesn't happen too often.
-The Goddess of Riches, Kirierath, causes it to rain gold down at %player only, and %she proceeds to pick up as much as %gold bits of gold.
+%player found some kind of high-technologic device, which %she proceeded to bash against a rock and then loots %gold bits of gold from inside.
+A friend of %player gave %himher %gold bits of gold, said something about a 'debt'... Well, that doesn't happen too often.
+The Goddess of Riches, Kirierath, caused it to rain gold down at %player only, and %she proceeded to pick up as much as %gold bits of gold.
 %player found a gold ingot with a lemon peel wrapped around it, and it was worth %gold gold!
 %player tripped into a lake, and discovered someone's secret stash of %gold gold.
 %player was rewarded %gold gold after having performed a generic fetch quest.
@@ -35,36 +35,36 @@ Sarda, The Wizard Who Did It gave %player %gold gold to shake up the economy.
 %player played the stock markets! %player profited with %gold gold.
 %player found %gold gold in a brownie sundae!
 %player dug up a Time Capsule! %player found %gold gold.
-A time anomaly made a few bank statements non-exist! The bank credits %player %gold gold.
-%player starts a Youtube channel! %She was paid %gold gold.
-%player chanced upon some unicorn dung! %She finds %gold gold in it.
-%player found the right end of a black hole! %She finds %gold gold.
-%player works a night guarding a VIP. %player is paid %gold gold. Good job.
-%player kills a caribou and crawls inside. %She finds %gold gold in it's stomach!
-%player starts eating moonrocks... a week later %she finds %gold gold...
+A time anomaly made a few bank statements non-exist! The bank credited %player %gold gold.
+%player started a Youtube channel! %She was paid %gold gold.
+%player chanced upon some unicorn dung! %She found %gold gold in it.
+%player found the right end of a black hole! %She discovers %gold gold.
+%player worked a night guarding a VIP. %player is paid %gold gold. Good job.
+%player killed a caribou and crawls inside. %She found %gold gold in it's stomach!
+%player starts eating moonrocks... a week later %she found %gold gold...
 %player yells insults at a passing god. $dict:deity$ thanks %himher with %gold gold.
-%player happens upon a dragon ride camp. %She spends two weeks learning to fly. Upon graduation, %player was awarded %gold gold for having top honours!
-%player logs onto %hisher computer and checks %hisher email. %She won several online lotteries gaining %gold gold!
-%player eats a vial of nuclear waste thus winning a bet! %player wins %gold gold!  And cancer!
-%player smashes a parking meter with a stick, and absconds with the %gold gold inside it.
+%player happened upon a dragon ride camp. %She spent two weeks learning to fly. Upon graduation, %player was awarded %gold gold for having top honours!
+%player logged onto %hisher computer and checked %hisher email. %She won several online lotteries gaining %gold gold!
+%player ate a vial of nuclear waste thus winning a bet! %player won %gold gold!  And cancer!
+%player smashed a parking meter with a stick, and absconded with the %gold gold inside it.
 %player took %gold gold from a passerby and ran away yelling "I'm a treasure hunter, not a thief!"
 %player found $random:item$ but decided it would be better off liquidated, so %heshe sold it for %gold gold.
 %player saw $random:party$ and found it to be the perfect time to loot %gold gold from them!
-%player checks under the couch cushions and finds %gold gold!
-%pet gets %player's attention to something buried underground. %player digs up some buried treasure worth %gold gold!
-A Fisherman of Claims dangles a dollar bill on a fishing pole in front of %player, he says 'Hey, got ya a dollar!'
-%player stuck %hisher hand in a vase of scorpions. %Heshe gets the %gold gold and only 5 venomous stings.
+%player checked under the couch cushions and found %gold gold!
+%pet got %player's attention to something buried underground. %player dug up some buried treasure worth %gold gold!
+A Fisherman of Claims dangled a dollar bill on a fishing pole in front of %player, he said 'Hey, got ya a dollar!'
+%player stuck %hisher hand in a vase of scorpions. %Heshe got the %gold gold and only 5 venomous stings.
 %player found a jar while walking. It not only had an angry hive of bees in it, but also %gold gold!
 %player purchased a treasure map, it led %himher to a buried pile of %gold gold!
 While singing along to Idliathlia's National anthem, %player found a wallet. Inside was an IOU cheque from Scrollback for being so unbelievably useless at times,   %player took the money and used it to buy something nice.
 %player idled for a month in a row! The nice Overlordmansir decided to give them a gift of %gold gold in exchange for their dedication.
 %player made a sperm donation and got %gold gold. What a relief that the spermbank didn't want to know where %heshe had that donation from.
-%player used a nearby $random:item$ as a pickaxe and finds a lump of ore. The ore sells for %gold gold.
+%player used a nearby $random:item$ as a pickaxe and found a lump of ore. The ore sold for %gold gold.
 %player decided to propose to %hisher best friend of 19 years. %player got rejected and was able to get a refund for the ring consisting of %gold gold!
 %player had a moment of confusion and thought to %himherself, "why does the memory implement the intelligent representative?" RNGesus overheard the thought of %player, and gave %himher %gold gold to shut up.
-%player learns how to fly. %She got given %gold gold to fly away and never come back.
+%player learned how to fly. %She was given %gold gold to fly away and never come back.
 %player met up with $random:player$ in $random:map$'s hottest bar. They had fun and won the karaoke event. %player won %gold gold!
 They were giving out free gold at the bank... lol, yeah right... %player robbed a bank and got %gold gold for free!
 %player slept with $random:monster#1$'s parents (not *that* kind of 'slept', you dirty bugger!) and $random:monster#1$ paid %player %gold gold!
 %player finished a quest and received %gold gold.
-%player's shadow pickpockets a wandering $random:monster$ for %gold gold.
+%player's shadow pickpocketed a wandering $random:monster$ for %gold gold.

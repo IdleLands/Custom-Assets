@@ -2,13 +2,13 @@
 %player cleaned off %hisher %item in a nearby puddle.
 %player brushed the dust off of %hisher %item.
 %player cleaned the rust off of %hisher %item.
-%player dips %hisher %item into a glowing fountain, and, in turn, %hisher %item begins to glow.
-While strolling around, %player encounters a fiery-hot forge, and proceeds to reinforce %hisher %item.
-Thinking %hisher %item is looking a bit tarnished, %player tries %hisher best to repair it.
-A demon approaches and possesses %player's %item, to aid %player on %hisher quest.
-$dict:deity$, has decided to give %player an advantage by powering up %hisher %item.
+%player dipped %hisher %item into a glowing fountain, and, in turn, %hisher %item began to glow.
+While strolling around, %player encountered a fiery-hot forge, and proceeded to reinforce %hisher %item.
+Thinking %hisher %item is looking a bit tarnished, %player tried %hisher best to repair it.
+A demon approached and possessed %player's %item, to aid %player on %hisher quest.
+$dict:deity$, had decided to give %player an advantage by powering up %hisher %item.
 %player's %item was exposed to spontaneous and strong gamma radiation, and is now glowing a bright shade of green.
-%player uses a soul gem to enchant %hisher %item at an enchantment table.
+%player used a soul gem to enchant %hisher %item at an enchantment table.
 %player took %hisher %item in for repairs, and it came out looking even better than before!
 %player was fighting FOEs, when %she suddenly figured out how to use %hisher %item better!
 %player decided to reinforce %hisher %item a bit with another material to make it a little stronger.
