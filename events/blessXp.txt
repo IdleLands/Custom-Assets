@@ -19,7 +19,7 @@
 %player receives a high five from $dict:deity$ who descends from the heavens, leaving %xpxp in shimmering residue on %hisher hand!
 %player flung poo back at some nasty monkeys. The crowd cheered and showered %player in %xpxp!
 %player found the fourth chaos emerald! But it was a fake, so %player crushed it into %xpxp.
-%player practices in cake decoration, and succeeds in proportions greater than cheesecake! %player won a cake-decorating contest with %hisher cake, earning %himher %xpxp as a reward!
+%player practiced in cake decoration, and succeeded in proportions greater than cheesecake! %player won a cake-decorating contest with %hisher cake, earning %himher %xpxp as a reward!
 %player was given a golden axe by an axe-fairy. %player used the golden axe to cut down an Experience Tree, using the woodchipper to convert it into %xpxp.
 %player divided by zero. The universe gave %himher %xpxp as compensation.
 %player caught a magikarp and sold it to some stupid kid named $chance:first$ who thought it would actually be useful. %She gained %xpxp for the successful deception!
@@ -28,19 +28,19 @@
 %player decided to relax for a bit. %player found some insight during %hisher relaxation, gaining %xpxp as %she pondered.
 %player was given a crystal of pure experience, worth %xpxp!
 %player expected the unexpected, and got rewarded with %xpxp!
-%player meets a trickster who shows %himher some moves. Somehow, %she manages to survive those wicked moves and is now %xpxp stronger!
+%player met a trickster who showed %himher some moves. Somehow, %she managed to survive those wicked moves and is now %xpxp stronger!
 %player was smelling kinda funky, so %she took a shower.  After drying off, %she discovered %xpxp lying about in %hisher clothes!
 The last survivor on %player's team was dying of the black plague, so %player put %hisher teammate out of their misery. %She got a leadership bonus of %xpxp.
 %player successfully defended %hisher fortress from the undead and gained %xpxp!
 %player built a watch tower in %hisher warehouse to keep away the zombies, and it worked!
 Sarda, The Wizard Who Did It gave %player %xpxp to borrow.
 %player found a legendary weapon and went off to fight the demon lord.  Amazingly it was Excalibur and the fight was easily won earning %player %xp xp in the process.
-%player becomes lost in a dense fog! After finding %hisher way out, %she earns %xpxp!
-%player dives away from an explosion! %She narrowly avoids it and gains %xpxp.
-%pet finds a child trapped in a well! %player rescues the child and earns %xpxp!
-A passing $random:class$ shares %xpxp worth of knowledge with %player.
+%player became lost in a dense fog! After finding %hisher way out, %she earned %xpxp!
+%player dived away from an explosion! %She narrowly avoided it and gained %xpxp.
+%pet found a child trapped in a well! %player rescued the child and earns %xpxp!
+A passing $random:class$ shared %xpxp worth of knowledge with %player.
 %player watched BEN Drowned and avoided falling into a nearby river. Avoiding BEN was worth %xpxp!
-%player meets his friend $random:player$ and they learn to play Idle Lands together. As a result, %player gains a whopping %xpxp.
+%player met his friend $random:player$ and they learned to play Idle Lands together. As a result, %player gained a whopping %xpxp.
 %player sold %hisher mother to satan for the knowledge of cooking the perfect breakfast egg, gaining %xpxp.
 %player began learning to swim from $random:player$! %player fell through the water's surface and found all the lost xp from all the people that have fallen in previously! It was a total of %xpxp!
 Once upon a time there was a person called %player. One day, %player got really lucky and gained %xpxp! The end.

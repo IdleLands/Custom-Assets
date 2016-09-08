@@ -5,7 +5,7 @@
 %player was eaten by a grue. %player had to pay a %xpxp fee to respawn!
 %player was shot in the leg, causing %xpxp to pour out of the wound.
 %player ate $dict:placeholder$, and %hisher poor dieting habits caused %himher to lose %xpxp.
-%player found a chest! Inside this chest is another chest. This chest meta is too overwhelming for %himher to understand, and causes %himher to lose %xpxp.
+%player found a chest! Inside this chest was another chest. This chest meta was too overwhelming for %himher to understand, and caused %himher to lose %xpxp.
 %player saw a really bright light, and went stumbling around in a forest for hours, getting %xpxp stolen from %himher by pixies.
 %player had a piano fall on %hisher head. %player was knocked out for long enough to make %himher lose %xpxp.
 %player had acid poured on %himher by an old lady named $chance:name:{'gender':'female'}$. The acid also dissolved %xpxp!
@@ -16,16 +16,16 @@
 %player fell into a nearby river. %xpxp fell into the river out of %player while %she was in the water.
 %player got %hisher skull crushed by a falling chandelier. %player had to pay the hospital %xpxp to make %himher all better again.
 %player made a wooden bridge collapse beneath %himher. %player had to pay %xpxp for the damages to the bridge.
-%player is suddenly struck by a strong burst of pure energy. The energy turned out to be negative xp energy, causing %player to lose %xpxp!
+%player was suddenly struck by a strong burst of pure energy. The energy turned out to be negative xp energy, causing %player to lose %xpxp!
 %player was bitten in the leg by a rabid wolf. %player bled %xpxp out of the wound.
 %player noticed an airplane flying above %himher, and felt the plane's 'cargo' drop on %himher. Washing it away caused %player to lose %xpxp.
 %player had poo flung at %himher by a cage of monkeys. The time spent washing it off caused %player to lose %xpxp.
-%player suddenly sees a beast appear in front of %himher, blast %himher with an immense amount of energy, then teleport away. %player lost %xpxp recovering from the injuries.
+%player suddenly saw a beast appear in front of %himher, blast %himher with an immense amount of energy, then teleport away. %player lost %xpxp recovering from the injuries.
 %player was crushed by a falling tower. %player had to spend a lot of time recovering, making %himher lose %xpxp.
-%player finds a heavy bag on the ground, and upon trying to open it, is chomped on by a strong set of razor-sharp teeth. %player had to expend %xpxp carrying the bag into a location far from the public.
+%player found a heavy bag on the ground, and upon trying to open it, is chomped on by a strong set of razor-sharp teeth. %player had to expend %xpxp carrying the bag into a location far from the public.
 %player got run over by a herd of elephants. While dusting %himherself off, %player lost %xpxp flaking off.
 %player got run over by a mac truck. The owner of the truck, $chance:name$, sued %player for %xpxp.
-%player sneezed uncontrollably, %xpxp rocketing out of %hisher nostrils as %she ended up bashing %hisher head into the wall.
+%player sneezed uncontrollably, %xpxp rocketed out of %hisher nostrils as %she ended up bashing %hisher head into the wall.
 %player got distracted by TVTropes, losing %xpxp to distraction.
 %player found the missing link between %himher and the ground. This reunion costed %himher %xpxp.
 %player ran in circles around a $dict:adjective$ tree, exhausting %player of %xpxp.
@@ -39,7 +39,7 @@
 %player should have taken that left turn at Albuquerque. %player ended up losing %xpxp by needing to backtrack.
 %player picked %hisher nose and some pink squishy ooze fell out. That ooze turned out to be %xpxp seeping out.
 %player skipped through a field of poppies and became addicted to heroin. %player had to spend %xpxp breaking %hisher addiction.
-%player "donates" blood to an entire village of vampires. The vampires all sucked %xpxp from %himher!
+%player "donated" blood to an entire village of vampires. The vampires all sucked %xpxp from %himher!
 %player practiced cake making, and failed so greatly that it managed to explode all over the nearby tree. %player spent %xpxp in cleaning up the huge mess.
 %player got a ticket for peeing on a tree. The ticket cost %xpxp.
 %player found a magikarp! Unfortunately, it splashed its way back into the water. Silly magikarp. Too bad it also stole %xpxp from %player.
@@ -53,8 +53,8 @@
 %player had %hisher leg set on fire by a box of cheerios. %xpxp was burned up in the process.
 While %player was frozen after an encounter with a floating eye, a $dict:adjective$ warhorse stumbled upon %himher and kicked %himher to death! %She had to pay %xpxp to respawn.
 %player rolled snake eyes, and then %hisher eyes turned into snakes, causing %himher to lose %xpxp. (s.s)
-%player walks around some sketchy alleys and gets beaten up by a boy band. When %she wakes up, %she notices that %she lost nothing but %hisher self-esteem.
-%player sees a dark shape near a dead unicorn. The shape glares at %player and %she runs away like a sissy.
+%player walked around some sketchy alleys and got beaten up by a boy band. When %she woke up, %she noticed that %she lost nothing but %hisher self-esteem.
+%player saw a dark shape near a dead unicorn. The shape glares at %player and %she ran away like a sissy.
 %player slipped on a banana. Damn kids and their karts.
 Someone tied %player's shoelaces together.  %player took a spill and the stars %she saw was actually a little bundle of %xpxp leaving %himher.
 %player got a bit tipsy and decided to test the old myth about urinating on an electrified fence.  Suffice to say, it didn't go very well: %she lost %xpxp in the process.
@@ -65,7 +65,7 @@ A survivor on %player's team turned into a zombie and bit %himher! This transgre
 %player built a watch tower in %hisher warehouse to keep away the zombies, but no one was guarding it, so they got in. %player's neck got bitten and %xpxp spilled out.
 %player's teammates left the gates open, and the undead got in and slaughtered %hisher team. It cost %xpxp to reset to an old savefile.
 %player got run over by a PC truck. The owner of the truck, $chance:name$, installed Windows on %player, forcing %himher to wait while updates were downloaded and installed.  %She lost %xpxp waiting for this process to finish.
-%player got mowed down by a mac and cheese truck when it exploded. %She drowned in the cheesy deliciousness and lose %xpxp.
+%player got mowed down by a mac and cheese truck when it exploded. %She drowned in the cheesy deliciousness and lost %xpxp.
 %player got stopped by a chili mac truck. The driver got out and threw hot chili in %hisher face. It was so hot, %xpxp oozed out of %himher.
 Sarda, The Wizard Who Did It took %xpxp from %player, saying he needed it back.
 %player entered the famous competition show "Are You Smarter Than A Cheese Grater" and lost. %xpxp ran away in embarrassment.
@@ -73,17 +73,17 @@ There was a snail burrito laying on the ground and %player, being as wise as %sh
 In todays Death Daily, %player found %hisher name. Of course, %heshe died, losing %xpxp. Better luck next time!
 %player forgot to use %hisher blinker when merging into a nearby lane, and got hit off the road due to %hisher negligence! It cost %xpxp to get the BMW repaired.
 %player found a legendary weapon and went to fight the demon lord. Sadly it was Excalipoor and %player died quickly losing %xpxp.
-%player got "The Song That Never Ends" stuck in %hisher head. It won't go away. For weeks! Eventually, %heshe paid an exorcist %xpxp to get it out of %hisher head.
+%player got "The Song That Never Ends" stuck in %hisher head. It woundn't go away. For weeks! Eventually, %heshe paid an exorcist %xpxp to get it out of %hisher head.
 %player took a right turn at $chance:city$ and it turned out to be a waste of time. It took about %xpxp to get back on track.
 %player went to $chance:address$ and found a really creepy mansion. Creepy! %player isn't going in that place, but lost %xpxp.
-%player becomes lost in a dense fog! A denizen of the mist escorts %player out, but only in exchange for %xpxp.
-%player dives away from an explosion! %She gets hit by the blast and loses %xpxp.
-%player has been holding %hisher map upside down for hours. %player loses %xpxp getting back on track.
-A necromancer named $chance:name$ drains some of %player's life away. %She loses %xpxp during the attack.
+%player became lost in a dense fog! A denizen of the mist escorted %player out, but only in exchange for %xpxp.
+%player dived away from an explosion! %She got hit by the blast and lost %xpxp.
+%player had been holding %hisher map upside down for hours. %player lost %xpxp getting back on track.
+A necromancer named $chance:name$ drained some of %player's life away. %She lost %xpxp during the attack.
 %player purchased an ice cream and tripped on a rock. Everybody laughed. %xpxp was lost in embarrassment!
-%player runs around shouting, "Why does the destruction conciliate the hissing wood?" Everyone thinks %she is crazy... chances are, %she actually is crazy. %She lost %xpxp due to crazy!
+%player ran around shouting, "Why does the destruction conciliate the hissing wood?" Everyone thought %she is crazy... chances are, %she actually is crazy. %She lost %xpxp due to crazy!
 %player tried fighting $random:monster$ and lost... how disappointing! There goes %xpxp.
-%player got a call from %hisher mother. She's coming over for a holiday. %player lost %xpxp crying from stress.
+%player got a call from %hisher mother. She was coming over for a holiday. %player lost %xpxp crying from stress.
 %player got lost in a maze after sleeping in for too long. %She lost %xpxp to an XP merchant in exchange for directions.
 %player got tired after watching the newest season of House of Bards in one go and completely missed the fact that %she had walked off the track and into the den of a $random:monster$. Obviously %player died and lost %xpxp.
 %player walked into a tree. The tree's mother sued %player's mother for bad parenting. %player lost %xpxp and %hisher mother's love.
@@ -91,10 +91,10 @@ A necromancer named $chance:name$ drains some of %player's life away. %She loses
 $random:monster$ was walking around invisible and was able to steal %xpxp from %player! How did %player not see it happen?
 %player fell in love with $random:player$, and they went out on a date. %player didn't end up paying any gold! How lucky! %She did however lose a ton of xp.
 %player saw a grue and pooped %himherself! %xpxp came out with the poop, ewww. You don't want that back.
-%player has had sex, this terrible calamity costs %himher %xpxp.
-Kami-sama took a dump and to %player's misfortune it lands on %hisher head. %player loses %xpxp.
+%player had sex, this terrible calamity costed %himher %xpxp.
+Kami-sama took a dump and to %player's misfortune it landed on %hisher head. %player lost %xpxp.
 %player failed to finish a quest and lost %xpxp.
 %player forgot something. Because of that %heshe lost %xpxp.
 %player lorem ipsum dolor sit amet, consectetur adipisicing elit. Consequuntur repellendus explicabo eos blanditiis -%xpxp!
-%player's shadow runs away, taking %xpxp with it.
+%player's shadow ran away, taking %xpxp with it.
 %player committed sudoku and lost %xpxp.

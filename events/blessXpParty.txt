@@ -1,19 +1,19 @@
 %partyName went to the library for a group study session.
 %partyName had group practice at the local gym.
-%partyName shares stories around the campfire, some of which are educational.
-%partyName orders a magical experience pizza, and each member gets a piece!
-%partyName wins a synchronized swim meet.
-%partyName wins "Scariest Group Costume" at the Halloween party. They weren't dressed up.
-%partyName has a team-building exercise, improving synergy across the board.
-%partyName wins the lottery with a group ticket, which is promptly destroyed in the celebration. Well, they learned their lesson at least.
-%partyName runs a co-op dungeon in Satan -4, and their teamwork improves a bit.
-%partyName attends a group workshop, and learn how to be better adventurers.
-%partyName meets up with $random:party$ and they work together briefly, but break it off before the experience points are split up.
-%partyName stumbles across $random:party$ and they train together! Too bad the experience was gained by only one team.
+%partyName shared stories around the campfire, some of which were educational.
+%partyName ordered a magical experience pizza, and each member got a piece!
+%partyName won a synchronized swim meet.
+%partyName won "Scariest Group Costume" at the Halloween party. They weren't dressed up.
+%partyName had a team-building exercise, which improved synergy across the board.
+%partyName won the lottery with a group ticket, which was promptly destroyed in the celebration. Well, they learned their lesson at least.
+%partyName ran a co-op dungeon in Satan -4, and their teamwork improved a bit.
+%partyName attended a group workshop, and learned how to be better adventurers.
+%partyName met up with $random:party$ and they worked together briefly, but broke it off before the experience points were split up.
+%partyName stumbled across $random:party$ and they trained together! Too bad the experience was gained by only one team.
 %partyName attended a series of dancing classes together.  Now they can dodge more fabulously!
-%partyName starts the cult of $dict:deity#1$. $dict:deity#1$ rewards them with %xpxp.
+%partyName started the cult of $dict:deity#1$. $dict:deity#1$ rewarded them with %xpxp.
 %partyName had a pizza party of enlightenment!
 %partyName attended a series of cooking classes together, learning to divide workload for complex dishes. And murder.
 %partyName attended a series of boring seminars together. They learnt nothing, but bonded with each other in the process.
 %partyName designed a secret handshake together.
-%partyName sits down and gossip about $random:party$, getting friendier with each other in the process.
+%partyName sat down and gossiped about $random:party$, getting friendier with each other in the process.
