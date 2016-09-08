@@ -65,13 +65,13 @@
 "socks and sandals" agi=1 dex=1 int=-20
 
 # idle-class
-"Fastidious Feet of the Idling Gods" luk=100 agi=2000 dex=2500 startle=1 haste=1 parry=1
+"Fastidious Feet of the Idling Gods" luk=100 agi=2000 dex=2500 haste=1
 
 # godly-class
-"Time Travel Boots" agi=7500 dex=2500 haste=3 parry=1 dance=1
+"Time Travel Boots" agi=7500 dex=2500 haste=3 dance=1
 
 # celestial something or another
-"Celestial Clubbers" str=1000 dex=1000 con=1000 agi=1000 int=1000 luk=1000 glowing=1 parry=1 offense=1 defense=1 dance=1
+"Celestial Clubbers" str=1000 dex=1000 con=1000 agi=1000 int=1000 luk=1000 glowing=1 offense=1 defense=1 dance=1
 
 # custom
 "clogs" agi=200 dance=1
