@@ -11,3 +11,7 @@
 %partyName's adventure was recorded and presented to the gods as a reality show, and earned a bit of gold from sponsorship!
 %partyName starred in a circus show and was paid in gold!
 %partyName opened a makeshift tavern overcharging other adventurers. They were swiftly shut down for a lack of licenses.
+%partyName formed a racing team, built a car, and won the Norkos 500!
+%partyName won a sports tournament. They melted down the golden trophy and split the profits.
+%partyName went door to door selling vacuum cleaners. It sucked, but the pay did not.
+%partyName helped an elderly lady cross the street. She rewarded the group with gold as well as cookies.

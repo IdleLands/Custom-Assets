@@ -55,3 +55,4 @@ A little kid called $random:player$ was trying to sell %player some gold pieces 
 %player spent %gold gold on an ice cream cone, then immediately dropped it on the ground.
 %player failed to finish a quest and had to pay %gold gold.
 %player thought %heshe got too much money and threw %gold gold away.
+%player gave %gold to a Kickstarter campaign promising a new and improved $random:item$. Unfortunately, those promises fell flat. Bummer!
