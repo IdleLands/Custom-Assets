@@ -41,16 +41,16 @@
 "Wolverine" int=300 str=300
 
 # idle-class
-"Rebellious Ring of the Idling Gods" luk=200 int=1000 dex=1000 parry=1 defense=1 punish=1
+"Rebellious Ring of the Idling Gods" luk=200 int=1000 dex=1000 defense=1
 
 # godly-class
 "Earth-sized Diamond" str=12000 agi=-1000 dex=-1000 offense=1 vorpal=1
 
 # celestial something or another
-"Celestial Circle" str=1000 dex=1000 con=1000 agi=1000 int=1000 luk=1000 glowing=1 parry=1 defense=1 royal=1 shatter=1
+"Celestial Circle" str=1000 dex=1000 con=1000 agi=1000 int=1000 luk=1000 glowing=1 defense=1 shatter=1
 
 # custom
-"skull ring" str=200 startle=1
+"skull ring" str=200
 "Ruby Ring" str=50
 "ring of flames" int=5
 "middle finger extension" offense=1 crit=1 dex=1
