@@ -63,10 +63,10 @@
 "Gloomy Greaves of the Idling Gods" con=1000 agi=1000 dex=500 vampire=1 defense=1 poison=1
 
 # godly-class
-"The Biggest Fishnets You Ever Dun Seen" agi=1500 dex=7000 con=500 dance=1 startle=1
+"The Biggest Fishnets You Ever Dun Seen" agi=1500 dex=7000 con=500 dance=1
 
 # celestial something or another
-"Celestial Chausses" str=1000 dex=1000 con=1000 agi=1000 int=1000 luk=1000 glowing=1 parry=1 offense=1
+"Celestial Chausses" str=1000 dex=1000 con=1000 agi=1000 int=1000 luk=1000 glowing=1 offense=1
 
 # custom
 "turtle leggings" str=45 agi=-8 luk=5
