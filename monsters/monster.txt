@@ -562,7 +562,7 @@
 "crab" zone=water level=18 str=355 agi=120 con=10 defense=1
 "tortoise" zone=water level=21 str=430 con=80 hpregen=5
 "Experiment .005" class=SandwichArtist str=204 dex=187 int=100
-"crawler" class=Rogue level=27 str=54 dex=128 con=46 agi=128 startle=1
+"crawler" class=Rogue level=27 str=54 dex=128 con=46 agi=128
 "Doctor Krass" class=Generalist level=80 str=160 dex=160 con=160 int=160 agi=160
 "Experiment .001" class=Bitomancer level=50 str=50 dex=150 con=60 int=200 agi=50
 "Experiment .002" class=Bitomancer level=40 str=40 dex=120 con=50 int=160 agi=40
