@@ -76,7 +76,7 @@
 "Solar System" con=3000
 
 # celestial something or another
-"Celestial Cover" str=1000 dex=1000 con=1000 agi=1000 luk=1000 glowing=1 parry=1 defense=2 sturdy=1
+"Celestial Cover" str=1000 dex=1000 con=1000 agi=1000 luk=1000 glowing=1 defense=2
 
 # custom
 "pool noodle" str=-55 int=-1 agi=120 luk=3
@@ -86,15 +86,15 @@
 "encyclopedia" int=33
 "spell components" int=150 dex=5
 "torch" glowing=1
-"main gauche" agi=255 parry=1
+"main gauche" agi=255
 "sword-breaker" agi=500 offense=1
 "lighter" int=3 fire=25
 "turtle shell shield" str=50 con=40 luk=5
-"Kitako" crit=2 dance=1 lethal=1 dex=186 agi=146 thunder=50
+"Kitako" crit=2 dance=1 lethal=1 dex=186 agi=146
 "skull" str=50 int=100
 "metal detector" luk=50 gold=50 agi=-100 con=-10
 "thurible" int=300
-"fart in a bag" int=100 agi=30 darkside=1 poison=1
+"fart in a bag" int=100 agi=30 poison=1
 "mechanical keyboard" con=300 int=100
 "Meat Shield" con=40 str=15
 "hardened banana" str=5
