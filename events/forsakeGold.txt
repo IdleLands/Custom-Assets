@@ -19,7 +19,7 @@ As %player was going around stealing cheese wheels from various shops, a guard n
 %player spent %gold gold reforging %hisher items, and none of them are Legendary.
 %player died. Score: -%gold (and that's just how much gold you lost!)
 %player spent %gold gold playing farmville, cityville, castleville, townville, kitchenville, and shitville.
-%player notices the Steam summer sale and spent %gold gold on obscure indie games you probably never have heard of.
+%player noticed the Steam summer sale and spent %gold gold on obscure indie games you probably never have heard of.
 A miniature samurai ninja zombie pirate robot velociraptor with psychic powers stole %gold gold from %player while %she wasn't looking.
 %player spent %gold bits of gold on snake oil.
 %player had to spend %gold gold tending to injuries %she got while fighting a $random:monster$.
