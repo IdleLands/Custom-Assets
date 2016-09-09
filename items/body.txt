@@ -103,13 +103,13 @@
 "luck mail" luk=15
 
 # idle-class
-"Avaracious Armor of the Idling Gods" int=1500 luk=500 con=300 defense=1 darkside=1 sturdy=1
+"Avaracious Armor of the Idling Gods" int=1500 luk=500 con=300 defense=1
 
 # godly-class
 "Velociraptor" str=5000 dex=2000 con=1000 offense=1
 
 # celestial something or another
-"Celestial Chestpiece" str=1000 dex=1000 con=1000 agi=1000 int=1000 luk=1000 glowing=1 parry=1 defense=1
+"Celestial Chestpiece" str=1000 dex=1000 con=1000 agi=1000 int=1000 luk=1000 glowing=1 defense=1
 
 # custom
 "Apocalyptic Sticky Notes" str=200 dex=200 int=200 agi=-200

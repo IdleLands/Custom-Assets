@@ -247,7 +247,7 @@
 "ice staff dagon" int=283
 "smartphone" int=294
 "d20" int=298
-"Faore's Wind" int=300 dancing=1
+"Faore's Wind" int=300 dance=1
 "flame crystal" int=305
 "water crystal" int=316
 "earth crystal" int=327
@@ -306,7 +306,7 @@
 "nexus" str=300 int=655
 "snickersnee" str=400 int=900
 "popsicle" str=630 int=400 prone=1
-"Ziltoid's Touch" int=350 str=350 silver=1 offense=1 defense=1 dancing=1
+"Ziltoid's Touch" int=350 str=350 silver=1 offense=1 defense=1 dance=1
 "MadCatz Tournament Edition Arcade Stick" int=595 str=200
 "book: 49 shades of idlin'" str=375 int=375
 "Book: 50 Shadows over Idliathlia" str=400 int=400
@@ -359,13 +359,13 @@
 "Godly Imagination" str=5000 int=3500
 
 # celestial something or another
-"Celestial Cutlass" str=1000 dex=1000 con=1000 agi=1000 int=1000 luk=1000 glowing=1 parry=1 offense=1 power=1 silver=1
+"Celestial Cutlass" str=1000 dex=1000 con=1000 agi=1000 int=1000 luk=1000 glowing=1 offense=1 power=1 silver=1
 
 # custom
 "Pan Galactic Gargle Blaster" int=500 agi=500
 "Commit Log" str=250 int=300 agi=-100 con=700
 "lasso" dex=102
-"grenade" str=414 dex=30 darkside=1
+"grenade" str=414 dex=30
 "a bucket full of luck" luk=200
 "frying pan" agi=12
 "rocket fist" str=780
@@ -380,8 +380,8 @@
 "Celestial Crossbow" dex=2500 agi=2500 luk=1000 glowing=1 crit=5 silver=1 power=1 lethal=1
 "star rod" str=305 dex=305 glowing=1
 "book: The Good, the Bad, and the Idle" str=450 int=450
-"Celestial Battleaxe" str=7500 con=2500 luk=1000 glowing=1 silver=1 power=1 vorpal=1 fear=1
-"Celestial Dagger" dex=5000 glowing=1 silver=1 power=1 punish=1 poison=10
+"Celestial Battleaxe" str=7500 con=2500 luk=1000 glowing=1 silver=1 power=1 vorpal=1
+"Celestial Dagger" dex=5000 glowing=1 silver=1 power=1 poison=10
 "Celestial Staff" int=4000 luk=1000 silver=1 power=1 glowing=1
 "repeating crossbow" dex=180 agi=10
 "Geany" int=1000
@@ -389,7 +389,7 @@
 "SciTE" int=600 deadeye=1
 "Notepad2" int=4000
 "gedit" int=3000
-"GNU Emacs" int=2000 deadeye=1 limitless=1
+"GNU Emacs" int=2000 deadeye=1
 "Fourforce of STR" str=10000
 "Fourforce of DEX" dex=10000
 "Fourforce of INT" int=10000
@@ -398,7 +398,7 @@
 "mousepad" int=400 deadeye=4
 "balanced ternary tree" int=1300 luk=30
 "golden gun" str=136 deadeye=22
-"stun gun" prone=1 proneChance=46
+"stun gun" prone=1
 "Handmade Classical Guitar 1969" str=-50 dex=95 agi=40 int=90 luk=35 offense=-1 vorpal=1
 "octree" int=775
 "vampire killer" str=500 int=500 dex=500

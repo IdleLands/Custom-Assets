@@ -123,7 +123,7 @@
 "Pile Of Hats That Reaches to the Moon" int=3500 agi=2500 luk=500 dex=1500 defense=1
 
 # celestial something or another
-"Celestial Cap" str=1000 dex=1000 con=1000 agi=1000 int=1000 luk=1000 glowing=1 parry=1 defense=1
+"Celestial Cap" str=1000 dex=1000 con=1000 agi=1000 int=1000 luk=1000 glowing=1 defense=1
 
 # custom
 "war paint" str=30 agi=30
@@ -135,7 +135,7 @@
 "mortarboard" int=155
 "pith helmet" con=125 dex=10
 "jester hat" luk=120 dance=1
-"third eye" int=250 limitless=1
+"third eye" int=250
 "ribbon" int=35
 "Fabulous Lame Hat" str=100 int=100 dex=100 con=500 agi=100 deadeye=1
 "butt" dex=40 agi=80 luk=2 deadeye=1 dance=1
