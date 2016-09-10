@@ -13,7 +13,7 @@
 %player was attacked by a giant waffle iron falling from the sky, crushing %himher, turning %himher into a waffle. $random:player$ ate %himher as a waffle, making %player lose %xpxp.
 %player was vomited on by an adorable little kitty. %player began to question %hisher existence, which caused %himher to lose %xpxp.
 %player stepped on a landmine. %player paid a %xpxp toll to respawn.
-%player fell into a nearby river. %xpxp fell into the river out of %player while %she was in the water.
+%player fell into a nearby river. %xpxp fell into the river out of %player while %she bobbed in the water.
 %player got %hisher skull crushed by a falling chandelier. %player had to pay the hospital %xpxp to make %himher all better again.
 %player made a wooden bridge collapse beneath %himher. %player had to pay %xpxp for the damages to the bridge.
 %player was suddenly struck by a strong burst of pure energy. The energy turned out to be negative xp energy, causing %player to lose %xpxp!
@@ -56,7 +56,7 @@ While %player was frozen after an encounter with a floating eye, a $dict:adjecti
 %player walked around some sketchy alleys and got beaten up by a boy band. When %she woke up, %she noticed that %she lost nothing but %hisher self-esteem.
 %player saw a dark shape near a dead unicorn. The shape glares at %player and %she ran away like a sissy.
 %player slipped on a banana. Damn kids and their karts.
-Someone tied %player's shoelaces together.  %player took a spill and the stars %she saw was actually a little bundle of %xpxp leaving %himher.
+Someone tied %player's shoelaces together.  %player took a spill and the stars %she saw were actually a little bundle of %xpxp leaving %himher.
 %player got a bit tipsy and decided to test the old myth about urinating on an electrified fence.  Suffice to say, it didn't go very well: %she lost %xpxp in the process.
 %player went to anti-college and received a diploma worth -%xpxp!
 %player pulled the Never Ever Lever and lost %xpxp in the ensuing dragon attack!

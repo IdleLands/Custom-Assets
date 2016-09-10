@@ -2,8 +2,8 @@
 %player was mugged by a rogue named $chance:name:{'middle':true}$, and lost %gold gold.
 %player stumbled across a pyrite mine, and invested %gold gold in it, only to watch it fail miserably..
 %player bet %gold gold at a gambling table, only to lose it. Unfortunately, %she did not realize the dealer had loaded dice.
-%player decided to make an angel statue out of %gold bits of gold, for %she was interested in statue sculpting. However, as we all know, angel statues are utterly useless, and thus the gold was wasted.
-%player bought meat from $chance:name:{'middle_initial':true}$, the village bum, but since %she was only willing to pay %gold gold for meat, %she consequently contracted diarrhea.
+%player decided to make an angel statue out of %gold bits of gold, because %she had an interest in statue sculpting. However, as we all know, angel statues are utterly useless, and thus the gold was wasted.
+%player bought meat from $chance:name:{'middle_initial':true}$, the village bum, but since %she only had %gold gold to pay for the meat, %she consequently contracted diarrhea.
 %player donated %gold bits of gold for charity, which helped fund a playground for poor children in the lands of Idliathlia. It was a good thing, in the end.
 $random:player#1$ borrows %gold bits of gold from %player. Don't expect $random:player#1$ to ever return it, %player...
 An enchantress named $chance:name:{'gender':'female'}$ approached %player and offered to enchant an item of %hisher choice, in exchange for %gold bits of gold, paid in advance. %player paid up, and the enchantress ran off with it. Should not have expected anything else...
@@ -20,7 +20,7 @@ As %player was going around stealing cheese wheels from various shops, a guard n
 %player died. Score: -%gold (and that's just how much gold you lost!)
 %player spent %gold gold playing farmville, cityville, castleville, townville, kitchenville, and shitville.
 %player noticed the Steam summer sale and spent %gold gold on obscure indie games you probably never have heard of.
-A miniature samurai ninja zombie pirate robot velociraptor with psychic powers stole %gold gold from %player while %she wasn't looking.
+A miniature samurai ninja zombie pirate robot velociraptor with psychic powers stole %gold gold from %player while %hisher attention was elsewhere.
 %player spent %gold bits of gold on snake oil.
 %player had to spend %gold gold tending to injuries %she got while fighting a $random:monster$.
 %player was pounced on by a group of hooligans from $random:guild$, so %she had to throw %gold gold coins at them to distract them for long enough that %she could get away!
@@ -44,7 +44,7 @@ A friendly necromancer named $chance:name:{'middle':true}$ resurrected %player's
 The government photographs %player doing illegal activities. %player paid %gold gold to get them to keep quiet.
 %player went to a gold dealer to sell %hisher old grandmother's golden necklace. Turns out it was fake, %player had to compensate %gold gold for wasting the dealer's time.
 %player cracked a tooth eating a $random:item$ (don't ask), %she had to pay %gold gold to get the tooth replaced.
-%player was walking down the street and completely forgot what %she was doing. %gold gold was lost due to %hisher forgetfulness.
+%player was walking down the street and %she completely forgot what was going on. %gold gold was lost due to %hisher forgetfulness.
 A little kid called $random:player$ was trying to sell %player some gold pieces for %gold gold. Turns out they were chocolate.
 %player discovered a new type of animal! %She named it $random:player$ after %hisher one true love. It costed %gold gold to name it.
 %player discovered a monkey doing math. The monkey then tricked %himher into buying %gold gold worth of grapes. Since when did monkeys eat grapes?
