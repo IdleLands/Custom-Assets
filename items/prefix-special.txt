@@ -32,16 +32,13 @@
 "rebuilding" shatter=-1
 
 "poisonous" poison=1
-"megapoisonous" poison=1
+"megapoisonous" poison=3
 "antidote-ing" poison=-1
 
 "venomous" venom=1
-"megavenomous" venom=1
+"megavenomous" venom=3
 "anti-venom" venom=-1
 
 "vampiric" vampire=1
 "megavampiric" vampire=3
 "garlic" vampire=-1
-
-"drunk" drunk=1
-"sober" drunk=-1

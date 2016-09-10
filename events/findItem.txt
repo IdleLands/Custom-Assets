@@ -4,7 +4,7 @@ While stumbling around, %player found a Pokeball with %item inside.
 %player got %item as a reward for performing a generic fetch quest.
 %player digged around in a skag pile and found %item... Nice.
 %player went dumpster diving and found %item!
-%player found %item while %she was raiding a dungeon.
+%player found %item while %she raided a dungeon.
 A giant present suddenly dropped from the sky, which %player opened up to find %item inside!
 %player was given %item by a shady magician.
 %player found %item from an enemy corpse that was lying around.
@@ -27,3 +27,7 @@ Sarda, The Wizard Who Did It gave %player a shiny new %item. Everyone was jealou
 %player looked into %hisher pocket and found %hisher lost %item.
 %player found %item hidden beneath a tree.
 %player found a %item when it was sent through Amazon as a surprise for 2 billionth purchase!
+%player found a %item in %hisher cereal box!
+%player went deep sea diving and found a %item in the wreckage of an old ship.
+%player redeemed their voucher for a free %item!
+%player won a carnival game! %She received %item as a prize.

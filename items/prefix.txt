@@ -265,9 +265,9 @@
 "cosmic" luk=200 int=200
 
 "novice" xp=1
-"experienced" xp=5
-"expert" xp=10
-"master" xp=25
+"experienced" xp=3
+"expert" xp=7
+"master" xp=11
 
 "monetary" gold=1
 "valuable" gold=5
