@@ -88,7 +88,7 @@
 "torch" glowing=1
 "main gauche" agi=255
 "sword-breaker" agi=500 offense=1
-"lighter" int=3 fire=25
+"lighter" int=3
 "turtle shell shield" str=50 con=40 luk=5
 "Kitako" crit=2 dance=1 lethal=1 dex=186 agi=146
 "skull" str=50 int=100

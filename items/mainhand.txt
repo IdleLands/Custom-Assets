@@ -1,6 +1,6 @@
 # mostly str
 "bit" int=1 prone=1
-"ice cream cone" str=1 ice=1
+"ice cream cone" str=1
 "arrow" str=3 deadeye=1
 "spoon" str=4
 "rusty spoon" str=5
