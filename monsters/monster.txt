@@ -82,7 +82,7 @@
 "lutefisk"          zone=water level=15 str=310 dex=51 int=-10
 "laser shark"       zone=water level=37 str=500 dex=500 agi=300
 "pistol shrimp"     zone=water level=40 class=Archer dex=700 agi=400
-"geoduck"           zone=water level=55 con=1300 int=1500 earth=500
+"geoduck"           zone=water level=55 con=1300 int=1500
 "jellyfish"         zone=water level=62 con=100 dex=1200 int=300 agi=400 str=1500 poison=1
 "kraken"            zone=water level=87 class=Mage water=1000 int=4000 con=3000 hp=10000 dex=2000 agi=4000
 "hydra"             zone=swamp level=99 class=Fighter str=4500 con=4500 dex=3000 hp=100000 agi=5000
@@ -174,7 +174,7 @@
 "gryphon"                   level=23 hp=3000
 "garden-fresh tomato"       level=25 hp=3200
 "tomato in the mirror"      level=27 hp=3400
-"red dragon"                level=46 hp=4000 class=Mage prone=1 fire=1000
+"red dragon"                level=46 hp=4000 class=Mage prone=1
 "golem"                     level=48 hp=4500
 "blue dragon"               level=49 hp=4700 class=Mage
 "phoenix"                   level=50 hp=5000 class=Mage int=1000 con=2000
