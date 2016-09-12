@@ -23,3 +23,5 @@ After a crazy night of events involving a blood-sucking orange, Bigfoot, gummy b
 After taking some summoning classes, %player wants to try %hisher new skills and summons %partyMembers and forms the new party "%partyName".
 Angry at the lack of invitations to a lemon party, %player has formed "%partyName" with %partyMembers.
 Unable to throw a party, %player has decided to join "%partyName" with %partyMembers!
+%player and %partyMembers, dissatisfied with their previous parties formed their own party, "%partyName" with blackjack and hookers.
+%player, along with %partyMembers formed "%partyName". A party reserved only for fans of $dict:deity$.
