@@ -68,3 +68,4 @@ They were giving out free gold at the bank... lol, yeah right... %player robbed 
 %player slept with $random:monster#1$'s parents (not *that* kind of 'slept', you dirty bugger!) and $random:monster#1$ paid %player %gold gold!
 %player finished a quest and received %gold gold.
 %player's shadow pickpocketed a wandering $random:monster$ for %gold gold.
+%player sold %hisher collection of rare plates for %gold gold to Tytlous, The God of Breaking Fancy Dinnerware.
