@@ -17,3 +17,4 @@
 %partyName attended a series of boring seminars together. They learnt nothing, but bonded with each other in the process.
 %partyName designed a secret handshake together.
 %partyName sat down and gossiped about $random:party$, getting friendier with each other in the process.
+%partyName found a box on the ground labeled "Free XP to a good home".

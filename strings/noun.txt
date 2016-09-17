@@ -19,12 +19,15 @@ Crows
 Dancers
 Darkness
 Death
+Dolphins
 Donuts
 Drillers
 Dungeoneers
 Gamblers
+Gamers
 Escapers
 Explorers
+Explosions
 Fear
 Ferrets
 Fire
@@ -38,6 +41,7 @@ Ice
 IRC
 Injustices
 Inquisitions
+Jerks
 Jimminys
 Jokers
 Juggernauts
@@ -51,6 +55,7 @@ Laboratories
 Ladykillers
 Lollerskaters
 Maids
+Mailmen
 Maeles
 Masters
 Meerkats
@@ -73,6 +78,7 @@ Ruses
 Sheep
 Shepards
 Servants
+Servers
 SexManiacs
 Singularity
 Sprockets
@@ -87,6 +93,7 @@ Thunder
 Trees
 Trolls
 Tryhards
+Turtles
 Twats
 Water
 Waterloo
