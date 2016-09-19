@@ -26,17 +26,17 @@
 "lethal" lethal=1
 
 "shattering" shatter=1
-"megashattering" shatter=3
+"megashattering" shatter=2
 "rebuilding" shatter=-1
 
 "poisonous" poison=1
-"megapoisonous" poison=3
+"megapoisonous" poison=2
 "antidote-ing" poison=-1
 
 "venomous" venom=1
-"megavenomous" venom=3
+"megavenomous" venom=2
 "anti-venom" venom=-1
 
 "vampiric" vampire=1
-"megavampiric" vampire=3
+"megavampiric" vampire=2
 "garlic" vampire=-1
