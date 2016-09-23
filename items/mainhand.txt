@@ -218,7 +218,7 @@
 "king of hearts" int=109 offense=1 sentimentality=100
 "queen of clubs" int=111 offense=1
 "jack of diamonds" int=113 offense=1
-"chunk of ice" int=115 ice=50 offense=1
+"chunk of ice" int=200 offense=1
 "ace of spades" int=117 offense=1 defense=1 crit=1 luk=10
 "Newton's Cradle" int=119 crit=3
 "philosopher's stone" int=121

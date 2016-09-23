@@ -2,7 +2,7 @@
 %player created "%partyName" with %partyMembers. Watch out!
 %player forced %partyMembers to join %hisher new party, "%partyName."
 %player, along with %partyMembers are going to have a gay old time in their new adventuring group, "%partyName!"
-Nobody expects "%partyName," with %player and other heroes like %partyMembers!
+Nobody expected "%partyName," with %player and other heroes like %partyMembers!
 Introducing "%partyName!" They don't need a catchphrase, because %player and %partyMembers are too $dict:adjective$ for that!
 %player started a gang called "%partyName," and recruited %partyMembers.
 %partyMembers convinced a disgruntled %player to start a party with them, called "%partyName."
@@ -14,12 +14,14 @@ Although they all hate each other, their common goal has brought %player and %pa
 Sarda, The Wizard Who Did It made a party called "%partyName", and forced %player, %partyMembers into it.
 %player bands together with %partyMembers, forming "%partyName" and performing many heroic feats!
 TODAY'S HEADLINES: %player dissatisfied with overcooked lasagna at restaurant; bands together with %partyMembers into a group called "%partyName" to fight for quality of food.
-%player forms party "%partyName" with %partyMembers... and $dict:placeholder$.
+%player formed party "%partyName" with %partyMembers... and $dict:placeholder$.
 %partyMembers initially didn't like %player, but after 30 minutes of bickering, they agree to form a party called "%partyName".
 After a crazy night of events involving a blood-sucking orange, Bigfoot, gummy bears, obscene amounts of root beer, among other things, %player is now best friends with %partyMembers, and they all hang out together under the name "%partyName"!
 %player accidentally signed the wrong contract and created the group "%partyName" including %partyMembers.
-%player can not remember where %hisher last party wandered off to, so %she forms "%partyName" with %partyMembers!
-%player streaks through chat. %partyMembers like what they see. %partyName was formed as a result!
-After taking some summoning classes, %player wants to try %hisher new skills and summons %partyMembers and forms the new party "%partyName".
+%player can not remember where %hisher last party wandered off to, so %she formed "%partyName" with %partyMembers!
+%player streaked through chat. %partyMembers liked what they saw. %partyName was formed as a result!
+After taking some summoning classes, %player wanted to try %hisher new skills and summoned %partyMembers and formed the new party "%partyName".
 Angry at the lack of invitations to a lemon party, %player has formed "%partyName" with %partyMembers.
 Unable to throw a party, %player has decided to join "%partyName" with %partyMembers!
+%player and %partyMembers, dissatisfied with their previous parties formed their own party, "%partyName" with blackjack and hookers.
+%player, along with %partyMembers formed "%partyName". A party reserved only for fans of $dict:deity$.
