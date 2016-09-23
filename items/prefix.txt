@@ -200,7 +200,7 @@
 "otherworldly" dex=150 int=50
 "kryptonite" int=100 dex=100
 "celestial" int=300 luk=30
-"venomous" agi=30 dex=30 con=-30
+"acidic" agi=30 dex=30 con=-30
 "ancestral" int=150 con=50
 "eternal" con=250 agi=-50 luk=31
 "untested" luk=-10 con=50 agi=50 int=-10 str=50
