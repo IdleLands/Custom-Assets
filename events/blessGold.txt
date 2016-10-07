@@ -36,7 +36,7 @@ Sarda, The Wizard Who Did It gave %player %gold gold to shake up the economy.
 %player found %gold gold in a brownie sundae!
 %player dug up a Time Capsule! %player found %gold gold.
 A time anomaly made a few bank statements non-exist! The bank credited %player %gold gold.
-%player started a Youtube channel! %She received a payment %gold gold.
+%player started a YouTube channel! %She received a payment of %gold gold.
 %player chanced upon some unicorn dung! %She found %gold gold in it.
 %player found the right end of a black hole! %She discovers %gold gold.
 %player worked a night guarding a VIP. %player is paid %gold gold. Good job.
