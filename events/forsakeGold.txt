@@ -58,3 +58,5 @@ A little kid called $random:player$ was trying to sell %player some gold pieces 
 %player gave %gold gold to a Kickstarter campaign promising a new and improved $random:item$. Unfortunately, those promises fell flat. Bummer!
 %player was approached by a stranger that was offering to double %hisher gold. %player was hesitant and only offered up %gold gold. Sure enough the stranger disappeared in a blink of an eye.
 %player had to construct additional pylons...
+%player lost %hisher voice and had to spend %gold gold on a new one.
+%player won %gold gold. Wait, no...it is opposite day.

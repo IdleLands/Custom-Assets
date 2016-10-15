@@ -99,3 +99,4 @@ Kami-sama took a dump and to %player's misfortune it landed on %hisher head. %pl
 %player's shadow ran away, taking %xpxp with it.
 %player committed sudoku and lost %xpxp.
 %player forgot to smoke mid and paid the price of %xpxp.
+%player told a lie on the Internet. Who does that? %player apparently.
