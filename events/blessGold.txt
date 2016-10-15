@@ -69,3 +69,5 @@ They were giving out free gold at the bank... lol, yeah right... %player robbed 
 %player finished a quest and received %gold gold.
 %player's shadow pickpocketed a wandering $random:monster$ for %gold gold.
 %player sold %hisher collection of rare plates for %gold gold to Tytlous, The God of Breaking Fancy Dinnerware.
+%player tripped and landed face first on a pile of %gold gold coins.
+%player took the time to write a rhyme about the grime on the slime.

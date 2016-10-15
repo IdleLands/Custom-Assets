@@ -29,3 +29,4 @@ $random:player#1$ shoved $random:player#2$ but $random:player#2$'s weight caused
 %player clumsily spilled %hisher drink all over %hisher %item. That is going to leave a stain.
 %player dropped %hisher %item off at the cleaners. Needless to say, they did not do a good job.
 A bird overhead left an unpleasant surprise on %player's %item.
+Shashkajze, The God of Items, went fishing, hooked %player's %item. A struggle ensued. After many long minutes the line snapped, but the %item would no longer be the same.
