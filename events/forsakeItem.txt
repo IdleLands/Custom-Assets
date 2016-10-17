@@ -1,5 +1,5 @@
 %player dropped %hisher %item in a puddle and it got all dirty!
-%player was having a ba~ad day, and dropped %hisher %item in the dirt.
+%player was having a bad day, and dropped %hisher %item in the dirt.
 In a drunken rage, %player vomited all over %hisher %item.
 %player was attacked by a rogue flying book, and dropped %hisher %item.
 A bowling ball rolled by and knocked %player over, causing %himher to drop %hisher %item.
