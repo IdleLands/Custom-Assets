@@ -23,6 +23,7 @@ Crazy
 Crowded
 Cute
 Dark
+Dank
 Descending
 Destructive
 Distinct
@@ -36,6 +37,7 @@ Filthy
 Future
 Green-eyed
 Happy
+Hot
 Hungry
 Infinite
 Interviewing
@@ -62,3 +64,4 @@ Twitty
 Undefined
 Valiant
 Wacky
+Witty
