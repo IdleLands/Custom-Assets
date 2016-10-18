@@ -23,8 +23,6 @@ Dolphins
 Donuts
 Drillers
 Dungeoneers
-Gamblers
-Gamers
 Escapers
 Explorers
 Explosions
@@ -32,6 +30,10 @@ Fear
 Ferrets
 Fire
 Foxes
+Gamblers
+Gamers
+Geeks
+Grandmothers
 Hax0rs
 Heroes
 Hippies
@@ -59,8 +61,10 @@ Mailmen
 Maeles
 Masters
 Meerkats
+Memes
 Narwhals
 Nazis
+Nerds
 Norkos
 Numberphiles
 Officers
@@ -72,6 +76,7 @@ Psychopaths
 Puppies
 Pranksters
 Representatives
+Rockstars
 Roflcopters
 Rustlers
 Ruses
@@ -107,3 +112,4 @@ Wombats
 Vegans
 Vickys
 Void
+Zealots
