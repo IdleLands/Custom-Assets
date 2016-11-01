@@ -395,9 +395,9 @@
 "Fourforce of INT" int=10000
 "Fourforce of AGI" agi=10000
 "Fiveforce" str=2500 dex=2500 int=2500 agi=2500
-"mousepad" int=400 deadeye=4
+"mousepad" int=400 deadeye=1
 "balanced ternary tree" int=1300 luk=30
-"golden gun" str=136 deadeye=22
+"golden gun" str=136 deadeye=1
 "stun gun" prone=1
 "Handmade Classical Guitar 1969" str=-50 dex=95 agi=40 int=90 luk=35 offense=-1 vorpal=1
 "octree" int=775
