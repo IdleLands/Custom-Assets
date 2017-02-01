@@ -34,7 +34,7 @@
 %player was cursed by Oyashiro-sama. %player had to spend %xpxp to save %himherself.
 %player was pushed into a burning river by an old lady and a monkey named $chance:first$. %player paid the hospital %xpxp to fix the injuries.
 %player woke up without %hisher pants on. %player realized %she'd also lost %xpxp.
-%player was carried away, off into the distance, by a rabid pack of bats. %player lost %xpxp walking aaaa~ll the way home.
+%player was carried away, off into the distance, by a rabid pack of bats. %player lost %xpxp walking all the way home.
 %player was given a magical rod by a fairy, and not the kind of fairy with wings. At the same time, a real fairy stole %xpxp from %player.
 %player should have taken that left turn at Albuquerque. %player ended up losing %xpxp by needing to backtrack.
 %player picked %hisher nose and some pink squishy ooze fell out. That ooze turned out to be %xpxp seeping out.
@@ -99,3 +99,4 @@ Kami-sama took a dump and to %player's misfortune it landed on %hisher head. %pl
 %player's shadow ran away, taking %xpxp with it.
 %player committed sudoku and lost %xpxp.
 %player forgot to smoke mid and paid the price of %xpxp.
+%player told a lie on the Internet. Who does that? %player apparently.

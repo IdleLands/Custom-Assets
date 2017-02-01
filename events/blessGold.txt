@@ -19,7 +19,7 @@ The Goddess of Riches, Kirierath, caused it to rain gold down at %player only, a
 %player received %gold gold from a charity to help adventurers in need!
 %player was picking %hisher ears, when suddenly %gold gold coins fell out right into %hisher hands!
 %player pawned off some things %she didn't need for %gold gold!
-%player got a %gold reward for slaying a $random:monster$!
+%player got a %gold gold reward for slaying a $random:monster$!
 %player looted a dungeon in $random:map$ for %gold gold. %She also managed to make it out of the dungeon safely.
 %player accidentally caught a criminal as the criminal was running through the streets. The city ended up paying %player %gold gold for catching the criminal!
 %player went and gathered various herbs and fruits, and sold them off for %gold gold!
@@ -36,11 +36,11 @@ Sarda, The Wizard Who Did It gave %player %gold gold to shake up the economy.
 %player found %gold gold in a brownie sundae!
 %player dug up a Time Capsule! %player found %gold gold.
 A time anomaly made a few bank statements non-exist! The bank credited %player %gold gold.
-%player started a Youtube channel! %She received a payment %gold gold.
+%player started a YouTube channel! %She received a payment of %gold gold.
 %player chanced upon some unicorn dung! %She found %gold gold in it.
 %player found the right end of a black hole! %She discovers %gold gold.
 %player worked a night guarding a VIP. %player is paid %gold gold. Good job.
-%player killed a caribou and crawls inside. %She found %gold gold in it's stomach!
+%player killed a caribou and crawls inside. %She found %gold gold in its stomach!
 %player starts eating moonrocks... a week later %she found %gold gold...
 %player yells insults at a passing god. $dict:deity$ thanks %himher with %gold gold.
 %player happened upon a dragon ride camp. %She spent two weeks learning to fly. Upon graduation, %player was awarded %gold gold for having top honours!
@@ -69,3 +69,5 @@ They were giving out free gold at the bank... lol, yeah right... %player robbed 
 %player finished a quest and received %gold gold.
 %player's shadow pickpocketed a wandering $random:monster$ for %gold gold.
 %player sold %hisher collection of rare plates for %gold gold to Tytlous, The God of Breaking Fancy Dinnerware.
+%player tripped and landed face first on a pile of %gold gold coins.
+%player took the time to write a rhyme about the grime on the slime.
