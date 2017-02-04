@@ -143,3 +143,4 @@
 "bonnet" int=1 crit=1 deadeye=1
 "fez" int=500
 "rose-tinted glass" dex=750 int=30 con=-300
+"unicorn horn" con=250 agi=3500 int=3500 luk=250 silver=1 xp=1
