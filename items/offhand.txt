@@ -124,3 +124,4 @@
 "blackboard" con=10 int=50
 "pizza" con=15 agi=5 str=5
 "cheese wheel" con=35 str=15
+"sword cane" str=300 dex=30 int=300 mp=100
