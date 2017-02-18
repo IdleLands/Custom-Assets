@@ -71,3 +71,4 @@
 # custom
 "turtle leggings" str=45 agi=-8 luk=5
 "kilt" dex=50 agi=50 int=50
+"thorns" str=775 con=50 dex=50 agi=775 offense=1

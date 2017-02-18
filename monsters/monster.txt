@@ -575,3 +575,4 @@
 "human trash" zone=town level=1
 "jack of no trade" zone=forest level=15 class=Generalist str=1 dex=1 con=1 int=1 agi=1 luk=1
 "shadowflame quencher" zone=town level=99 class=Monster
+"meandering cactus" level=57 class=Fighter str=3200 con=1200 hpregen=50
