@@ -402,3 +402,4 @@
 "Handmade Classical Guitar 1969" str=-50 dex=95 agi=40 int=90 luk=35 offense=-1 vorpal=1
 "octree" int=775
 "vampire killer" str=500 int=500 dex=500
+"cactus" str=2150 con=-50 dex=900 agi=775 int=-99 hp=-2500 mp=250 prone=1 shatter=1
