@@ -32,3 +32,4 @@ Sarda, The Wizard Who Did It gave %player a shiny new %item. Everyone was jealou
 %player redeemed their voucher for a free %item!
 %player won a carnival game! %She received %item as a prize.
 %player read a clickbait article titled "11 Amazing Tips to Acquire %item". Ten of the tips were ridiculous, but the eleventh actually worked!
+%player found %item along the side of the road. Finders Keepers!
