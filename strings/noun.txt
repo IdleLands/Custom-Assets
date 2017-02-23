@@ -70,6 +70,7 @@ Numberphiles
 Officers
 Pacifists
 Peasants
+Planks
 Plunderers
 Prayers
 Psychopaths
@@ -100,6 +101,7 @@ Trolls
 Tryhards
 Turtles
 Twats
+Undead
 Water
 Waterloo
 Watchers
