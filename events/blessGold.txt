@@ -71,3 +71,4 @@ They were giving out free gold at the bank... lol, yeah right... %player robbed 
 %player sold %hisher collection of rare plates for %gold gold to Tytlous, The God of Breaking Fancy Dinnerware.
 %player tripped and landed face first on a pile of %gold gold coins.
 %player took the time to write a rhyme about the grime on the slime.
+%player found %gold gold on the ground.
