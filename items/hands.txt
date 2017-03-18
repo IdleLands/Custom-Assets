@@ -22,6 +22,7 @@
 "dragonscale gloves" dex=12 str=20
 "blacksmith gloves" dex=15 str=30
 "big cartoon gloves" dex=20 str=40
+"bear arms"  dex=20 str=80
 "ninja gloves" dex=55 str=10
 "spiked knuckles" dex=62 str=62
 "mega punch"  dex=40 str=90
