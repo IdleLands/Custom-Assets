@@ -100,3 +100,5 @@ Kami-sama took a dump and to %player's misfortune it landed on %hisher head. %pl
 %player committed sudoku and lost %xpxp.
 %player forgot to smoke mid and paid the price of %xpxp.
 %player told a lie on the Internet. Who does that? %player apparently.
+%player got really drunk during a thunderstorm, donned bronze armor, climbed the nearest hill and started insulting the local thunder god. The thunder god smote %player and they lost %xpxp!
+
