@@ -52,11 +52,11 @@
 
 # godly-class
 "Earth-sized Diamond" str=12000 agi=-1000 dex=-1000 offense=1 vorpal=1
-"Ring of the Evil Eye" str=4000 con=4000 int=-2000 vampire=1 hpregen=1
+"Ring of the Evil Eye" str=4000 con=4000 int=-2000 vampire=1 hpregen=1000
 
 # celestial something or another
 "Celestial Circle" str=1000 dex=1000 con=1000 agi=1000 int=1000 luk=1000 glowing=1 defense=1 shatter=1
-"Celestial Speckled Stoneplate Ring" con=3000 agi=3000 int=4000 defense=2 damageReduction=1 hpregen=200
+"Celestial Speckled Stoneplate Ring" con=3000 agi=3000 int=4000 defense=2 damageReduction=500 hpregen=200
 "Celestial Silver Serpent Ring" str=1000 dex=1000 con=-2000 agi=1000 int=1000 luk=4000 gold=30 xp=30 sentimentality=1000
 
 # astral something or another
