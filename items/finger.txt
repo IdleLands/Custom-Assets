@@ -20,6 +20,7 @@
 "Magnetic Gloves" int=300
 "Midas Touch" int=350
 "Mini Black Hole" int=400
+"Saint's Ring" (Added)
 
 # str/int
 "knuckle" str=7 int=3
@@ -28,6 +29,9 @@
 # dex/int
 "Egregiously Long Nails" dex=-25 int=275
 "vine ring" dex=50 int=300
+
+# dex/agi
+"Hawk Ring" (Ring for archers mostly)
 
 # int/luck/str
 "fingerblades" int=30 luk=1 str=30
@@ -42,12 +46,21 @@
 
 # idle-class
 "Rebellious Ring of the Idling Gods" luk=200 int=1000 dex=1000 defense=1
+"Red Tearstone Ring" (I advise to put more str into this and -HP if possible?)
+"Ring of Steel Protection" (Stats should be equal but have high defense\aegis)
+"Hornet Ring" (I advise putting more dex on this and to have the crit on it)
 
 # godly-class
 "Earth-sized Diamond" str=12000 agi=-1000 dex=-1000 offense=1 vorpal=1
+"Ring of the Evil Eye" (Stats should be equal but should have vampire+hpregen)
 
 # celestial something or another
 "Celestial Circle" str=1000 dex=1000 con=1000 agi=1000 int=1000 luk=1000 glowing=1 defense=1 shatter=1
+"Celestial Speckled Stoneplate Ring" (I advise to put more int into this and defense,damageReduction and hpregen)
+"Celestial Silver Serpent Ring" (Stats should be equal but have gold,xp and sentimentality
+
+# astral something or another
+"Astral Dusk Crown Ring" (I advise to put more int into this and -HP,silver,power and glowing if possible?)
 
 # custom
 "skull ring" str=200
