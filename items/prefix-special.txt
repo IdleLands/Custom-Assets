@@ -19,6 +19,9 @@
 
 "glowing" glowing=1
 
+"salvaging" salvage=1
+"preserving" salvage=-1
+
 "annihilating" crit=3 offense=3 prone=1 power=1 silver=1 vorpal=1
 "obliterated" crit=-3 offense=-3 defense=-3 prone=-1 power=-1
 "all messed up" crit=2 offense=-1 prone=1 power=-1 silver=1 vorpal=1 deadeye=-1 defense=2
