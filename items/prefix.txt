@@ -307,3 +307,4 @@
 "pre-enchanted" enchantLevel=1
 "shamrock-free" luk=-10
 "majestic" con=400 dex=20 xp=1
+"blaze'n" str=300 xp=5
