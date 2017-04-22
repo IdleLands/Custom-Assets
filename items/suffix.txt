@@ -113,3 +113,4 @@
 "speedy cheetah" agi=456
 "courageous crusader" aegis=1
 "serendipitous shrimp" str=5 con=-5 agi=200 luk=50
+"scrapper" salvage=1
