@@ -53,6 +53,8 @@
 # godly-class
 "Earth-sized Diamond" str=12000 agi=-1000 dex=-1000 offense=1 vorpal=1
 "Ring of the Evil Eye" str=4000 con=4000 int=-2000 vampire=1 hpregen=1000
+"Ring of Forfeit" str=-2000 con=-500 int=8000 defense=1 offense=-1 xp=40
+"Ill-Fated Ring" con=4000 agi=4000 int=4000 luk=-2500 crit=-2 gold=-500 offense=2 venom=5 poison=5 vampire=5
 
 # celestial something or another
 "Celestial Circle" str=1000 dex=1000 con=1000 agi=1000 int=1000 luk=1000 glowing=1 defense=1 shatter=1
