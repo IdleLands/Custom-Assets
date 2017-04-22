@@ -146,3 +146,5 @@
 "unicorn horn" con=250 agi=3500 int=3500 luk=250 silver=1 xp=1
 "bird nest" str=225 con=250 agi=-100 luk=-5 defense=1 sentimentality=50
 "squirrel nest" str=100 dex=300 agi=300 sentimentality=50
+"gag" agi=200 luk=69
+"helmet with a candle on top" con=300 defense=1 glowing=3
