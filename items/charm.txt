@@ -83,6 +83,8 @@
 
 # godly-class
 "Black Hole" int=1500 dex=1500 con=500 str=1500 agi=1500
+"Time Crystal" int=3000 dex=2000 luk=1000 xp=10
+"Ancient Symbiote" str=4000 con=3000 agi=2000 int=-3000 luk=-500 damageReduction=500 venom=1
 
 # celestial something or another
 "Celestial Chess Piece" str=1000 dex=1000 con=1000 agi=1000 int=1000 luk=1000 glowing=1 offense=1
@@ -95,3 +97,4 @@
 "7 in 1 lucky charm" luk=65
 "ring of sparks" int=5
 "8 ball clover" luk=8 con=8
+"String of Glass Eyes" int=500 luk=800 salvage=1

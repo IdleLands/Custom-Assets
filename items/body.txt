@@ -107,6 +107,7 @@
 
 # godly-class
 "Velociraptor" str=5000 dex=2000 con=1000 offense=1
+"Robe of Dreams" dex=1000 con=-1000 int=5500 luk=1000 aegis=1 xp=20
 
 # celestial something or another
 "Celestial Chestpiece" str=1000 dex=1000 con=1000 agi=1000 int=1000 luk=1000 glowing=1 defense=1
