@@ -46,7 +46,7 @@
 
 # idle-class
 "Rebellious Ring of the Idling Gods" luk=200 int=1000 dex=1000 defense=1
-"Red Tearstone Ring" str=1000 dex=1000 int=1000 hp=-20000
+"Red Tearstone Ring" str=2000 dex=2000 int=2000 hp=-10000
 "Ring of Steel Protection" str=100 con=2000 agi=600 aegis=1
 "Hornet Ring" str=200 dex=1600 agi=800 crit=2
 
