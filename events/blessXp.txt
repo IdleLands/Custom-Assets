@@ -61,3 +61,4 @@ All the people in $random:town$ decided it was time to reward %player for all %h
 %player succeeded in getting %hisher wagon to fly into outer space and gained %xpxp!
 %player succeeded in getting %hisher wagon to jump across the whole river and gained %xpxp!
 %player got really drunk during a thunderstorm, donned bronze armor, climbed the nearest hill and started insulting the local thunder god. Other gods who really considered the thunder god a total git granted our drunk hero with %xpxp!
+%player got sprayed with bidet butt-water and lost %xpxp!
