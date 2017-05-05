@@ -72,7 +72,7 @@
 # celestial something or another
 "Celestial Choker" str=1000 dex=1000 con=1000 agi=1000 int=1000 luk=1000 glowing=1 offense=1
 
-#goatly-class
+# goatly-class
 "Friendship Eternis Necklace" con=5022 int=1750 luk=4000 damageReductionPercent=5 sentimentality=10000 glowing=15
 "Photonic Bowtie" con=3140 dex=4000 agi=2997 int=17750 gold=106 dance=3 glowing=40
 
