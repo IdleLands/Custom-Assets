@@ -52,6 +52,9 @@
 # celestial something or another
 "Celestial Cannonhands" str=1000 dex=1000 con=1000 agi=1000 int=1000 luk=1000 glowing=1 offense=1
 
+# goatly-class
+"Smart Watch with Fitness Monitoring" str=4000 con=5000 dex=2000 agi=500 luk=2222 hp=40000 hpregen=1250 defense=7 offense=2
+
 # custom
 "fingerless gloves" agi=100 dex=100
 "sock puppet" int=120
