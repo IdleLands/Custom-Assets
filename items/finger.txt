@@ -64,6 +64,9 @@
 # astral something or another
 "Astral Dusk Crown Ring" str=5000 dex=1000 con=2000 agi=-2000 int=12000 hp=-50000 silver=1 power=1 glowing=1
 
+#goatly-class
+"Shut-In's Loop" str=-3000 con=-500 dex=-1000 agi=-2000 int=25025 luk=10000 xp=-30 mpregen=100 poison=2 dance=-1
+
 # custom
 "skull ring" str=200
 "Ruby Ring" str=50
