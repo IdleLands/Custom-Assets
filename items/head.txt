@@ -126,7 +126,7 @@
 "Celestial Cap" str=1000 dex=1000 con=1000 agi=1000 int=1000 luk=1000 glowing=1 defense=1
 
 # goatly-class
-20/500 Prescription Lenses int=12000 luk=3900 crit=10 deadeye=5 vector(1)
+"20/500 Prescription Lenses" int=12000 luk=3900 crit=10 deadeye=5 vector=1
 
 # custom
 "war paint" str=30 agi=30
