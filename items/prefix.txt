@@ -269,6 +269,7 @@
 "expert" xp=7
 "master" xp=11
 
+"loaned" gold=-100
 "monetary" gold=1
 "valuable" gold=5
 "golden" gold=10
@@ -285,6 +286,7 @@
 "sentimental" sentimentality=100
 "emotionally bound" sentimentality=200
 "inseparable" sentimentality=500
+"your" sentimentality=2000
 
 "channelling" mpregen=100
 "tearforged" mpregen=300
