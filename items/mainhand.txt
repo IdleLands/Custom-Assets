@@ -361,6 +361,10 @@
 # celestial something or another
 "Celestial Cutlass" str=1000 dex=1000 con=1000 agi=1000 int=1000 luk=1000 glowing=1 offense=1 power=1 silver=1
 
+# goatly-class
+"Min-Max Sabre" str=5300 con=6000 dex=4000 agi=-10550 int=600 luk=2200 crit=25 prone=10 venom=5 poison=10 shatter=10 vampire=15 defense=10 offense=10 vorpal=1 aegis=-20
+"Tab with github/IdleLands open" str=-1000 con=1600 agi=-4000 int=19000 luk=740 damageReduction=6000 glowing=10 salvage=3
+
 # custom
 "Pan Galactic Gargle Blaster" int=500 agi=500
 "Commit Log" str=250 int=300 agi=-100 con=700

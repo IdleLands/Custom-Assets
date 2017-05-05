@@ -5,3 +5,10 @@ Destiny's Child released a new single.  It's entitled "%player met with %hisher 
 Magaera, Trisiphone and Allecto gather to decide %player's fate.
 %player got a lapdance from karma.
 %player gets sent through a RNG!
+%player rolled the Bones of Fate!
+%player blinked %hisher third eye.
+%player had a knot tied in %hisher thread of fate!
+%player went to a brain exchange clinic.
+%player remembered one of %hisher past lives!
+%player accepted the absurd.
+%player drank the koolaid!

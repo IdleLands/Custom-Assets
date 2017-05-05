@@ -269,6 +269,7 @@
 "expert" xp=7
 "master" xp=11
 
+"loaned" gold=-100
 "monetary" gold=1
 "valuable" gold=5
 "golden" gold=10
@@ -285,6 +286,7 @@
 "sentimental" sentimentality=100
 "emotionally bound" sentimentality=200
 "inseparable" sentimentality=500
+"your" sentimentality=2000
 
 "channelling" mpregen=100
 "tearforged" mpregen=300
@@ -308,3 +310,6 @@
 "shamrock-free" luk=-10
 "majestic" con=400 dex=20 xp=1
 "blaze'n" str=300 xp=5
+"swagalicious" luk=100 glowing=2
+"fishy" con=-100 luk=500 defense=-1
+"h4X3D" int=600 luk=20 xp=-2 
