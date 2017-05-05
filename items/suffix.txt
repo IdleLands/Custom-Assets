@@ -114,3 +114,5 @@
 "courageous crusader" aegis=1
 "serendipitous shrimp" str=5 con=-5 agi=200 luk=50
 "scrapper" salvage=1
+"Xenu" int=500 glowing=1
+"Wutang" str=-500 dex=500 agi=500 prone=1 dance=1
