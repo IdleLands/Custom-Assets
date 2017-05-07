@@ -91,7 +91,7 @@
 
 # goatly-class
 "Pact with Maxwell's Demon" str=1872 con=1016 dex=1824 agi=-273 int=13806 luk=1416 mp=207765 hpregen=8000 mp=-4000
-"Reality VM" str=5000 con=3000 dex=5000 agi=1000 int=1000 luk=3000 xp=100 hp=30000 gold=-10000 salvage=3
+"Reality VM" str=5000 con=4000 dex=5000 agi=1000 int=2000 luk=3000 xp=25 hp=30000 gold=-10000 salvage=3
 
 # custom
 "loaded dice" luk=100
