@@ -4,7 +4,7 @@ Sarda, The Wizard Who Did It caused %player's %item to have its polarity reverse
 %player had the ol' switcheroo happen to %item.  Didgeridoo and Timbuktu.
 %player's %item got switcheroo'd.  Maybe if they stand on their head and look at the stat it'll be alright...
 %player prayed to $dict:deity$ for a buff, but instead %hisher %item suffered a switcheroo!
-%player got hit with a mean curse that switches stats around!
+%player's %item hit with a mean curse that switches stats around!
 %player fliped a voodoo coin with a picture of %hisher %item. %Hisher %item's %stat copied the movement.
 %player was bored and did %himherself the glorious favor of switching a stat %heshe didn't like on %item.
 %player flipped their %item upside-down and it's stats got switcherooed!
