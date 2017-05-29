@@ -33,3 +33,13 @@ Sarda, The Wizard Who Did It gave %player a shiny new %item. Everyone was jealou
 %player won a carnival game! %She received %item as a prize.
 %player read a clickbait article titled "11 Amazing Tips to Acquire %item". Ten of the tips were ridiculous, but the eleventh actually worked!
 %player found %item along the side of the road. Finders Keepers!
+%player opened a can of beans and found a %item!
+%player was escorting a $random:monster#1$ when they died. %player found a %item on their corpse!
+%player saw a DIY project for a $random:item#1$ but ended up with a %item instead.
+%player was digging graves when %heshe found a buried %item!
+$random:player#1$ got the drop on %player, but $random:player#1$ felt bad and handed %himher a %item!
+%player ordered this month's newtcrate and found a %item inside!
+A strange creature attacked %player, and %heshe found a bone oddly shaped into a %item.
+%player solved a Ruby's Cube, and a %item appeared from it.
+A fugitive ran up to %player and told %himher to "Take this!". %Heshe was handed a %item, and the fugitive ran away.
+%player found %item in the clearance section at Sardamart.

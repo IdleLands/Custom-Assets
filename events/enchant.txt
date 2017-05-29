@@ -13,3 +13,8 @@ Sarda, The Wizard Who Did It enchanted %player's %item to see what would happen.
 A cute little kitten rubbed their head against the %item of %player. The %item got enchanted.
 %player acquired enough obsidian to build an enchantment table. %Hisher %item is now enchanted.
 %player found an enchantment recipe for %hisher %item that oddly did not require any reagents.
+%player sacrificed a few goats to enchant %hisher %item.
+%player buried %hisher %item in the ground, and a better one grew from it's place!
+%player won an item enchant in a claw machine! %heshe applied to %hisher %item.
+Tholsqueds decided to wrap %player's %item in motley.
+%player ate %hisher %item. When it came out the other end, it was enchanted!
