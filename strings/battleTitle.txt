@@ -1,8 +1,10 @@
+Assault
 Avenging
 Battle
 Bickering
 Capture
 Challenge
+Charge
 Clash
 Combat
 Conflict
@@ -15,12 +17,16 @@ Engagement
 Expedition
 Feud
 Fight
+Food Fight
 Fray
 Massacre
+Mission
 Quarrel
 Quibble
 Raid
 Riot
+Royale
+Rumble
 Showdown
 Skirmish
 Siege
@@ -28,4 +34,6 @@ Squabble
 Strife
 Struggle
 Subversion
+Tournament
+Trial
 War
