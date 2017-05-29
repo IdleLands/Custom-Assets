@@ -16,5 +16,5 @@ A cute little kitten rubbed their head against the %item of %player. The %item g
 %player sacrificed a few goats to enchant %hisher %item.
 %player buried %hisher %item in the ground, and a better one grew from it's place!
 %player won an item enchant in a claw machine! %heshe applied to %hisher %item.
-Tholsqueds decided to wrap %player's item in motley.
+Tholsqueds decided to wrap %player's %item in motley.
 %player ate %hisher %item. When it came out the other end, it was enchanted!
