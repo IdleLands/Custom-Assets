@@ -127,6 +127,7 @@
 "light" agi=40 con=-10
 "homemade" str=-10 int=40
 "holy" int=33 con=17 luk=5
+"sacred" int=660 con=340 luk=100 glowing=1
 "dark" dex=10 str=40 luk=-5
 "charismatic" luk=50
 "bright" dex=10 int=40
@@ -313,3 +314,13 @@
 "swagalicious" luk=100 glowing=2
 "fishy" con=-100 luk=500 defense=-1
 "h4X3D" int=600 luk=20 xp=-2 
+"cryptic" int=1200 luk=60
+"translucent" dex=500 agi=300 glowing=-1
+"transparent" dex=1500 agi=900 glowing=-3
+"burning" str=100 con=-200 luk=300 glowing=1
+"reborn" str=100 con=100 luk=200
+"hyped" luk=-20 crit=2 sentimentality=100
+"Idliathlian" str=200 int=200 luk=600 
+"Cabranese" str=300 con=300 int=300 luk=200 prone=1 poison=1
+"astral" con=-200 int=1000 luk=500 crit=1
+"redneck" str=100 con=200 int=-300
