@@ -6,6 +6,7 @@
 While strolling around, %player encountered a fiery-hot forge, and proceeded to reinforce %hisher %item.
 Thinking %hisher %item is looking a bit tarnished, %player tried %hisher best to repair it.
 A demon approached and possessed %player's %item, to aid %player on %hisher quest.
+An angel approached and possessed %player's %item, to aid %player on %hisher quest.
 $dict:deity$, had decided to give %player an advantage by powering up %hisher %item.
 %player's %item was exposed to spontaneous and strong gamma radiation, and is now glowing a bright shade of green.
 %player used a soul gem to enchant %hisher %item at an enchantment table.
@@ -18,5 +19,17 @@ $dict:deity$, had decided to give %player an advantage by powering up %hisher %i
 %player used what magic %she knows to imbue %hisher %item with extra power!
 Sarda, The Wizard Who Did It made %player's %item stronger to make fights more interesting.
 Zardoz, the Angel of Weird Sean Connery Movies enchanted %player's %item with the Spirit of the Loincloth-Beltsuit, making %hisher %item more...uh, different.
-%player came across a $dict:adjective$ $dict:noun$ and it helped %himher fix up %hisher %item.
+%player came across $dict:adjective$ $dict:noun$ and they helped %himher fix up %hisher %item.
 %player found a few statpoints after cleaning %hisher %item.
+The Order of $dict:adjective$ $dict:noun$ convened to strengthen %player's %item.
+%player left %hisher %item with a friendly $dict:people$ and found it in better shape.
+After a recent fight, the blood on %player's %item made it more badass.
+%player won a bet against a local $dict:people$ who fixed up %hisher %item.
+%player combined %hisher %item with some greater newts %heshe found.
+%player gave a donation to some orphans. %hisher %item began glowing!
+%player saw mold growing on %hisher %item, but %heshe realized that it made it stronger!
+An ancient god chose %player's %item as their holy weapon!
+%player activated an ancient artifact which blessed %hisher %item!
+%player etched a magical rune into %hisher %item.
+%player downloaded some RAM to apply to %hisher %item.
+%player spread a fantastical story about %hisher %item. The prestige magically empowered it!
