@@ -14,7 +14,10 @@ A cute little kitten rubbed their head against the %item of %player. The %item g
 %player acquired enough obsidian to build an enchantment table. %Hisher %item is now enchanted.
 %player found an enchantment recipe for %hisher %item that oddly did not require any reagents.
 %player sacrificed a few goats to enchant %hisher %item.
-%player buried %hisher %item in the ground, and a better one grew from it's place!
+%player buried %hisher %item in the ground, and an enchanted one grew from it's place!
 %player won an item enchant in a claw machine! %heshe applied to %hisher %item.
-Tholsqueds decided to wrap %player's %item in motley.
+Tholsqueds decided to wrap %player's %item in enchanted motley.
 %player ate %hisher %item. When it came out the other end, it was enchanted!
+%player caught %hisher %item on fire. Luckily, it was enchanted fire.
+%player left %hisher %item on a carriage. When it was returned, it had a new enchantment!
+%player kissed %hisher %item. The power of love took the form of a new enchant!
