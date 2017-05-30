@@ -19,12 +19,12 @@ $dict:deity$, had decided to give %player an advantage by powering up %hisher %i
 %player used what magic %she knows to imbue %hisher %item with extra power!
 Sarda, The Wizard Who Did It made %player's %item stronger to make fights more interesting.
 Zardoz, the Angel of Weird Sean Connery Movies enchanted %player's %item with the Spirit of the Loincloth-Beltsuit, making %hisher %item more...uh, different.
-%player came across $dict:adjective$ $dict:noun$ and they helped %himher fix up %hisher %item.
+%player came across a $dict:adjective$ $dict:noun$ and it helped %himher fix up %hisher %item.
 %player found a few statpoints after cleaning %hisher %item.
 The Order of $dict:adjective$ $dict:noun$ convened to strengthen %player's %item.
-%player left %hisher %item with a friendly $dict:people$ and found it in better shape.
+%player left %hisher %item with a friendly $dict:noun$ and found it in better shape.
 After a recent fight, the blood on %player's %item made it more badass.
-%player won a bet against a local $dict:people$ who fixed up %hisher %item.
+%player won a bet against a local $dict:noun$ who fixed up %hisher %item.
 %player combined %hisher %item with some greater newts %heshe found.
 %player gave a donation to some orphans. %hisher %item began glowing!
 %player saw mold growing on %hisher %item, but %heshe realized that it made it stronger!
