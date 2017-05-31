@@ -62,3 +62,6 @@ A little kid called $random:player$ was trying to sell %player some gold pieces 
 %player won %gold gold. Wait, no...it is opposite day.
 %player was blindsided by adulthood and had to pay %hisher mortgage instead of finishing a dungeon.
 %player needed to launder some ill-gotten gold, but was not sure how to do it. %player decided to toss the %gold gold in the wash, and ended up ruining it all.
+%player spent a total of %gold gold after eating out for a whole week.
+%player paid their tab off with %gold gold.
+%player spent %gold gold while in the red-light district.

@@ -120,3 +120,10 @@
 "Nerfed" str=-100 int=-100 luk=500
 "Ni!" int=100 defense=2 glowing=1
 "Drunk" con=-100 mpregen=200 poison=1 sentimentality=500
+"Great Dragon" str=400 agi=300 int=100 hpregen=600
+"fresh fawn" agi=50 luk=20
+"holy light" luk=200 glowing=1
+"Grand Horror" str=600 int=600 luk=-400 poison=1
+"night" dex=200 agi=100 vampire=1
+"mighty" str=100 con=200 power=1
+"salty squid" agi=50 int=200 prone=1
