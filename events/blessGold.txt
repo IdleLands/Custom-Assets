@@ -73,8 +73,8 @@ They were giving out free gold at the bank... lol, yeah right... %player robbed 
 %player took the time to write a rhyme about the grime on the slime.
 %player found %gold gold on the ground.
 %player saved %gold gold by eating only stale ramen noodles for a week.
-%player acted for some obsure ad and made %gold gold!
-%player set up a gold fish trafficking operation and made %gold gold.
+%player acted for some obscure ad and made %gold gold!
+%player set up a goldfish trafficking operation and made %gold gold.
 %player bought some foreign money. After the economy crashed, %heshe made a total of %gold gold.
 %player spent a few hours playing the flute on th side of the road and made %gold gold!
 %player won the prize for most glass shards eaten in a minute. %heshe won %gold gold after paying medical bills.
