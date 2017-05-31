@@ -320,7 +320,15 @@
 "burning" str=100 con=-200 luk=300 glowing=1
 "reborn" str=100 con=100 luk=200
 "hyped" luk=-20 crit=2 sentimentality=100
-"Idliathlian" str=200 int=200 luk=600 
-"Cabranese" str=300 con=300 int=300 luk=200 prone=1 poison=1
 "astral" con=-200 int=1000 luk=500 crit=1
 "redneck" str=100 con=200 int=-300
+"forked" str=50 dex=-20 agi=-10 vorpal=1
+"wicked" str=100 dex=200 int=-10 luk=20
+"opulent" dex=-50 agi=-10 int=300 luk=50 gold=100
+"innane" str=-10 dex=-50 int=-20 luk=30 dance=1
+"pearlescent" con=100 dex=100 glowing=1
+"motherly" con=50 luk=200 sentimentality=1000
+"jeweled" dex=100 luk=100 gold=200
+"titillating" agi=20 luk=10
+"bedazzled" str=-20 dex=50 luk=-10 glowing=1
+"tender" str=-20 con=-100 int=10 sentimentality=100
