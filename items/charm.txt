@@ -102,3 +102,4 @@
 "ring of sparks" int=5
 "8 ball clover" luk=8 con=8
 "String of Glass Eyes" int=500 luk=800 salvage=1
+"jar of honey" con=150 int=200 luk=50 hpregen=500

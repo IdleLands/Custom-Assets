@@ -12,3 +12,14 @@ Magaera, Trisiphone and Allecto gather to decide %player's fate.
 %player remembered one of %hisher past lives!
 %player accepted the absurd.
 %player drank the koolaid!
+%player enjoyed some alone time with %himherself from a past life.
+%player saw through the veil.
+The universe attempted to repair a paradox involving %player.
+%player broke causal symmetry.
+%player had an existential crisis.
+%player broke through the fourth wall.
+%player lost %hisher sense of reality.
+%player was invited to the party of $dict:deity$.
+%player met up with %player. %heshe learned a lot!
+%player found the meaning of life!
+%player disturbed the Beasts of Fate.

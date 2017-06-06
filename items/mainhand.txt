@@ -407,3 +407,7 @@
 "octree" int=775
 "vampire killer" str=500 int=500 dex=500
 "cactus" str=2150 con=-50 dex=900 agi=775 int=-99 hp=-2500 mp=250 prone=1 shatter=1
+"d1000" int=1244
+"nerf gun" str=100 dex=50 int=10 luk=20
+"oppai mousepad" dex=50 int=800 deadeye=1 lethal=1
+"lul cannon" str=300 int=-300 luk=150 power=1
