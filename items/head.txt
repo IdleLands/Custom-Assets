@@ -151,3 +151,6 @@
 "squirrel nest" str=100 dex=300 agi=300 sentimentality=50
 "gag" agi=200 luk=69
 "helmet with a candle on top" con=300 defense=1 glowing=3
+"fools cap" luk=2000 dance=15 crit=15 aReqProfessional:_Jester=1
+"huntsman's hat" str=750 dex=2500 con=750 deadeye=1 vorpal=5 power=15 silver=15 aReqProfessional:_Archer=1
+"sweaty headband" str=2500 con=2500 power=20 shatter=2 aReqProfessional:_Barbarian=1
