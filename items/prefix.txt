@@ -332,3 +332,6 @@
 "titillating" agi=20 luk=10
 "bedazzled" str=-20 dex=50 luk=-10 glowing=1
 "tender" str=-20 con=-100 int=10 sentimentality=100
+"horrific" str-20 con-100 int=-30 luk=-10 venom=2 poison=2
+"shapeshifting" con=-20 dex=200 prone=1
+"hearty" con=100 hp=2500 hpregen=100
