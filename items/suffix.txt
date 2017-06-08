@@ -127,3 +127,4 @@
 "night" dex=200 agi=100 vampire=1
 "mighty" str=100 con=200 power=1
 "salty squid" agi=50 int=200 prone=1
+"Keymaster" int=1000 luk=1000 crit=3 cReqGuard_Tower_Key=1 cReqFragile_Obsidian_Key=1 cReqResort_Room_Key=1 cReqLarge_Decorative_Key=1
