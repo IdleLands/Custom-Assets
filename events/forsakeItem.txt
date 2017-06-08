@@ -42,3 +42,6 @@ A magician zapped %player's %item with a hex.
 %player used %hisher %item for a party trick, but %heshe broke it instead.
 %player tried spreading a fantastical story about %hisher %item, but nobody believed %himher. This damaged %hisher item metaphorically and literally.
 %player didn't have anything to write on so %heshe used %hisher %item instead.
+%player tried deep-frying %hisher %item to make it taste better. It didn't work.
+%player cut %hisher shaggy locks. Keratux, God of Hair, decided to curse %hisher %item as punishment.
+%player tried sacrificing a few dogs to Ytilsu, The Grand Horror. Ytilsu was disgusted by this and cursed %hisher %item.
