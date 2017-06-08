@@ -21,7 +21,7 @@ Sarda, The Wizard Who Did It made %player's %item stronger to make fights more i
 Zardoz, the Angel of Weird Sean Connery Movies enchanted %player's %item with the Spirit of the Loincloth-Beltsuit, making %hisher %item more...uh, different.
 %player came across a $dict:adjective$ $dict:noun$ and it helped %himher fix up %hisher %item.
 %player found a few statpoints after cleaning %hisher %item.
-The Order of $dict:adjective$ $dict:noun$ convened to strengthen %player's %item.
+The Order of the $dict:adjective$ $dict:noun$ convened to strengthen %player's %item.
 %player left %hisher %item with a friendly $dict:noun$ and found it in better shape.
 After a recent fight, the blood on %player's %item made it more badass.
 %player won a bet against a local $dict:noun$ who fixed up %hisher %item.
@@ -33,3 +33,8 @@ An ancient god chose %player's %item as their holy weapon!
 %player etched a magical rune into %hisher %item.
 %player downloaded some RAM to apply to %hisher %item.
 %player spread a fantastical story about %hisher %item. The prestige magically empowered it!
+%player prayed to Fabius, God of Fashion, and he made %hisher %item fabulous.
+%player invaded an orphanage to sacrifice a few people to Ytilsu, the Grand Horror. Ytilsu empowered %hisher %item with void energy as payment for the meal.
+%player spent a month searching for Juk-Unth of Many Legs. Despite %hisher failure, Juk-Unth's minions decided to strengthen %hisher %item anyways.
+%player took part in a ritual for Fellatia, Goddess of Pleasure. She blessed %hisher %item by increasing its versatility in the bed and on the battlefield.
+%player took the time to disco with %hisher %item. The extra funk strengthened it!
