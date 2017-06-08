@@ -53,4 +53,4 @@
 "Raburrian" str=-100 dex=200 agi=300 luk=600 sReqRegions*Raburro_Town=100
 "Homlet" str=50 dex=200 agi=100 int=-50 defense=1 sReqRegions*Homlet_Town=100
 "Dragon-kin" str=400 dex=300 int=600 hpregen=400 sReqRegions*Dragon-kin_Village=100
-"Arboreal" str=-100 con=200 int=200 defense=1 poison=-1 sReqRegions*Tree_Town=100
+"Arboreal" str=-100 con=200 int=200 defense=1 poison=-1 sReqMaps*Tree_Town=100
