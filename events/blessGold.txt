@@ -78,3 +78,4 @@ They were giving out free gold at the bank... lol, yeah right... %player robbed 
 %player bought some foreign money. After the economy crashed, %heshe made a total of %gold gold.
 %player spent a few hours playing the flute on th side of the road and made %gold gold!
 %player won the prize for most glass shards eaten in a minute. %heshe won %gold gold after paying medical bills.
+%player successfully extracted honeycomb from %hisher bees. %heshe sold it for %gold gold!
