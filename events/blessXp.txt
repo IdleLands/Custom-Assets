@@ -64,3 +64,8 @@ All the people in $random:town$ decided it was time to reward %player for all %h
 %player took $random:player$ out for dinner. The EXP champagne was exquisite. %heshe gained %xpxp!
 %player left an argument %heshe was having with a family member. For taking the high road, %heshe gained %xpxp.
 %player successfully extracted honeycomb from %hisher bees. %Heshe ate it and gained %xpxp!
+%player remembered %hisher childhood. %Heshe gained %xpxp as a result.
+%player attended $random:player$'s MED Talk (Magic, Experience, Destruction) and gained %xpxp!
+%xpxp was left in a crate near a local temple. %player decided that taking it was the best course of action.
+%player learned a new word today. For this wonderful feat, %heshe was awarded %xpxp!
+%player cashed in %hisher brownie points for %xpxp.
