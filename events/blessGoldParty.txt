@@ -17,3 +17,6 @@
 %partyName helped an elderly lady cross the street. She rewarded the group with gold as well as cookies.
 %partyName opened a Wacky Waving Inflatable Arm Flailing Tube Man emporium and managed to sell a few before the market deflated.
 %partyName thought they were fighting the Cloud Giant. It turns out that it was actually the Butt Giant. They made off with some gold, but were slightly embarrassed.
+%partyName went on a bear hunt. They didn't find any bears, but they did find a treasure chest full of gold!
+%partyName raided a local dungeon and found some gold.
+%partyName attended a gambling tournament and made a ton of gold!
