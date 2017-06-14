@@ -18,3 +18,6 @@ RNGesus hated %player!
 %player stumbled across a bug.
 %player watched 2 Girls 1 Cup.
 %player was killed by their own shadow!
+%player binged too hard.
+%player ate dirt.
+%player played in the ballpit.
