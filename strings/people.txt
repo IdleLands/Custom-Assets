@@ -1,101 +1,101 @@
-artist
-alchemist
-apprentice
-architect
-archpriest
-baker
-bandit
-barber
-baron
-baroness
-begger
-bishop
-bitomancer
-blacksmith
-butler
-captain of the guard
-carpenter
-chef
-chieftan
-cleric
-cobbler
-courier
-cowboy
-cowgirl
-crier
-cryomancer
-demonologist
-doctor
-doomsayer
-druid
-drunk
-elder
-elementalist
-enchanter
-enchantress
-falconer
-farmer
-fisher
-gambler
-gardener
-geologist
-geomancer
-gigolo
-goldsmith
-goon
-gravedigger
-guard
-harlot
-herbalist
-historian
-hunter
-hydromancer
-jester
-jeweler
-knight
-laborer
-lawyer
-layman
-leper
-lord
-mage
-magician
-medic
-mercenary
-merchant
-midwife
-miner
-missionary
-monk
-necromancer
-nurse
-peasant
-pirate
-physician
-priest
-prostitute
-pyromancer
-rancher
-rogue
-sailor
-saint
-sandwich artist
-scientist
-scribe
-sheriff
-smith
-soldier
-tailor
-thief
-trainer
-tramp
-trapper
-valkyrie
-veteran
-warlock
-warrior
-widow
-witch
-witch doctor
-wizard
-worker
+an artist
+an alchemist
+an apprentice
+an architect
+an archpriest
+a baker
+a bandit
+a barber
+a baron
+a baroness
+a begger
+a bishop
+a bitomancer
+a blacksmith
+a butler
+a captain of the guard
+a carpenter
+a chef
+a chieftan
+a cleric
+a cobbler
+a courier
+a cowboy
+a cowgirl
+a crier
+a cryomancer
+a demonologist
+a doctor
+a doomsayer
+a druid
+a drunk
+an elder
+an elementalist
+an enchanter
+an enchantress
+a falconer
+a farmer
+a fisher
+a gambler
+a gardener
+a geologist
+a geomancer
+a gigolo
+a goldsmith
+a goon
+a gravedigger
+a guard
+a harlot
+an herbalist
+a historian
+a hunter
+a hydromancer
+a jester
+a jeweler
+a knight
+a laborer
+a lawyer
+a layman
+a leper
+a lord
+a mage
+a magician
+a medic
+a mercenary
+a merchant
+a midwife
+a miner
+a missionary
+a monk
+a necromancer
+a nurse
+a peasant
+a pirate
+a physician
+a priest
+a prostitute
+a pyromancer
+a rancher
+a rogue
+a sailor
+a saint
+a sandwich artist
+a scientist
+a scribe
+a sheriff
+a smith
+a soldier
+a tailor
+a thief
+a trainer
+a tramp
+a trapper
+a valkyrie
+a veteran
+a warlock
+a warrior
+a widow
+a witch
+a witch doctor
+a wizard
+a worker
