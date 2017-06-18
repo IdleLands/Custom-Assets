@@ -20,3 +20,4 @@
 %partyName went on a bear hunt. They didn't find any bears, but they did find a treasure chest full of gold!
 %partyName raided a local dungeon and found some gold.
 %partyName attended a gambling tournament and made a ton of gold!
+%partyName spent the day milking dolphins and making wheels of cheese with it!
