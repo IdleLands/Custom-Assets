@@ -65,3 +65,6 @@ A little kid called $random:player$ was trying to sell %player some gold pieces 
 %player spent a total of %gold gold after eating out for a whole week.
 %player paid their tab off with %gold gold.
 %player spent %gold gold while in the red-light district.
+%player ate $dict:reagents#0$ and vomitted up %gold gold into the toilet.
+%player used $dict:reagents#0$ and $dict:reagents#1$ to make a wonderful potion. %Heshe was sued for %gold gold because of undocumented side effects.
+%player started dealing in the lucrative business of $dict:reagents#0$ trading. %Heshe and %hisher cronies where caught and payed %gold gold to waive their sentences.
