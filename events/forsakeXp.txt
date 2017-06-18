@@ -102,4 +102,6 @@ Kami-sama took a dump and to %player's misfortune it landed on %hisher head. %pl
 %player told a lie on the Internet. Who does that? %player apparently.
 %player got really drunk during a thunderstorm, donned bronze armor, climbed the nearest hill and started insulting the local thunder god. The thunder god smote %player and they lost %xpxp!
 %player got sprayed with bidet butt-water and lost %xpxp!
-%player% failed to calm %hisher bees while extracting their honeycomb. %Heshe lost %xpxp from all the stings!
+%player failed to calm %hisher bees while extracting their honeycomb. %Heshe lost %xpxp from all the stings!
+%player drank a new elixir mad from $dict:reagents#0$, $dict:reagents#1$, and $dict:reagents#2$. It tasted horrible and caused %player to lose a total of %xpxp!
+%player consumed void shards from the astral plane. They caused horrible nightmares which caused %himher to lose %xpxp.
