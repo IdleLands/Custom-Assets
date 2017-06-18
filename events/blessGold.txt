@@ -79,3 +79,7 @@ They were giving out free gold at the bank... lol, yeah right... %player robbed 
 %player spent a few hours playing the flute on th side of the road and made %gold gold!
 %player won the prize for most glass shards eaten in a minute. %heshe won %gold gold after paying medical bills.
 %player successfully extracted honeycomb from %hisher bees. %Heshe sold it for %gold gold!
+%player spent a day or two plucking strawberry seeds. %Heshe was payed %gold gold for %hisher effort.
+%player sold $dict:reagents#0$ for %gold gold!
+%player brewed a new potion using $dict:reagents#0$ and $dict:reagents#1$. %Heshe sold the patent for %gold gold!
+%player ate $dict:reagents#0$. Later that day, %heshe found a jeweled dingle in the toilet worth %gold gold!
