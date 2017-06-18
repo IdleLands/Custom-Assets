@@ -44,7 +44,7 @@ A passing $random:class$ shared %xpxp worth of knowledge with %player.
 %player sold %hisher mother to satan for the knowledge of cooking the perfect breakfast egg, gaining %xpxp.
 %player began learning to swim from $random:player$! %player fell through the water's surface and found all the lost xp from all the people that have fallen in previously! It was a total of %xpxp!
 Once upon a time there was a person called %player. One day, %player got really lucky and gained %xpxp! The end.
-$random:monster#1$ was scared of the dark. %player was afraid of the sun. They joined up together and fought their fears! $random:monster#1$ gave %player %xpxp for helping out!
+ was scared of the dark. %player was afraid of the sun. They joined up together and fought their fears! $random:monster#1$ gave %player %xpxp for helping out!
 %player brutally hunted down a $random:monster$ of the $random:map$, which was once blessed by $dict:deity$. %player gained %xpxp for %hisher trouble!
 %player played Bard Fortress and managed to get %hisher bards to fill a stockpile successfully without trouble. %player gained %xpxp for being the first person ever to achieve such a feat.
 %player watched a tutorial on 'how to gain xp', it worked. %player gained %xpxp.
@@ -69,3 +69,6 @@ All the people in $random:town$ decided it was time to reward %player for all %h
 %xpxp was left in a crate near a local temple. %player decided that taking it was the best course of action.
 %player learned a new word today. For this wonderful feat, %heshe was awarded %xpxp!
 %player cashed in %hisher brownie points for %xpxp.
+%player went on a crazy trip after %heshe found some six-leaf in the forest. %Heshe learned a lot from their conversation with a giant extraplanar $random:monster#1$ %heshe met.
+%player drank an elixir %heshe made with $dict:reagents#0$, $dict:reagents#1$, and $dict:reagents#2$. It turned out to be an XP potion worth %xpxp!
+%player took the time to procure and cultivate $dict:reagents#0$. For %hisher patience, %heshe gained %xpxp.

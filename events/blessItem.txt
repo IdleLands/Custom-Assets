@@ -38,3 +38,5 @@ An ancient god chose %player's %item as their holy weapon!
 %player spent a month searching for Juk-Unth of Many Legs. Despite %hisher failure, Juk-Unth's minions decided to strengthen %hisher %item anyways.
 %player took part in a ritual for Fellatia, Goddess of Pleasure. She blessed %hisher %item by increasing its versatility in the bed and on the battlefield.
 %player took the time to disco with %hisher %item. The extra funk strengthened it!
+%player added $dict:reagents#0$ to %hisher %item. It started coursing with energy!
+%player made a potion using $dict:reagents#0$, $dict:reagents#1$, and a dash of $dict:reagents#2$. %Heshe poured this concotion onto %hisher %item. It gained a wonderful aura!
