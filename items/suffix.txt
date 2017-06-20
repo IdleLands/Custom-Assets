@@ -129,7 +129,13 @@
 "salty squid" agi=50 int=200 prone=1
 "Keymaster" int=1000 luk=1000 crit=3 cReqGuard_Tower_Key=1 cReqFragile_Obsidian_Key=1 cReqResort_Room_Key=1 cReqLarge_Decorative_Key=1 cReqKey_to_Maeles=1 cReqKing's_Key=1
 "Dabbler in all Arts" str=150 dex=100 agi=80 con=50 int=100 luk=50 aReqClassfluid=3
+
+# Legendary
 "Billionare" gold=50000 sReqCharacter*Gold*Gain=10000000000
 "Tempter" luk=4000 aReqTempterOfFate=1
-"Spirtitual" str=1000 con=1000 dex=1000 agi=1000 int=1000 damageReduction=1000 aegis=1 aReqSpiritualist=1
+"Spirtitual" str=2000 con=2000 dex=2000 agi=2000 int=2000 damageReduction=2000 aegis=1 aReqSpiritualist=1
 "Enchanted" enchantLevel=10 crit=5 offense=5 defense=5 glowing=5 xp=30 gold=1000 venom=5 poison=5 vampire=5
+"Digital Wizard" int=8192 vampire=5 aReqDigitalWizard=1
+"Yes Man" luk=3000 offense=10 defense=10 xp=50 aReqAffirmer=1
+"World Explorer" luk=2000 xp=200 aReqExplorative=18
+"Dragon Slayer" str=5000 agi=5000 int=5000 hpregen=1250 sReqBossKills*Ukad-Aghag_the_Exile sReqBossKills*White_Dragon sReqBossKills*Blue_Dragon sReqBossKills*Old_Copper_Dragon sReqBossKills*Drunken_Dragon sReqBossKills*Branor_the_Hungry
