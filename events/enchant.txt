@@ -21,3 +21,4 @@ Tholsqueds decided to wrap %player's %item in enchanted motley.
 %player caught %hisher %item on fire. Luckily, it was enchanted fire.
 %player left %hisher %item on a carriage. When it was returned, it had a new enchantment!
 %player kissed %hisher %item. The power of love took the form of a new enchant!
+%player made a potion  of enchantment using $dict:reagent#0$ and $dict:reagent#1$. %Heshe applied it to %hisher %item.

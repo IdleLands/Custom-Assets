@@ -43,3 +43,5 @@ A strange creature attacked %player, and %heshe found a bone oddly shaped into a
 %player solved a Ruby's Cube, and a %item appeared from it.
 A fugitive ran up to %player and told %himher to "Take this!". %Heshe was handed a %item, and the fugitive ran away.
 %player found %item in the clearance section at Sardamart.
+%player combined $dict:reagent#0$, $dict:reagent#1$, and $dict:reagent#2$ to make a %item!
+%player drank a potion %heshe made from $dict:reagent#0$ and $dict:reagent#1$. %player vomited up a %item. Nice!
