@@ -133,7 +133,7 @@
 # Legendary
 "Billionare" gold=50000 sReqCharacter*Gold*Gain=10000000000
 "Tempter" luk=4000 aReqTempterOfFate=1
-"Spirtitual" str=2000 con=2000 dex=2000 agi=2000 int=2000 damageReduction=2000 aegis=1 aReqSpiritualist=1
+"Spiritual" str=2000 con=2000 dex=2000 agi=2000 int=2000 damageReduction=2000 aegis=1 aReqSpiritualist=1
 "Enchanted" enchantLevel=10 crit=5 offense=5 defense=5 glowing=5 xp=30 gold=1000 venom=5 poison=5 vampire=5 aReqEnchanted=1
 "Digital Wizard" int=8192 vampire=5 aReqDigitalWizard=1
 "Yes Man" luk=3000 offense=10 defense=10 xp=50 aReqAffirmer=1
