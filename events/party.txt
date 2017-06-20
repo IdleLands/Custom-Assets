@@ -25,3 +25,4 @@ Angry at the lack of invitations to a lemon party, %player has formed "%partyNam
 Unable to throw a party, %player has decided to join "%partyName" with %partyMembers!
 %player and %partyMembers, dissatisfied with their previous parties formed their own party, "%partyName" with blackjack and hookers.
 %player, along with %partyMembers formed "%partyName". A party reserved only for fans of $dict:deity$.
+%player bonded with %partyMembers over a meal of $dict:reagent#0$ and started "%partyName".
