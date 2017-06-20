@@ -21,3 +21,4 @@ RNGesus hated %player!
 %player binged too hard.
 %player ate dirt.
 %player played in the ballpit.
+%player ate $dict:reagent#0$. Turns out it was 18 years out of date.
