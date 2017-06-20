@@ -9,3 +9,4 @@ Sarda, The Wizard Who Did It caused %player's %item to have its polarity reverse
 %player was bored and did %himherself the glorious favor of switching a stat %heshe didn't like on %item.
 %player flipped their %item upside-down and it's stats got switcherooed!
 %player's %item had a random stat multiplied by -1.
+%player combined $dict:reagent#0$ and $dict:reagent#1$ to make a nega-potion. %Heshe accidentally spilt it all over %hisher %item.
