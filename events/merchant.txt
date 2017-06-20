@@ -9,3 +9,4 @@ A new store's opened near by, but all they accept is beans. %player doesn't have
 %player's stopped by a road-side food stand. Not only do they have great burgers, but they're even selling a tasty %item for %shopGold gold!
 %player took a day out on the town with $random:player#1$ and they went to a shop. $random:player#1$ couldn't find anything, but %player found a %item at a steal of %shopGold gold!
 %player heads to the grocery store. There's no food, but there is an exquisite %item on sale for only %shopGold gold!
+%player went to go sell some $dict:reagent#0$ when a merchant started a trade for a %item. It cost %shopGold gold after getting the gold from the $dict:reagent#0$.
