@@ -45,4 +45,4 @@ A magician zapped %player's %item with a hex.
 %player tried deep-frying %hisher %item to make it taste better. It didn't work.
 %player cut %hisher shaggy locks. Keratux, God of Hair, decided to curse %hisher %item as punishment.
 %player tried sacrificing a few dogs to Ytilsu, The Grand Horror. Ytilsu was disgusted by this and cursed %hisher %item.
-%player made a potion using $dict:reagents#0$, $dict:reagents#1$, and a dash of $dict:reagents#2$. %Heshe poured this concotion onto %hisher %item. It gained a horrendous odor.
+%player made a potion using $dict:reagens#0$, $dict:reagent#1$, and a dash of $dict:reagent#2$. %Heshe poured this concotion onto %hisher %item. It gained a horrendous odor.
