@@ -23,4 +23,4 @@ The universe attempted to repair a paradox involving %player.
 %player met up with %player. %heshe learned a lot!
 %player found the meaning of life!
 %player disturbed the Beasts of Fate.
-%player ate $dict:reagents#0$ and had a life-altering vision!
+%player ate $dict:reagent#0$ and had a life-altering vision!
