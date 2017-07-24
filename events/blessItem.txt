@@ -26,7 +26,7 @@ The Order of the $dict:adjective$ $dict:noun$ convened to strengthen %player's %
 After a recent fight, the blood on %player's %item made it more badass.
 %player won a bet against a local $dict:noun$ who fixed up %hisher %item.
 %player combined %hisher %item with some greater newts %heshe found.
-%player gave a donation to some orphans. %hisher %item began glowing!
+%player gave a donation to some orphans. %Hisher %item began glowing!
 %player saw mold growing on %hisher %item, but %heshe realized that it made it stronger!
 An ancient god chose %player's %item as their holy weapon!
 %player activated an ancient artifact which blessed %hisher %item!
