@@ -340,3 +340,4 @@
 "fidget" int=-100 dance=1 sentimentality=696
 "lewd" con=69 dance=1 prone=1
 "patchwork str=20 con=20 dex=20 agi=20 int=20 luk=20 sentimentality=20
+"strawberry flavored" agi=13 int=100 poison=-1
