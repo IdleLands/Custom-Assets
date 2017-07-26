@@ -335,3 +335,8 @@
 "horrific" str=-20 con=-100 int=-30 luk=-10 venom=2 poison=2
 "shapeshifting" con=-20 dex=200 prone=1
 "hearty" con=100 hp=2500 hpregen=100
+"dirty" con=-100 hpregen=-100 glowing=-1
+"exclusive" luk=-30 crit=2 gold=-10
+"fidget" int=-100 dance=1 sentimentality=696
+"lewd" con=69 dance=1 prone=1
+"patchwork str=20 con=20 dex=20 agi=20 int=20 luk=20 sentimentality=20
