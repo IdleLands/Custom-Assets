@@ -43,20 +43,3 @@
 "vampiric" vampire=1
 "megavampiric" vampire=2
 "garlic" vampire=-1
-
-"Abhorrent" str=-200 con=-200 int=-200 glowing=1
-"Vacuous" int=-500 luk=-200
-"Rebellious" str=200 con=200 luk=56 xp=-20
-"Drained" luk=-600 offense=2
-"Sentient" str=300 int=300 luk=500 xp=10 crit=4
-
-"Idliathlian" str=200 int=200 luk=600 
-"Cabranese" str=300 con=300 int=300 luk=200 prone=1 poison=1 sReqMaps*Cabran=100
-"Maelian" dex=200 agi=200 venom=1 poison=1 sReqRegions*Maeles_Town=100
-"Norkian" con=100 int=100 luk=200 xp=3 sReqRegions*Norkos_Town=100
-"Frigrish" con=500 int=500 gold=500 sReqRegions*Frigi_Town=100
-"Vocalnan" str=100 con=200 aegis=1 shatter=1 sReqRegions*Vocalnus_Town=100
-"Raburrian" str=-100 dex=200 agi=300 luk=600 sReqRegions*Raburro_Town=100
-"Homlet" str=50 dex=200 agi=100 int=-50 defense=1 sReqRegions*Homlet_Town=100
-"Dragon-kin" str=400 dex=300 int=600 hpregen=400 sReqRegions*Dragon-kin_Village=100
-"Arboreal" str=-100 con=200 int=200 defense=1 poison=-1 sReqMaps*Tree_Town=100
