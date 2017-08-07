@@ -137,12 +137,12 @@
 "Enchanted" enchantLevel=10 crit=5 offense=5 defense=5 glowing=5 xp=30 gold=1000 venom=5 poison=5 vampire=5 aReqEnchanted=1
 "Digital Wizard" int=8192 vampire=5 aReqDigitalWizard=1
 "Yes Man" luk=3000 offense=10 defense=10 xp=50 aReqAffirmer=1
-"World Explorer" luk=2000 xp=200 aReqExplorative=18
+"World Explorer" luk=2000 xp=200 aReqExplorative=18 aReqLevelable=10
 "Dragon Slayer" str=5000 agi=5000 int=5000 hpregen=1250 sReqBossKills*Ukad-Aghag_the_Exile=1 sReqBossKills*White_Dragon=1 sReqBossKills*Blue_Dragon=1 sReqBossKills*Old_Copper_Dragon=1 sReqBossKills*Drunken_Dragon=1 sReqBossKills*Branor_the_Hungry=1
-"Swapped A" con=-3000 luk=-1000 crit=-100 glowing=-30 sentimentality=500 gold=20000 xp=600 salvage=5 sReqCharacter*Event*Switcheroo=500
+"Swapped A" con=-3000 luk=-1000 crit=-100 glowing=-30 sentimentality=500 gold=20000 xp=600 salvage=5 sReqCharacter*Event*Switcheroo=500 aReqLevelable=10
 "Swapped B" gold=-10000 xp=-300 salvage=-2 sentimentality=500 agi=5000 con=3000 crit=100 glowing=80 aegis=10 sReqCharacter*Event*Switcheroo=500
 "Gorgon" crit=20 prone=20 poison=20 hpregen=2000 cReqGorgon_Snake=1
-"Donator" luk=1500 dance=5 xp=200 aReqDonator=1
+"Donator" luk=1500 dance=5 xp=200 aReqDonator=1 aReqLevelable=10
 "Mega-Monster" str=3125 con=3125 dex=3125 agi=3125 int=3125 sReqCharacter*ProfessionSteps*Monster=100000
 "Pious" glowing=50 hpregen=2500 sReqCombat*Utilize*Holy=100000
 "Sacrifice" sentimentality=15000 glowing=50 salvage=10 sReqCharacter*Ascension*Gold=5000000000 sReqCharacter*Ascension*ItemScore=10000000
