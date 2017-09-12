@@ -413,6 +413,6 @@
 "lul cannon" str=300 int=-300 luk=150 power=1
 
 #bricks
-"red brick" str=200 con=100 luk=50 offense=2 xp=-10 vector=2 aReqJailbird=1
-"brown brick" dex=200 agi=100 luk=50 defense=2 hpregen=-150 vector=2 aReqJailbird=1
-"blue brick" int=200 luk=100 xp=20 sentimentality=300 poison=-2 vector=2 aReqJailbird=1
+"red brick" str=200 con=100 luk=50 offense=2 xp=-10 sentimentality=1234 vector=3 aReqJailbird=1
+"brown brick" dex=200 agi=100 luk=50 defense=2 hpregen=-150 sentimentality=1234 vector=3 aReqJailbird=1
+"blue brick" int=200 luk=100 xp=20 sentimentality=300 poison=-2 sentimentality=1234 vector=3 aReqJailbird=1
