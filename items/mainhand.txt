@@ -413,6 +413,8 @@
 "lul cannon" str=300 int=-300 luk=150 power=1
 
 #bricks
-"red brick" str=200 con=100 luk=50 offense=2 xp=-10 sentimentality=1234 vector=3 aReqJailbird=1
-"brown brick" dex=200 agi=100 luk=50 defense=2 hpregen=-150 sentimentality=1234 vector=3 aReqJailbird=1
-"blue brick" int=200 luk=100 xp=20 sentimentality=300 poison=-2 sentimentality=1234 vector=3 aReqJailbird=1
+"wood brick" str=250 dex=250 hp=500 hpregen=50 vector=2 aReqJailbird=1
+"stone brick" con=220 damageReduction=500 vector=1 aReqJailbird=1
+"clay brick" int=250 agi=250 mp=1250 mpregen=100 vector=3 aReqJailbird=1
+"astralium brick" luk=55 gold=555 sentimentality=5555 vector=1 sReqCharacter*Salvage*Astralium=55555555
+"astralium powder" luk=5 gold=55 sentimentality=555 vector=1 sReqCharacter*Salvage*Astralium=1
