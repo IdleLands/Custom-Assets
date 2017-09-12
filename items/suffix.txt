@@ -145,4 +145,4 @@
 "Donator" luk=1500 dance=5 xp=200 aReqDonator=1 aReqLevelable=10
 "Mega-Monster" str=3125 con=3125 dex=3125 agi=3125 int=3125 sReqCharacter*ProfessionSteps*Monster=100000
 "Pious" glowing=50 hpregen=2500 sReqCombat*Utilize*Holy=100000
-"Sacrifice" sentimentality=15000 glowing=50 salvage=10 sReqCharacter*Ascension*Gold=5000000000 sReqCharacter*Ascension*ItemScore=10000000
+"Sacrifice" sentimentality=15000 glowing=50 salvage=10 sReqCharacter*Ascension*Gold=1250000000 sReqCharacter*Ascension*ItemScore=2000000
