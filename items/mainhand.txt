@@ -417,4 +417,5 @@
 "stone brick" con=220 luk=20 damageReduction=500 vector=2 aReqJailbird=1
 "clay brick" int=250 agi=250 luk=20 mp=1250 mpregen=100 vector=3 aReqJailbird=1
 "astralium brick" luk=55 gold=555 sentimentality=5555 vector=1 sReqCharacter*Salvage*Astralium=55555555
-"astralium powder" luk=5 gold=55 sentimentality=555 vector=1 sReqCharacter*Salvage*Astralium=1
+"astralium chunks" luk=5 gold=55 sentimentality=555 vector=1 sReqCharacter*Salvage*Astralium=55555
+"astralium powder" luk=5 gold=55 sentimentality=555 sReqCharacter*Salvage*Astralium=5
