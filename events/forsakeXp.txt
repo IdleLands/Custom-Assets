@@ -106,3 +106,4 @@ Kami-sama took a dump and to %player's misfortune it landed on %hisher head. %pl
 %player drank a new elixir made from $dict:reagent#0$, $dict:reagent#1$, and $dict:reagent#2$. It tasted so horrible it caused %player to lose a total of %xpxp!
 %player consumed void shards from the astral plane. They caused horrible nightmares which caused %himher to lose %xpxp.
 %player ate $dict:reagent#0$ and subsequently forgot %xpxp worth of events.
+%player decided to farm some experience points, but $random:player$ ate %hisher entire harvest! What a waste of %xpxp.
