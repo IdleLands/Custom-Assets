@@ -76,6 +76,9 @@
 "Friendship Eternis Necklace" con=5022 int=1750 luk=4000 damageReduction=2500 sentimentality=10000 glowing=15
 "Photonic Bowtie" con=3140 dex=4000 agi=2997 int=17750 gold=106 dance=3 glowing=40
 
+# artifacts
+"Cavernous Coin Necklace" con=500 luk=2000 gold=100000 cReqCavernous_Coin_Pouch=1 cReqGold_Bank_Coin=2 cReqMedium_Sized_Bank_Coin=2 cReqRather_Large_Bank_Coin=2 cReqWeirdly_Sized_Bank_Coin=2 cReqEvil_Bank_Coin=2 cReqAshen_Bank_Coin=2
+
 # custom
 "key-board" str=50 int=50 agi=50 dex=50
 "stethoscope" int=33 hpregen=50
