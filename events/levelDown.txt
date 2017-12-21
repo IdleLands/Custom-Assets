@@ -5,7 +5,7 @@
 %player became less awesome!
 %player was acutely aware of %hisher surroundings being suddenly more powerful than %himher.
 %player was doused in gas and ignited by a crazy arsonist!
-%player met %hisher childhood crush and went on a private hotel! Unfortunately the what %she thought to be a hot night turned out to be a bloody massacre! %player was stabbed to death.
+%player met %hisher childhood crush and went to a private hotel! Unfortunately what %heshe thought would be a hot night turned out to be a bloody massacre! %player was stabbed to death.
 %player thought %heshe could climb to the next level... REJECTED!
 $dict:deity#1$ and $dict:deity#2$ took out their wrath on %player by knocking %himher down a notch.
 RNGesus hated %player!
@@ -14,7 +14,7 @@ RNGesus hated %player!
 %player tried to divide by 0.
 %player made a huge mistake...
 %player farted in an elevator.
-%player looked at the calendar and didn't expect to see that it is friday the 13th...
+%player looked at the calendar and didn't expect to see that it was Friday the 13th...
 %player stumbled across a bug.
 %player watched 2 Girls 1 Cup.
 %player was killed by their own shadow!
