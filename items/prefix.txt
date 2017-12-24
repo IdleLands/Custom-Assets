@@ -325,7 +325,7 @@
 "forked" str=50 dex=-20 agi=-10 vorpal=1
 "wicked" str=100 dex=200 int=-10 luk=20
 "opulent" dex=-50 agi=-10 int=300 luk=50 gold=100
-"innane" str=-10 dex=-50 int=-20 luk=30 dance=1
+"inane" str=-10 dex=-50 int=-20 luk=30 dance=1
 "pearlescent" con=100 dex=100 glowing=1
 "motherly" con=50 luk=200 sentimentality=1000
 "jeweled" dex=100 luk=100 gold=200
