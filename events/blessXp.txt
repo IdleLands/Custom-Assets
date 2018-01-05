@@ -73,3 +73,4 @@ All the people in $random:town$ decided it was time to reward %player for all %h
 %player drank an elixir %heshe made with $dict:reagent#0$, $dict:reagent#1$, and $dict:reagent#2$. It turned out to be an XP potion worth %xpxp!
 %player took the time to procure and cultivate $dict:reagent#0$. For %hisher patience, %heshe gained %xpxp.
 %player decided to farm some experience points. After a grueling year of toiling in the fields, %player harvested %xpxp!
+%player subdued a $random:monster$ in hand-to-hand combat and earned %xpxp.
