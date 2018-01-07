@@ -79,7 +79,7 @@
 # agi/con/int
 "bustier"  agi=5 con=15 int=1
 "squishy squish" agi=15 con=80 int=20
-"Bill Cosby's Sweater" agi=500 con=300 int=50
+"Bill Cosby's Sweater" agi=500 con=300 int=50 prone=1
 
 # agi/int/str
 "canvas" agi=10 int=10 str=10
