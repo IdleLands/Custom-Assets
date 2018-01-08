@@ -81,4 +81,4 @@
 "fish finger" str=5
 "chocolate fingers" crit=1 int=5
 "butter fingers" dex=100
-"Ring of Oppurtunity" str=100 con=100 dex=100 agi=100 int=100 luk=10 sentimentality=100 gold=100 vector=2 aReqAscended=2
+"Ring of Opportunity" str=100 con=100 dex=100 agi=100 int=100 luk=10 sentimentality=100 gold=100 vector=2 aReqAscended=2
