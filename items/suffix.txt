@@ -62,7 +62,7 @@
 "helpful hedgehog" int=120 con=10
 "herping heron" luk=-40 int=220
 "derping deer" luk=-40 con=220
-"interpid iguana" con=200 agi=-20
+"intrepid iguana" con=200 agi=-20
 "daring duck" str=50 int=150
 "derpig" con=80 agi=-20
 "horny hornet" dex=100 agi=110
