@@ -68,3 +68,4 @@ A little kid called $random:player$ was trying to sell %player some gold pieces 
 %player ate $dict:reagent#0$ and vomited up %gold gold into the toilet.
 %player used $dict:reagent#0$ and $dict:reagent#1$ to make a wonderful potion. %Heshe was sued for %gold gold because of undocumented side effects.
 %player started dealing in the lucrative business of $dict:reagent#0$ trading. %Heshe and %hisher cronies where caught and payed %gold gold to waive their sentences.
+%player invested in the wrong cryptocurrency and lost %gold gold from the deficit.
