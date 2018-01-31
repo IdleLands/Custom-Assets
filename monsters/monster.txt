@@ -576,3 +576,8 @@
 "jack of no trade" zone=forest level=15 class=Generalist str=1 dex=1 con=1 int=1 agi=1 luk=1
 "shadowflame quencher" zone=town level=99 class=Monster
 "meandering cactus" level=57 class=Fighter str=3200 con=1200 hpregen=50
+"The Scavenger" level=250 class=MagicalMonster str=10000 con=30000 dex=15000 agi=15000 int=40000 hpregen=5000 prone=5 venom=20
+"The Wanderer" level=500 class=Generalist str=15000 con=150000 agi=75000 aegis=1 glowing=50
+"The Seeker" level=1000 class=Fighter str=50000 con=300000  aegis=1 glowing=100 prone=5 shatter=5
+"The Magi" level=1500 class=Mage con=500000 int=200000 aegis=1 glowing=100 vampire=15 poison=20
+"The Exile" level=2000 class=Barbarian str=1000001 damageReductionPercent=20 aegis=1 glowing=300 venom=30 prone=10
