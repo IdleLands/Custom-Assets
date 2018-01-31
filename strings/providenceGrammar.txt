@@ -1,3 +1,5 @@
 %providenceName% %preposition% %noun%
 %adjective% %providenceName% %preposition% %noun%
 %preposition% %providenceName%
+%providenceName% %conjunction% %providenceName%
+%providenceName% of the %adjective%
