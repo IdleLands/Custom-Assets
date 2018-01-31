@@ -81,6 +81,9 @@
 # goatly-class
 "Manual for Adventurers Vol. 777 -Rented-" str=3000 con=3000 dex=3000 agi=2000 int=2500 luk=2000 xp=3 hp=500 mp=200 hpregen=100 mpregen=100 crit=5 prone=1 venom=1 poison=1 shatter=1 vampire=1 damageReduction=1000 gold=-1000 sentimentality=5000 dance=1 defense=1 offense=1 deadeye=1 lethal=1 silver=1 power=1 vorpal=1 aegis=1 glowing=3
 
+# artifacts
+"Fate's Kris" str=3000 con=3000 dex=3000 agi=3000 int=3000 luk=15000 xp=300 crit=100 glowing=20 cReqPretty_Cool_Looking_Dagger=1 cReqTwisted_Appendage=1 aReqTempterOfFate=1 sReqBossKills*Fate-Twisted_Lake_Monstrosity=5
+
 # custom
 "pool noodle" str=-55 int=-1 agi=120 luk=3
 "spell book" int=25
