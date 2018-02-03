@@ -52,6 +52,7 @@
 "Faithful Pet Wolf" int=750
 "Mask de Smith" int=850
 "Magnitude Pocketwatch" int=1000
+"Fuckin' Brackets" int=2275
 
 # luck/int
 "bauble"  luk=1 int=7
