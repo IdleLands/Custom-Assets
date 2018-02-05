@@ -106,6 +106,10 @@
 "drunken master" str=175 agi=75
 "soggy slug" agi=-50
 "Golden Ratio" gold=1618
+"prosperous pangolin" con=20 gold=3236
+"wealthy walrus" con=200 gold=6472
+"mercantile system" dex=400 con=400 gold=12944 sReqRegions*The_Marketplace=180
+"grieving gambler" con=1200 gold=25888 sReqCharacter*Gamble*LoseTimesDoubleDown=250
 "speedrunning snake" agi=123
 "quantal quetzal" luk=17
 "utopic unicorn" luk=20
