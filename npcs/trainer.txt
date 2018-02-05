@@ -113,7 +113,7 @@
 "Skelly Temple" class=Necromancer
 "Hackerman" class=Bitomancer
 "Pun Inntendid" class=Jester
-"Dats watshesed" class=Jester
+"Dats Watshesed" class=Jester
 "Levsolis" class=Rogue
 "Bertram" class=Rogue
 "Lumaran" class=Cleric
