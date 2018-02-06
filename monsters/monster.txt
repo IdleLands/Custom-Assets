@@ -581,3 +581,5 @@
 "The Seeker" level=1000 class=Fighter str=50000 con=300000  aegis=1 glowing=100 prone=5 shatter=5
 "The Magi" level=1500 class=Mage con=500000 int=200000 aegis=1 glowing=100 vampire=15 poison=20
 "The Exile" level=2000 class=Barbarian str=1000001 damageReductionPercent=20 aegis=1 glowing=300 venom=30 prone=10
+"Rhinoceratops" level=300 class=Barbarian str=13000 con=13000 offense=2
+"Superpuma" level=300 class=Rogue dex=18000 agi=4000 power=1 dance=1
