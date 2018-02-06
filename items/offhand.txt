@@ -132,3 +132,4 @@
 "cheese wheel" con=35 str=15
 "sword cane" str=300 dex=30 int=300 mp=100
 "mini-cactus" str=650 con=-5 dex=100 agi=25 int=-1 hp=-1000 mp=50 shatter=1
+"can opener" str=1500 con=250 dex=150 int=1500 hp=525 hpregen=50 xp=1 aReqWalker=6
