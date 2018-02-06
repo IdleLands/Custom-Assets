@@ -19,6 +19,7 @@ Feud
 Fight
 Food Fight
 Fray
+Invasion
 Massacre
 Mission
 Quarrel
