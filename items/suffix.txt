@@ -133,6 +133,8 @@
 "salty squid" agi=50 int=200 prone=1
 "Keymaster" int=1000 luk=1000 crit=3 cReqGuard_Tower_Key=1 cReqFragile_Obsidian_Key=1 cReqResort_Room_Key=1 cReqLarge_Decorative_Key=1 cReqKey_to_Maeles=1 cReqKing's_Key=1
 "Dabbler in all Arts" str=150 dex=100 agi=80 con=50 int=100 luk=50 aReqClassfluid=3
+"careful capybara" con=50 dex=700 agi=4100 luk=600 defense=3 dance=1
+"flatulent fox" str=500 con=-50 vorpal=1 deadeye=1
 
 # Legendary
 "Billionaire" gold=50000 sReqCharacter*Gold*Gain=10000000000
