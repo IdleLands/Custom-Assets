@@ -64,6 +64,16 @@
 "Mom's Heels" agi=100  dex=150 int=50
 "socks and sandals" agi=1 dex=1 int=-20
 
+#peglegs
+"rotten peglegs" con=20 dex=15 agi=-20 poison=1
+"oak peglegs" con=80 dex=120 agi=-80 defense=1 sReqCharacterProfessionsPirate=1
+"birch peglegs" con=80 dex=60 agi=30 offense=1 sReqCharacterProfessionsPirate=1
+"steel peglegs" str=200 con=320 dex=-60 agi=-80 damageReduction=200 sReqCharacterProfessionsPirate=5
+"golden peglegs" con=1000 dex=750 agi=-100 luk=340 gold=3000 sReqCharacterProfessionsPirate=10
+"platinum peglegs" con=2000 dex=1500 agi=-400 luk=200 xp=50 sReqCharacterProfessionsPirate=25
+"Welkin Peglegs" con=3000 dex=4000 agi=2000 luk=1000 glowing=10 aegis=3 sReqCharacterProfessionsPirate=100
+"Abyssal Peglegs" con=12500 dex=1000 agi=-500 luk=-100 glowing=-3 gold=500 sentimentality=-1000 sReqCharacterProfessionsPirate=100
+
 # idle-class
 "Fastidious Feet of the Idling Gods" luk=100 agi=2000 dex=2500
 
