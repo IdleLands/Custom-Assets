@@ -15,6 +15,7 @@
 "4 leaf clover" luk=4
 "8 leaf clover" luk=8
 "Standard Monetary Unit" luk=45
+"12 leaf clover" luk=13
 
 # int
 "plume" int=10
@@ -52,6 +53,7 @@
 "Faithful Pet Wolf" int=750
 "Mask de Smith" int=850
 "Magnitude Pocketwatch" int=1000
+"Strange Oculus" int=3030
 
 # luck/int
 "bauble"  luk=1 int=7
@@ -77,6 +79,7 @@
 
 # hybrid
 "prism" str=10 con=10 int=10 dex=10 luk=1
+"rainbow tear" str=100 con=100 int=100 luk=10 glowing=1
 
 # idle-class
 "Cosmic Charm of the Idling Gods" int=2500 dex=2500 vorpal=1 venom=1
@@ -85,6 +88,7 @@
 "Black Hole" int=1500 dex=1500 con=500 str=1500 agi=1500
 "Time Crystal" int=3000 dex=2000 luk=1000 xp=10
 "Ancient Symbiote" str=4000 con=3000 agi=2000 int=-3000 luk=-500 damageReduction=500 venom=1
+"Abyssal Token" con=-2500 int=8500 luk=-1000 salvage=1 xp=-20
 
 # celestial something or another
 "Celestial Chess Piece" str=1000 dex=1000 con=1000 agi=1000 int=1000 luk=1000 glowing=1 offense=1
@@ -106,3 +110,6 @@
 "8 ball clover" luk=8 con=8
 "String of Glass Eyes" int=500 luk=800 salvage=1
 "jar of honey" con=150 int=200 luk=50 hpregen=500
+"lifeblood totem" con=500 int=100 hp=550 hpregen=-10
+"Sierpinski's Tetrahedron" int=3333 luk=333 xp=33
+"Menger Sponge" int=4444 luk=444 xp=44
