@@ -139,9 +139,9 @@
 "l33t h4x0r" str=200 con=200 dex=200 agi=200 int=1000 luk=200 sentimentality=-10
 "Bad Juju" con=-100 int=-100 luk=-444 crit=-1 shatter=1
 "Soapy One" sentimentality=12345
-"Thrift" str=-10 con=-10 dex=-10 agi=-10 int=-10 luk=-10 gold=550
-"Frugal" str=-100 con=-100 dex=-100 agi=-100 int=-100 luk=-100 gold=5500
-"Parsimonious" str=-1000 con=-1000 dex=-1000 agi=-1000 int=-1000 luk=-1000 gold=55000
+"Thrift" str=-10 con=-10 dex=-10 agi=-10 int=-10 luk=-10 gold=610
+"Frugal" str=-100 con=-100 dex=-100 agi=-100 int=-100 luk=-100 gold=6100
+"Parsimonious" str=-1000 con=-1000 dex=-1000 agi=-1000 int=-1000 luk=-1000 gold=61000
 "hangry" str=29 con=-10 int=-1 offense=1
 "blown budget" str=50 con=50 dex=50 agi=50 int=50 luk=50 gold=-200
 "Bulwark" con=606 agi=-20 defense=10
@@ -149,7 +149,9 @@
 "broken netcode" int=-50 luk=-10 xp=-2 shatter=2
 "Dasher" dex=200 agi=500 luk=20 dance=1
 "Dashmaster" dex=600 agi=1500 dance=7
-"Magi" int=2000 mp=
+"Magi" int=2000 mp=40000 mpregen=4000
+"recursion of the recursion" str=1 con=2 dex=6 agi=24 int=120 luk=720
+"phallic phantom" int=300 luk=20 aegis=1 
 
 # Legendary
 "Billionaire" gold=50000 sReqCharacter*Gold*Gain=10000000000
