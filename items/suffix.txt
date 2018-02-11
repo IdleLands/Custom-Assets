@@ -129,6 +129,27 @@
 "salty squid" agi=50 int=200 prone=1
 "Keymaster" int=1000 luk=1000 crit=3 cReqGuard_Tower_Key=1 cReqFragile_Obsidian_Key=1 cReqResort_Room_Key=1 cReqLarge_Decorative_Key=1 cReqKey_to_Maeles=1 cReqKing's_Key=1
 "Dabbler in all Arts" str=150 dex=100 agi=80 con=50 int=100 luk=50 aReqClassfluid=3
+"brutish thug" str=300 con=30 int=-40
+"Welkin" dex=750 agi=500 luk=75 glowing=2
+"Dreamer" con=-50 int=1000 xp=-10
+"tame tapeworm" str=-10 con=-75 venom=2
+"lousy lizard" agi=-20 int=10 defense=1
+"frightened foal" str=-10 dex=30 agi=100
+"Fly" str=-50 con=-50 agi=100 int=500 poison=2 venom=2
+"l33t h4x0r" str=200 con=200 dex=200 agi=200 int=1000 luk=200 sentimentality=-10
+"Bad Juju" con=-100 int=-100 luk=-444 crit=-1 shatter=1
+"Soapy One" sentimentality=12345
+"Thrift" str=-10 con=-10 dex=-10 agi=-10 int=-10 luk=-10 gold=550
+"Frugal" str=-100 con=-100 dex=-100 agi=-100 int=-100 luk=-100 gold=5500
+"Parsimonious" str=-1000 con=-1000 dex=-1000 agi=-1000 int=-1000 luk=-1000 gold=55000
+"hangry" str=29 con=-10 int=-1 offense=1
+"blown budget" str=50 con=50 dex=50 agi=50 int=50 luk=50 gold=-200
+"Bulwark" con=606 agi=-20 defense=10
+"sad clown" str=-9 con=-9 dex=-9 agi=-9 int=-9 luk=-10 dance=-1 xp=4
+"broken netcode" int=-50 luk=-10 xp=-2 shatter=2
+"Dasher" dex=200 agi=500 luk=20 dance=1
+"Dashmaster" dex=600 agi=1500 dance=7
+"Magi" int=2000 mp=
 
 # Legendary
 "Billionaire" gold=50000 sReqCharacter*Gold*Gain=10000000000
