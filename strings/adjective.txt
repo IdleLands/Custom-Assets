@@ -57,6 +57,7 @@ Heavy
 Holographic
 Hot
 Hungry
+Idle
 Illuminating
 Infinite
 Interviewing
@@ -70,6 +71,7 @@ Old
 Omnipotent
 Ontological
 Overpowered
+Passionate
 Perfect
 Political
 Radical
@@ -77,6 +79,7 @@ Raging
 Red-eyed
 Red-hot
 Rubbish
+Savory
 Sexy
 Sober
 Spanish

@@ -411,6 +411,10 @@
 "nerf gun" str=100 dex=50 int=10 luk=20
 "oppai mousepad" dex=50 int=800 deadeye=1 lethal=1
 "lul cannon" str=300 int=-300 luk=150 power=1
+"healing dagger" dex=14000 agi=2000 luk=-1 crit=1 enchantLevel=1 hp=15000 hpregen=-1000 sentimentality=10000 xp=1 aReqAscended=1
+"framed painting" str=-5000 agi=150 int=1 luk=12000 dance=1 gold=750 sentimentality=10000 aReqAscended=5
+"bar of soap" sentimentality=50
+"wad of cash" gold=350
 
 #bricks
 "wood brick" str=250 dex=250 luk=20 hp=500 hpregen=50 vector=3 aReqJailbird=1

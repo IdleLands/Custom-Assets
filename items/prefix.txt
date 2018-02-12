@@ -325,7 +325,7 @@
 "forked" str=50 dex=-20 agi=-10 vorpal=1
 "wicked" str=100 dex=200 int=-10 luk=20
 "opulent" dex=-50 agi=-10 int=300 luk=50 gold=100
-"innane" str=-10 dex=-50 int=-20 luk=30 dance=1
+"inane" str=-10 dex=-50 int=-20 luk=30 dance=1
 "pearlescent" con=100 dex=100 glowing=1
 "motherly" con=50 luk=200 sentimentality=1000
 "jeweled" dex=100 luk=100 gold=200
@@ -343,6 +343,9 @@
 "strawberry-flavored" agi=13 int=100 poison=-1
 "chocolate" con=-102 int=102 hpregen=-20
 "dark-chocolate" con=102 int=204 hpregen=100
+"splendid" str=1000 con=1000 dex=1000 agi=1000 int=1000 luk=1000 aReqClassfluid=1
+"magnificent" str=10000 con=10000 dex=10000 agi=10000 int=10000 luk=10000 glowing=10 gold=10 aegis=1 xp=3 aReqClassfluid=5
+"plaid" str=2468 con=2468 dex=2468 offense=1 defense=1
 
 # special prefixes
 "Abhorrent" str=-200 con=-200 int=-200 glowing=1

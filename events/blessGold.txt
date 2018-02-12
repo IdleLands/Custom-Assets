@@ -38,7 +38,7 @@ Sarda, The Wizard Who Did It gave %player %gold gold to shake up the economy.
 A time anomaly made a few bank statements non-exist! The bank credited %player %gold gold.
 %player started a YouTube channel! %She received a payment of %gold gold.
 %player chanced upon some unicorn dung! %She found %gold gold in it.
-%player found the right end of a black hole! %She discovers %gold gold.
+%player found the right end of a black hole! %She discovered %gold gold.
 %player worked a night guarding a VIP. %player is paid %gold gold. Good job.
 %player killed a caribou and crawls inside. %She found %gold gold in its stomach!
 %player starts eating moonrocks... a week later %she found %gold gold...
@@ -76,7 +76,7 @@ They were giving out free gold at the bank... lol, yeah right... %player robbed 
 %player acted for some obscure ad and made %gold gold!
 %player set up a goldfish trafficking operation and made %gold gold.
 %player bought some foreign money. After the economy crashed, %heshe made a total of %gold gold.
-%player spent a few hours playing the flute on th side of the road and made %gold gold!
+%player spent a few hours playing the flute on the side of the road and made %gold gold!
 %player won the prize for most glass shards eaten in a minute. %heshe won %gold gold after paying medical bills.
 %player successfully extracted honeycomb from %hisher bees. %Heshe sold it for %gold gold!
 %player spent a day or two plucking strawberry seeds. %Heshe received %gold gold for %hisher effort.

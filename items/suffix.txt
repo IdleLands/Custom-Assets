@@ -62,7 +62,7 @@
 "helpful hedgehog" int=120 con=10
 "herping heron" luk=-40 int=220
 "derping deer" luk=-40 con=220
-"interpid iguana" con=200 agi=-20
+"intrepid iguana" con=200 agi=-20
 "daring duck" str=50 int=150
 "derpig" con=80 agi=-20
 "horny hornet" dex=100 agi=110
@@ -106,6 +106,10 @@
 "drunken master" str=175 agi=75
 "soggy slug" agi=-50
 "Golden Ratio" gold=1618
+"prosperous pangolin" con=20 gold=3236
+"wealthy walrus" con=200 gold=6472
+"mercantile system" dex=400 con=400 gold=12944 sReqRegions*The_Marketplace=180
+"grieving gambler" con=1200 gold=25888 sReqCharacter*Gamble*LoseTimesDoubleDown=250
 "speedrunning snake" agi=123
 "quantal quetzal" luk=17
 "utopic unicorn" luk=20
@@ -154,6 +158,8 @@
 "phallic phantom" int=300 luk=20 aegis=1 
 "Apathetic" luk=-1000 sentimentality=-10000
 "Aspirant" luk=1000 sentimentality=10000
+"careful capybara" con=50 dex=700 agi=4100 luk=600 defense=3 dance=1
+"flatulent fox" str=500 con=-50 vorpal=1 deadeye=1
 
 # Legendary
 "Billionaire" gold=50000 sReqCharacter*Gold*Gain=10000000000

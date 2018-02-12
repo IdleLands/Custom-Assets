@@ -1,7 +1,7 @@
 There's a huge sale at Ceiling-Mart, and %player is invited, for only %shopGold gold! Come buy a %item now!
 Their little-known Aunt Sally finally sent %player their birthday present - but it's only a coupon! The %item still costs %shopGold gold.
 %player travels to the secret shop in order to grab a new, shiny %item. %She'll need to fork up %shopGold gold for it.
-Using some high explosives, %player blows up a crack in the wall and finds an old man within a hidden cave! Buy somethin', will ya, for %shopGold gold! %She buys the %item.
+Using some high explosives, %player blows up a crack in the wall and finds an old man within a hidden cave! Buy somethin', will ya, for %shopGold gold! %player buys the %item.
 %player goes down to the drugstore. There aren't any drugs, but there is a fancy-looking %item for %shopGold gold.
 %player runs into a money-grubbing raccoon, who offers them a powerful %item, at the "low" cost of %shopGold gold. What a "deal"!
 The TV's showing off a sweet-looking %item! %player better pick up the phone in the next ten minutes, the price is just %shopGold gold!
