@@ -72,4 +72,4 @@ $combat:party#1$ stole a shipment of $dict:reagent#0$ from $combat:party#0$!
 $combat:party#0$ and $combat:party#1$ were enjoying a nice discussion until $combat:party#1 party:member#1$ went berserk!
 %player tries balancing swords on top of each other; it was going well until $combat:party#1$ went looking for where all their weapons went...
 %player, and about time too!
-%player was going to cash in all %hisher monopoly money when $combat:party#1$
+%player was going to cash in all %hisher monopoly money when $combat:party#1$ sent them to jail!
