@@ -84,3 +84,7 @@
 "stethoscope" int=33 hpregen=50
 "bone necklace" str=175 int=175 con=10
 "neck pillow" con=75 hp=100
+"studded collar" str=200 con=300 dex=60 crit=1
+"spiked collar" str=400 con=600 crit=5
+"stringed hourglass" luk=10 xp=20
+"neck brace" con=200 dex=-100 agi=-30 damageReduction=400
