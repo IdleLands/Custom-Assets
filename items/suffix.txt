@@ -152,6 +152,8 @@
 "Magi" int=2000 mp=40000 mpregen=4000
 "recursion of the recursion" str=1 con=2 dex=6 agi=24 int=120 luk=720
 "phallic phantom" int=300 luk=20 aegis=1 
+"Apathetic" luk=-1000 sentimentality=-10000
+"Aspirant" luk=1000 sentimentality=10000
 
 # Legendary
 "Billionaire" gold=50000 sReqCharacter*Gold*Gain=10000000000
