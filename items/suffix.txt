@@ -160,6 +160,7 @@
 "Aspirant" luk=1000 sentimentality=10000
 "careful capybara" con=50 dex=700 agi=4100 luk=600 defense=3 dance=1
 "flatulent fox" str=500 con=-50 vorpal=1 deadeye=1
+"capricious capuchin" agi=2100 luk=50
 
 # Legendary
 "Billionaire" gold=50000 sReqCharacter*Gold*Gain=10000000000
