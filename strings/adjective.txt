@@ -22,6 +22,7 @@ Clean
 Clear
 Cloudy
 Cool
+Cold
 Colorful
 Coward
 Crazy
@@ -48,6 +49,7 @@ Fearful
 Fighting
 Filthy
 Free
+Frozen
 Future
 Green-eyed
 Hairy
@@ -82,6 +84,7 @@ Red-hot
 Rubbish
 Savory
 Sexy
+Slippery
 Sober
 Spanish
 Steamy
@@ -98,6 +101,7 @@ Twitty
 Undefined
 Valiant
 Wacky
+Wild
 Windy
 Witty
 Zealous
