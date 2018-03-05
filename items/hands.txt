@@ -6,7 +6,7 @@
 
 # dex/int
 "silk gloves" dex=2 int=5
-"ove gloves" dex=5 int=15
+"oven gloves" dex=5 int=15
 "princess glove" dex=15 int=30
 "techno glove" dex=20 int=150
 "magic hand" dex=30 int=80
