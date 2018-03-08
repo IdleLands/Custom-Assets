@@ -18,4 +18,4 @@
 %partyName designed a secret handshake together.
 %partyName sat down and gossiped about $random:party$, getting friendier with each other in the process.
 %partyName found a box on the ground labeled "Free XP to a good home".
-%partyName started selling %reagent out on the street. While they didn't make any return, they all gained %xpxp from the memories.
+%partyName started selling $dict:reagent#0$ out on the street. While they didn't make any return, they all gained %xpxp from the memories.
