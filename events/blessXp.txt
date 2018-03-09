@@ -40,7 +40,7 @@ Sarda, The Wizard Who Did It gave %player %xpxp to borrow.
 %pet found a child trapped in a well! %player rescued the child and earns %xpxp!
 A passing $random:class$ shared %xpxp worth of knowledge with %player.
 %player watched BEN Drowned and avoided falling into a nearby river. Avoiding BEN was worth %xpxp!
-%player met his friend $random:player$ and they learned to play Idle Lands together. As a result, %player gained a whopping %xpxp.
+%player met his friend $random:player$ and they learned to play IdleLands together. As a result, %player gained a whopping %xpxp.
 %player sold %hisher mother to satan for the knowledge of cooking the perfect breakfast egg, gaining %xpxp.
 %player began learning to swim from $random:player$! %player fell through the water's surface and found all the lost xp from all the people that have fallen in previously! It was a total of %xpxp!
 Once upon a time there was a person called %player. One day, %player got really lucky and gained %xpxp! The end.
