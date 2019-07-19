@@ -1,0 +1,12 @@
+Paper of %providenceName%
+Scroll of %providenceName%
+Tome of %providenceName%
+Litany of %providenceName%
+Paper of %noun%
+Scroll of %noun%
+Tome of %noun%
+Litany of %noun%
+Encyclopedia of %noun% Vol I
+Encyclopedia of %noun% Vol II
+Encyclopedia of %noun% Vol III
+Encyclopedia of %noun% Vol IV
