@@ -1,0 +1,12 @@
+Helping %noun%s
+Helping %adjective% %noun%s
+Helping %article% %noun%
+Assisting %noun%s
+Assisting %adjective% %noun%s
+Assisting %article% %noun%
+Supporting %noun%s
+Supporting %adjective% %noun%s
+Supporting %article% %noun%
+Aiding %noun%s
+Aiding %adjective% %noun%s
+Aiding %article% %noun%
