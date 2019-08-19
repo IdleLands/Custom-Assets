@@ -23,3 +23,4 @@
 "pain de campagne" dex=20 agi=15
 "baguette" con=15 str=5
 "mantou" luk=5 agi=5
+"stroopwafel waffle" con=50
