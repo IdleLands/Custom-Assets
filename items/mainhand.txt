@@ -347,6 +347,7 @@
 "wad o' cash" str=350 int=100 agi=-50
 "tomato" str=275 agi=75 dex=85
 "peculiar object" str=400 int=-300 agi=-200 mp=500 glowing=3
+"stroopwafel shuriken" str=500 agi=500 dex=500
 
 # 4 stat hybrids
 "Banhammer" str=350 int=100 agi=100 con=-100
