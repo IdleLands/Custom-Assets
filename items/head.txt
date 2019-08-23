@@ -128,6 +128,9 @@
 # goatly-class
 "20/500 Prescription Lenses" int=12000 luk=3900 crit=10 deadeye=5
 
+# omega-class
+"Literally Laser Eyes" str=20000 con=6500 dex=4500 agi=6000 int=20000 xp=10 mpregen=4500 damageReduction=1200 gold=148
+
 # custom
 "war paint" str=30 agi=30
 "laurel wreath" str=50 agi=250 int=50 gold=10
