@@ -116,10 +116,10 @@
 "Celestial Garb" str=500 dex=1500 con=500 agi=1500 int=1000 luk=1000 glowing=1 offense=1
 
 # goatly-class
-"Polo with Many Pockets" con=3000 dex=5500 agi=3000 int=7000 luk=2200 xp=25 mpregen=1000 defense=10 aegis=5 salvage=1
+"Polo with Many Pockets" con=3000 dex=5500 agi=3000 int=7000 luk=3200 xp=25 mpregen=1000 defense=10 aegis=5 salvage=1
 
-# artifact 
-"Complete Black Shroud" str=1000 dex=5000 agi=5000 luk=2500 defense=10 dance=1 glowing=-2 cReqBlack_Shroud=1 cReqSilver_Lining=1
+# omega-class 
+"Complete Black Shroud" str=10000 dex=15000 agi=15000 luk=12500 defense=10 dance=1 glowing=-2 cReqBlack_Shroud=1 cReqSilver_Lining=1
 
 # custom
 "Apocalyptic Sticky Notes" str=200 dex=200 int=200 agi=-200
