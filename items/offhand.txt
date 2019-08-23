@@ -54,6 +54,9 @@
 # int / str
 "upvote" int=200 str=-50
 
+# str / agi
+"Slash Harken" str=60 agi=50
+
 # 3-stat
 "pie plate" dex=5 con=-3 agi=4
 "fender" con=20 dex=20 str=5
