@@ -54,6 +54,9 @@
 # int / str
 "upvote" int=200 str=-50
 
+# str / agi
+"Slash Harken" str=60 agi=50
+
 # 3-stat
 "pie plate" dex=5 con=-3 agi=4
 "fender" con=20 dex=20 str=5
@@ -74,6 +77,7 @@
 
 # godly-class
 "Solar System" con=3000
+"Daisho" str=1500 dex=300 con=-750 agi=300 luk=130
 
 # celestial something or another
 "Celestial Cover" str=1000 dex=1000 con=1000 agi=1000 luk=1000 glowing=1 defense=2
