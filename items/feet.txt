@@ -87,6 +87,9 @@
 "Greater Crocs" str=5000 con=8000 dex=400 agi=400 int=2000 luk=1600 sentimentality=10000 dance=-10
 "Vantablack Dress Shoes" str=1000 con=5000 dex=10500 agi=11000 int=7500 luk=2600 xp=50 damageReduction=5000 glowing=-50
 
+# omega-class
+"Duct Tape Flippity Floppies" con=16500 dex=18500 agi=36000 int=-1000 xp=10 mpregen=4500 damageReduction=1200 gold=148
+
 # custom
 "clogs" agi=200 dance=1
 "tap shoes" agi=105 dance=1
