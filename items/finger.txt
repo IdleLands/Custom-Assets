@@ -67,8 +67,8 @@
 # goatly-class
 "Shut-In's Loop" str=-3000 con=-500 dex=-1000 agi=-2000 int=25025 luk=10000 xp=-30 mpregen=100 poison=2 dance=-1
 
-# artifacts
-"Hydromancer's Lost Ring" con=1000 int=7500 luk=1000 mp=25000 mpregen=2500 prone=3 cReqSmall_Diamond=1 cReqOld_Ring=1
+# omega-class
+"Hydromancer's Lost Ring" con=20000 int=7500 luk=3000 mp=25000 mpregen=2500 prone=3 cReqSmall_Diamond=1 cReqOld_Ring=1
 
 # custom
 "skull ring" str=200
