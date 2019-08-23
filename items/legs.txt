@@ -69,7 +69,10 @@
 "Celestial Chausses" str=1000 dex=1000 con=1000 agi=1000 int=1000 luk=1000 glowing=1 offense=1
 
 # goatly-class
-"Incredibly High-Waisted Pants" str=500 con=2000 dex=-1500 agi=-1000 int=8888 luk=3000 xp=10 mpregen=4500 damageReduction=1200 gold=148
+"Incredibly High-Waisted Pants" str=6500 con=2500 dex=-1500 agi=-1000 int=8888 luk=3000 xp=10 mpregen=4500 damageReduction=1200 gold=148
+
+# omega-class
+"Super Duper Pantskirt" str=6500 con=6500 dex=4500 agi=6000 int=6000 luk=5000 xp=10 mpregen=4500 damageReduction=1200 gold=148
 
 # custom
 "turtle leggings" str=45 agi=-8 luk=5
