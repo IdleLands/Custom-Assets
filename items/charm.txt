@@ -101,6 +101,9 @@
 # artifacts
 "Collection of Very Useful Things" str=-30 dex=-30 con=-30 agi=-30 int=-30 luk=-120 vector=5 cReqHodgepodge_Pocketwatch=1 cReqLast_Chance_Die=1 cReqRetractable_Pen=1 cReqMelted_Clock=1 cReqSilver_Compass=1 cReqChattering_Teeth cReqGiant's_Spyglass=1 cReqPoorly_Drawn_Map=1 
 
+# omega-class
+"Living Spider Amulet" con=80000 int=-10000 xp=10 mpregen=4500 damageReduction=1200 gold=148
+
 # custom
 "loaded dice" luk=100
 "ship in a bottle" int=100 luk=10
