@@ -1,6 +1,3 @@
-# str
-"asdf" str=2
-
 # con
 "heart piece" con=50
 "heart container" con=150
