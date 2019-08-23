@@ -55,6 +55,9 @@
 # goatly-class
 "Smart Watch with Fitness Monitoring" str=4000 con=5000 dex=2000 agi=500 luk=2222 hp=40000 hpregen=1250 defense=7 offense=2
 
+# omega-class
+"Gloves That Tell You What Time It Is" str=10000 dex=14500 agi=18000 int=10000 xp=10 mpregen=4500 damageReduction=1200 gold=148
+
 # custom
 "fingerless gloves" agi=100 dex=100
 "sock puppet" int=120
