@@ -36,6 +36,7 @@
 "Advanced Knee Replacement" agi=200 dex=650
 "Expensive Cardboard Shoes" agi=250 dex=200
 "Rocket Rocket Rocket Skates" agi=300 dex=25
+"Springs of the Jumping Bean" dex=100 agi=300
 "Hoverskates" agi=375 dex=150
 "Mario Boots" agi=400 dex=200
 "Red Hot Kicks" agi=500 str=55

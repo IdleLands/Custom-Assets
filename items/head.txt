@@ -133,6 +133,7 @@
 "Literally Laser Eyes" str=20000 con=6500 dex=4500 agi=6000 int=20000 xp=10 mpregen=4500 damageReduction=1200 gold=148
 
 # custom
+"Beard Bone" str=12 dex=-1 int=-1 con=3 agi=-1 hp=9 xp=-1 gold=-1
 "war paint" str=30 agi=30
 "laurel wreath" str=50 agi=250 int=50 gold=10
 "turtle helmet" str=50 agi=-10 luk=5
