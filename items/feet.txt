@@ -79,6 +79,7 @@
 
 # godly-class
 "Time Travel Boots" agi=7500 dex=2500 dance=1
+"Pristine Rollerblades" dex=2500 agi=7500 luk=3500
 
 # celestial something or another
 "Celestial Clubbers" str=1000 dex=1000 con=1000 agi=1000 int=1000 luk=1000 glowing=1 offense=1 defense=1 dance=1

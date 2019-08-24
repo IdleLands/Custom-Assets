@@ -358,6 +358,9 @@
 
 # godly-class
 "Godly Imagination" str=5000 int=3500
+"Ivory Drill" str=1500 dex=500 agi=1500
+"Rolled Up Newspaper" str=2500 agi=2500 luk=500
+"Psionic Blade" str=2500 dex=5500 int=1000 agi=1000
 
 # celestial something or another
 "Celestial Cutlass" str=1000 dex=1000 con=1000 agi=1000 int=1000 luk=1000 glowing=1 offense=1 power=1 silver=1
