@@ -81,6 +81,7 @@
 # hybrid
 "prism" str=10 con=10 int=10 dex=10 luk=1
 "rainbow tear" str=100 con=100 int=100 luk=10 glowing=1
+"Flavored Towel" str=1 con=3 hp=2 xp=1 gold=1
 
 # idle-class
 "Cosmic Charm of the Idling Gods" int=2500 dex=2500 vorpal=1 venom=1
