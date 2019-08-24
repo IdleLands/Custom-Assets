@@ -87,6 +87,7 @@
 "pet rock" str=158
 "glaive" str=160
 "billhook" str=166 vorpal=1
+"katana" str=170
 "tsurigi" str=172
 "stompin' boots" str=178
 "longerbow" str=184
