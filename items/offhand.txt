@@ -57,6 +57,9 @@
 # str / agi
 "Slash Harken" str=60 agi=50
 
+# con/hp
+"sentimental axe of love" con=100 hp=499 gold=20
+
 # 3-stat
 "pie plate" dex=5 con=-3 agi=4
 "fender" con=20 dex=20 str=5
