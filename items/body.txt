@@ -120,6 +120,7 @@
 
 # omega-class 
 "Complete Black Shroud" str=10000 dex=15000 agi=15000 luk=12500 defense=10 dance=1 glowing=-2 cReqBlack_Shroud=1 cReqSilver_Lining=1
+"Cracked Sash" dex=10000 agi=10000 hp=10000 gold=20
 
 # custom
 "Apocalyptic Sticky Notes" str=200 dex=200 int=200 agi=-200
