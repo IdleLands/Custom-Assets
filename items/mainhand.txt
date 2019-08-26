@@ -369,9 +369,12 @@
 # goatly-class
 "Min-Max Sabre" str=5300 con=6000 dex=4000 agi=-10550 int=600 luk=2200 crit=25 prone=10 venom=5 poison=10 shatter=10 vampire=15 defense=10 offense=10 vorpal=1 aegis=-20
 "Tab with Github/IdleLands open" str=-1000 con=1600 agi=-4000 int=21000 luk=740 damageReduction=6000 glowing=10 salvage=1
+"Diamond Pickaxe" str=2500 dex=2500 int=2500 con=2500 agi=2500 luk=2500 hp=2500 xp=10 gold=25
+"Gold Pickaxe" str=1000 dex=1000 int=1000 con=1000 agi=1000 luk=1000 hp=1000 gold=5
 
 # omega-class
 "Fate's Naginata" str=6000 dex=6000 int=6000 luk=10000 xp=300 crit=100 glowing=20 cReqPretty_Cool_Looking_Dagger=1 cReqTwisted_Appendage=1 aReqTempterOfFate=1 sReqBossKills*Fate-Twisted_Lake_Monstrosity=5
+"Seiyrias Keyboard" int=10000 con=5000 luk=2500 hp=10000 xp=10 gold=20
 
 # custom
 "Pan Galactic Gargle Blaster" int=500 agi=500
