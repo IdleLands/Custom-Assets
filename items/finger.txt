@@ -49,6 +49,7 @@
 "Red Tearstone Ring" str=2000 dex=2000 int=2000 hp=-10000
 "Ring of Steel Protection" str=100 con=2000 agi=600 aegis=1
 "Hornet Ring" str=200 dex=1600 agi=800 crit=2
+"Yeet Ring of the Shwartz" str=1000
 
 # godly-class
 "Earth-sized Diamond" str=12000 agi=-1000 dex=-1000 offense=1 vorpal=1
@@ -69,6 +70,7 @@
 
 # omega-class
 "Hydromancer's Lost Ring" con=20000 int=7500 luk=3000 mp=25000 mpregen=2500 prone=3 cReqSmall_Diamond=1 cReqOld_Ring=1
+"Spy Decoder Ring" dex=15000 agi=15000 luk=5000 hp=70000 xp=10
 
 # custom
 "skull ring" str=200

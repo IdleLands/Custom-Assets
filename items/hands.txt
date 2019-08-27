@@ -43,8 +43,12 @@
 "Glover" dex=200 luk=3 str=50
 "My Little Painbringers"  dex=311 luk=5 str=200
 
+# str/con
+"Newbie gloves of YEEThood" str=5 con=5 xp=5 gold=5
+
 # idle-class
 "Glowing Gauntlets of the Idling Gods" str=1500 dex=1000 agi=1500 luk=200 glowing=1 defense=1
+"Glove of YEET" str=200 dex=3000 int=-10 agi=2000 luk=20 hp=-1000 xp=1 gold=-1
 
 # godly-class
 "Infinitely Expanding Fractal Gloves" int=-1000 con=1000 str=3000 dex=3000
@@ -57,6 +61,8 @@
 
 # omega-class
 "Gloves That Tell You What Time It Is" str=10000 dex=14500 agi=18000 int=10000 xp=10 mpregen=4500 damageReduction=1200 gold=148
+"Illustrious Magic Paws" int=6000 con=6000 hp=15000 gold=25
+"Golden Gauntlets" str=100 dex=100 int=100 con=100 agi=100 luk=100 hp=100 xp=10 gold=100
 
 # custom
 "fingerless gloves" agi=100 dex=100

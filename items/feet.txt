@@ -81,6 +81,7 @@
 # godly-class
 "Time Travel Boots" agi=7500 dex=2500 dance=1
 "Pristine Rollerblades" dex=2500 agi=7500 luk=3500
+"Fossilized Moccasins" str=2000 agi=2000 gold=10
 
 # celestial something or another
 "Celestial Clubbers" str=1000 dex=1000 con=1000 agi=1000 int=1000 luk=1000 glowing=1 offense=1 defense=1 dance=1
@@ -88,6 +89,7 @@
 # goatly-class
 "Greater Crocs" str=5000 con=8000 dex=400 agi=400 int=2000 luk=1600 sentimentality=10000 dance=-10
 "Vantablack Dress Shoes" str=1000 con=5000 dex=10500 agi=11000 int=7500 luk=2600 xp=50 damageReduction=5000 glowing=-50
+"Slick Slime Soles" dex=12500 agi=25000 hp=25000
 
 # omega-class
 "Duct Tape Flippity Floppies" con=16500 dex=18500 agi=36000 int=-1000 xp=10 mpregen=4500 damageReduction=1200 gold=148
