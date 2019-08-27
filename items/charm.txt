@@ -122,3 +122,4 @@
 "lifeblood totem" con=500 int=100 hp=550 hpregen=-10
 "Sierpinski's Tetrahedron" int=3333 luk=333 xp=33
 "Menger Sponge" int=4444 luk=444 xp=44
+"natural charisma" str=-500 agi=-500 luk=7777 xp=-25

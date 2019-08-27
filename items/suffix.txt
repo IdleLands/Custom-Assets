@@ -161,6 +161,13 @@
 "careful capybara" con=50 dex=700 agi=4100 luk=600 defense=3 dance=1
 "flatulent fox" str=500 con=-50 vorpal=1 deadeye=1
 "capricious capuchin" agi=2100 luk=50
+"adventurous armadillo" dex=75 agi=75 luk=5 hp=50 xp=2
+"penny pincher" gold=1
+"peasant" str=800 dex=800 int=-50 con=-50 agi=400 luk=-50 xp=3 gold=-50
+"clicker" str=-77 dex=77 int=77 con=-77 agi=77 luk=77 xp=1 gold=77
+"free man" str=1020 dex=1020 int=1020 con=1020 agi=1020 luk=-1020 hp=100 xp=3
+"idle wanderer" con=500 luk=5 hp=250 xp=33 gold=1
+"duplicitous dolphin" dex=750 agi=300 luk=75 gold=300
 
 # Legendary
 "Billionaire" gold=50000 sReqCharacter*Gold*Gain=10000000000

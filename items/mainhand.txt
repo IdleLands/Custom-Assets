@@ -427,6 +427,7 @@
 "framed painting" str=-5000 agi=150 int=1 luk=12000 dance=1 gold=750 sentimentality=10000 aReqAscended=5
 "bar of soap" sentimentality=50
 "wad of cash" gold=350
+"pencil" int=500 hp=250
 
 #bricks
 "wood brick" str=250 dex=250 luk=20 hp=500 hpregen=50 vector=3 aReqJailbird=1

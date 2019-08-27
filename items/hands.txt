@@ -74,3 +74,4 @@
 "hand-shaped forcefield" con=500 aegis=1
 "ring of protection" con=10 defense=1
 "potato ring" str=5 con=5
+"carpal tunnel" dex=-1500 int=4500 con=-400

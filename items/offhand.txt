@@ -144,3 +144,9 @@
 "sword cane" str=300 dex=30 int=300 mp=100
 "mini-cactus" str=650 con=-5 dex=100 agi=25 int=-1 hp=-1000 mp=50 shatter=1
 "can opener" str=1500 con=250 dex=150 int=1500 hp=525 hpregen=50 xp=1 aReqWalker=6
+"map of Idliathlia" str=-250 int=50 con=1250 agi=1860 luk=1225 xp=50
+"mana-filled doughnut" int=5555 con=100 gold=-10
+"rage-filled doughnut" str=5555 dex=-500 con=100 agi=-500 gold=-5
+"luck-filled doughnut" dex=-500 agi=-500 luk=5555 hp=55 gold=-100
+"lore-filled doughnut" str=1000 dex=1000 int=1000 con=1000 agi=1000 luk=1000 hp=1000 xp=100 gold=-125
+"moxie-filled doughnut" dex=6500 agi=12250 hp=500 xp=1 gold=-15

@@ -137,3 +137,4 @@
 "hula-hoop armor" dex=50 agi=-10 luk=20 dance=1
 "skimpy armor" str=200 con=300 agi=50 int=100 lethal=1
 "Zero Suit" dex=500 agi=1000
+"jester garb" str=-2500 int=500 con=-5000 agi=250 luk=11235

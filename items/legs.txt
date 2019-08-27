@@ -79,3 +79,4 @@
 "turtle leggings" str=45 agi=-8 luk=5
 "kilt" dex=50 agi=50 int=50
 "thorns" str=775 con=50 dex=50 agi=775 offense=1
+"rather dashing pants" dex=4000 con=2700 agi=6000 luk=-2500 xp=5 gold=-5

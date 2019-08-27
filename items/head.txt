@@ -159,3 +159,4 @@
 "fools cap" luk=2000 dance=15 crit=15 aReqProfessional:_Jester=1
 "huntsman's hat" str=750 dex=2500 con=750 deadeye=1 vorpal=5 power=15 silver=15 aReqProfessional:_Archer=1
 "sweaty headband" str=2500 con=2500 power=20 shatter=2 aReqProfessional:_Barbarian=1
+"inspiration" int=11235 con=25 luk=25 xp=5
