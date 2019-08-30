@@ -70,6 +70,7 @@
 
 # godly-class
 "Visible Light" agi=4500 int=4500 deadeye=1 glowing=1
+"Grandma's Scarf" str=1000 dex=500 con=1000 agi=-100 luk=-300 xp=10 gold=25
 
 # celestial something or another
 "Celestial Choker" str=1000 dex=1000 con=1000 agi=1000 int=1000 luk=1000 glowing=1 offense=1
