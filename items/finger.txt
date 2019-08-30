@@ -56,6 +56,8 @@
 "Ring of the Evil Eye" str=4000 con=4000 int=-2000 vampire=1 hpregen=1000
 "Ring of Forfeit" str=-2000 con=-500 int=8000 defense=1 offense=-1 xp=40
 "Ill-Fated Ring" con=4000 agi=4000 int=4000 luk=-2500 crit=-2 gold=-500 offense=2 venom=5 poison=5 vampire=5
+"Borg Assimilation Tube" dex=4545 con=3434 agi=2323
+"emergency haste speed dial" str=999 dex=911 int=311 con=995 agi=77 luk=77 hp=77
 
 # celestial something or another
 "Celestial Circle" str=1000 dex=1000 con=1000 agi=1000 int=1000 luk=1000 glowing=1 defense=1 shatter=1
@@ -67,6 +69,7 @@
 
 # goatly-class
 "Shut-In's Loop" str=-3000 con=-500 dex=-1000 agi=-2000 int=25025 luk=10000 xp=-30 mpregen=100 poison=2 dance=-1
+"Condom That You Put On Your Finger But It Wasn't That Funny" str=2000 dex=8500 int=-100 con=7500 agi=9500 luk=500 gold=30
 
 # omega-class
 "Hydromancer's Lost Ring" con=20000 int=7500 luk=3000 mp=25000 mpregen=2500 prone=3 cReqSmall_Diamond=1 cReqOld_Ring=1
