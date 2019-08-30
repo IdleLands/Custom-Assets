@@ -113,6 +113,9 @@
 #dex/luck/int
 "halo"  dex=10 luk=3 int=5
 
+#int/com/luck
+"blush of the b-b-baka" int=50 con=50 luk=25 xp=5
+
 # mega-hybrid
 "Antiverse Circlet" str=100 int=100 dex=100 con=500 agi=100 deadeye=1
 
@@ -122,6 +125,7 @@
 # godly-class
 "Pile Of Hats That Reaches to the Moon" int=3500 agi=2500 luk=500 dex=1500 defense=1
 "Endless Whispers" int=3500 con=1000 xp=100 gold=500
+"realistic football helmet" str=10000 dex=3000 int=-3000 con=-3000 agi=3000 luk=200 hp=-100 xp=1 gold=80
 
 # celestial something or another
 "Celestial Cap" str=1000 dex=1000 con=1000 agi=1000 int=1000 luk=1000 glowing=1 defense=1
