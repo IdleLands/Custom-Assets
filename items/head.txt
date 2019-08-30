@@ -132,9 +132,11 @@
 
 # goatly-class
 "20/500 Prescription Lenses" int=12000 luk=3900 crit=10 deadeye=5
+"Extra Brain on a Stick" str=10000 dex=500 int=10000 con=500 agi=10000 hp=500 xp=30
 
 # omega-class
 "Literally Laser Eyes" str=20000 con=6500 dex=4500 agi=6000 int=20000 xp=10 mpregen=4500 damageReduction=1200 gold=148
+"Mind Control Eye Patch of Slick Rick the Ruler" str=70 dex=400 int=30000 con=800 agi=990 luk=2500 gold=30
 
 # custom
 "Beard Bone" str=12 dex=-1 int=-1 con=3 agi=-1 hp=9 xp=-1 gold=-1
