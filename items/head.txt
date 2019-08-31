@@ -113,6 +113,9 @@
 #dex/luck/int
 "halo"  dex=10 luk=3 int=5
 
+#int/com/luck
+"blush of the b-b-baka" int=50 con=50 luk=25 xp=5
+
 # mega-hybrid
 "Antiverse Circlet" str=100 int=100 dex=100 con=500 agi=100 deadeye=1
 
@@ -122,15 +125,18 @@
 # godly-class
 "Pile Of Hats That Reaches to the Moon" int=3500 agi=2500 luk=500 dex=1500 defense=1
 "Endless Whispers" int=3500 con=1000 xp=100 gold=500
+"realistic football helmet" str=10000 dex=3000 int=-3000 con=-3000 agi=3000 luk=200 hp=-100 xp=1 gold=80
 
 # celestial something or another
 "Celestial Cap" str=1000 dex=1000 con=1000 agi=1000 int=1000 luk=1000 glowing=1 defense=1
 
 # goatly-class
 "20/500 Prescription Lenses" int=12000 luk=3900 crit=10 deadeye=5
+"Extra Brain on a Stick" str=10000 dex=500 int=10000 con=500 agi=10000 hp=500 xp=30
 
 # omega-class
 "Literally Laser Eyes" str=20000 con=6500 dex=4500 agi=6000 int=20000 xp=10 mpregen=4500 damageReduction=1200 gold=148
+"Mind Control Eye Patch of Slick Rick the Ruler" str=70 dex=400 int=30000 con=800 agi=990 luk=2500 gold=30
 
 # custom
 "Beard Bone" str=12 dex=-1 int=-1 con=3 agi=-1 hp=9 xp=-1 gold=-1

@@ -52,17 +52,20 @@
 
 # godly-class
 "Infinitely Expanding Fractal Gloves" int=-1000 con=1000 str=3000 dex=3000
+"Supersoft Lucky Vaseline" str=300 dex=400 int=300 con=550 agi=700 luk=2000 hp=10 gold=15
 
 # celestial something or another
 "Celestial Cannonhands" str=1000 dex=1000 con=1000 agi=1000 int=1000 luk=1000 glowing=1 offense=1
 
 # goatly-class
 "Smart Watch with Fitness Monitoring" str=4000 con=5000 dex=2000 agi=500 luk=2222 hp=40000 hpregen=1250 defense=7 offense=2
+"Fibonacci's scribbled sleeves" str=10946 dex=6765 int=4181 con=2584 agi=1597
 
 # omega-class
 "Gloves That Tell You What Time It Is" str=10000 dex=14500 agi=18000 int=10000 xp=10 mpregen=4500 damageReduction=1200 gold=148
 "Illustrious Magic Paws" int=6000 con=6000 hp=15000 gold=25
 "Golden Gauntlets" str=100 dex=100 int=100 con=100 agi=100 luk=100 hp=100 xp=10 gold=100
+"Hooked Talons of Ghost Parrot LeChuck" str=3400 dex=4500 int=5600 con=7800 agi=8900 luk=9100 hp=10000
 
 # custom
 "fingerless gloves" agi=100 dex=100

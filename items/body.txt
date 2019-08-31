@@ -105,11 +105,14 @@
 
 # idle-class
 "Avaracious Armor of the Idling Gods" int=1500 luk=500 con=300 defense=1
+"Green Tunic" str=50 dex=50 int=50 con=50 agi=50 luk=50 hp=250 xp=5 gold=50
 
 # godly-class
 "Velociraptor" str=5000 dex=2000 con=1000 offense=1
 "Robe of Dreams" dex=1000 con=-1000 int=5500 luk=1000 aegis=1 xp=20
 "Xenogenic Carapace" str=3000 con=3000 dex=500 agi=1000 aegis=2 venom=1
+"Blue Tunic" str=250 dex=250 int=250 con=250 agi=250 luk=250 hp=2500 xp=50 gold=50
+"Dairy Farmer's apron " str=255 dex=255 int=255 con=255 agi=255 luk=255 xp=25
 
 # celestial something or another
 "Celestial Chestpiece" str=1000 dex=1000 con=1000 agi=1000 int=1000 luk=1000 glowing=1 defense=1
@@ -117,10 +120,14 @@
 
 # goatly-class
 "Polo with Many Pockets" con=3000 dex=5500 agi=3000 int=7000 luk=3200 xp=25 mpregen=1000 defense=10 aegis=5 salvage=1
+"Queen Victoria's bellybutton piercing" str=5000 dex=630 int=5000 con=810 agi=-10 luk=250 hp=20000 xp=5 gold=10
+"The Lost Booty of Booty Island" str=3000 dex=400 int=800 con=4000 agi=900 luk=3000 gold=80
 
 # omega-class 
 "Complete Black Shroud" str=10000 dex=15000 agi=15000 luk=12500 defense=10 dance=1 glowing=-2 cReqBlack_Shroud=1 cReqSilver_Lining=1
 "Cracked Sash" dex=10000 agi=10000 hp=10000 gold=20
+"Lovestruck Astronaut’s Diaper" str=20071 dex=84 int=8000 con=600 agi=-500 luk=-50
+"Bashful Boozle’s Strangely Enticing Cutie Mark" str=10000 dex=10000 int=20000 con=1000 agi=1000 luk=1000
 
 # custom
 "Apocalyptic Sticky Notes" str=200 dex=200 int=200 agi=-200

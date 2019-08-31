@@ -82,6 +82,10 @@
 # godly-class
 "Solar System" con=3000
 "Daisho" str=1500 dex=300 con=-750 agi=300 luk=130
+"Fibonacci's other notebook" str=987 dex=610 int=377 con=233 agi=144 luk=89 hp=55
+"Tactical Popeye's Chicken Sandwich" str=200 dex=850 int=1000 con=9900 agi=760 luk=750 hp=5000
+"white wonders cow brush" str=255 dex=255 int=255 con=255 agi=255 luk=255 xp=25
+"Bottle o' Mime Screams" int=500 con=500 luk=1500 hp=500
 
 # celestial something or another
 "Celestial Cover" str=1000 dex=1000 con=1000 agi=1000 luk=1000 glowing=1 defense=2
@@ -90,10 +94,14 @@
 "Manual for Adventurers Vol. 777 -Rented-" str=4000 con=4000 dex=4000 agi=3000 int=4500 luk=4000 xp=3 hp=500 mp=200 hpregen=100 mpregen=100 crit=5 prone=1 venom=1 poison=1 shatter=1 vampire=1 damageReduction=1000 gold=-1000 sentimentality=5000 dance=1 defense=1 offense=1 deadeye=1 lethal=1 silver=1 power=1 vorpal=1 aegis=1 glowing=3
 "Stone Pancake Shield" con=15000 hp=50000
 "1337 Login" str=1337 dex=1337 int=1337 con=1337 agi=1337 luk=1337 hp=1337
+"Bobby's table" int=32768 
+"The Hand of Your Beloved Of Which You Swore Never To Let Go" str=500 dex=10800 int=9400 con=2400 agi=7603 hp=34000
 
 # omega-class
 "Fate's Kris" str=3000 con=3000 dex=3000 agi=3000 int=3000 luk=15000 xp=300 crit=100 glowing=20 cReqPretty_Cool_Looking_Dagger=1 cReqTwisted_Appendage=1 aReqTempterOfFate=1 sReqBossKills*Fate-Twisted_Lake_Monstrosity=5
 "Boozles Kazoo" luk=26000
+"Tome of the Unknown Soldier" str=38764 con=70722
+"Dark Repulser" str=24000 dex=9800 int=-2000 con=6000 agi=8000 luk=2000 hp=10000 xp=50
 
 # custom
 "pool noodle" str=-55 int=-1 agi=120 luk=3
