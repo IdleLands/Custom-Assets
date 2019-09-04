@@ -2,6 +2,9 @@
 "heart piece" con=50
 "heart container" con=150
 
+# hp
+"Chocolate coin" hp=50 gold=-1
+
 # int
 "pin" int=1
 "earring" int=8
@@ -117,6 +120,8 @@
 
 # omega-class
 "Living Spider Amulet" con=80000 int=-10000 xp=10 mpregen=4500 damageReduction=1200 gold=148
+"Idle Lands Server" str=39475 dex=23454 int=39489 con=85393 agi=34792 luk=-9799 hp=-93799
+"Cap’n Crunch’s GrrrEAT Lucky Charm" str=4000 dex=5000 int=1400 con=1500 agi=6000 luk=12000 xp=40
 
 # custom
 "loaded dice" luk=100
