@@ -359,6 +359,9 @@
 
 # idle-class
 "Wingsaber, Whirling Blade of the Idling Gods" str=5000 silver=1 offense=1 prone=1
+"Ridiculously large spoon" str=500 agi=-400
+"Vorpal dark maul" str=1250 dex=-250 agi=-250
+"The Gambler" str=999 dex=20 int=20 con=-999 agi=20 luk=20 hp=-500 xp=50 gold=50
 
 # godly-class
 "Godly Imagination" str=5000 int=3500
