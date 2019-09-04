@@ -5,6 +5,7 @@
 "stockings" agi=1
 "oak leaf" agi=5
 "poison ivy leaf" agi=8 poison=1
+"tassets with no pants" agi=55
 "flexible thong" agi=60
 "fuzzy legwarmers" agi=150 int=-5
 "kneesocks" agi=245
