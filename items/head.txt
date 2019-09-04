@@ -118,6 +118,8 @@
 
 # mega-hybrid
 "Antiverse Circlet" str=100 int=100 dex=100 con=500 agi=100 deadeye=1
+"Swedish Chef Hat" str=1 dex=1 int=-1 con=1 agi=1 luk=2 hp=3 xp=2 gold=-1
+"traffic cone" dex=5 int=5 con=20 agi=30
 
 # idle-class
 "Feathered Fez of the Idling Gods" str=500 int=-100 agi=900 dex=1500 con=500 crit=1 deadeye=1 lethal=1
@@ -133,10 +135,12 @@
 # goatly-class
 "20/500 Prescription Lenses" int=12000 luk=3900 crit=10 deadeye=5
 "Extra Brain on a Stick" str=10000 dex=500 int=10000 con=500 agi=10000 hp=500 xp=30
+"Frida Kahlo’s Omnipotent Eyebrow" str=3500 dex=8000 int=955 con=2300 agi=41000 luk=400 xp=60
 
 # omega-class
 "Literally Laser Eyes" str=20000 con=6500 dex=4500 agi=6000 int=20000 xp=10 mpregen=4500 damageReduction=1200 gold=148
 "Mind Control Eye Patch of Slick Rick the Ruler" str=70 dex=400 int=30000 con=800 agi=990 luk=2500 gold=30
+"Poo Emoji" str=-92 dex=3629 int=23632 con=-93 agi=-382 luk=6392 hp=10 xp=-500 gold=89
 
 # custom
 "Beard Bone" str=12 dex=-1 int=-1 con=3 agi=-1 hp=9 xp=-1 gold=-1
