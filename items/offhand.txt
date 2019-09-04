@@ -60,6 +60,9 @@
 # con/hp
 "sentimental axe of love" con=100 hp=499 gold=20
 
+# int/luk
+"guide to bargaining" int=-75 luk=50 gold=5
+
 # 3-stat
 "pie plate" dex=5 con=-3 agi=4
 "fender" con=20 dex=20 str=5
@@ -78,6 +81,8 @@
 # idle-class
 "Supersonic Shield of the Idling Gods" con=1000 str=1500 defense=1 aegis=1
 "Hamwart shield of pork" str=50 con=500 hp=200 xp=10
+"Dry cheese wedge" str=250 con=-100 hp=500
+"tome of existential crises" int=975 con=-75 agi=-75
 
 # godly-class
 "Solar System" con=3000
