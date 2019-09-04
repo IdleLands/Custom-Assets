@@ -60,6 +60,9 @@
 "potato sack"  agi=10  con=46 luk=1
 "Untouchable Pants"  agi=300 con=315 luk=35
 
+# hybrid
+"candy thong" str=20 dex=100 int=-20 con=40 agi=150 luk=10 hp=-30 gold=3
+
 # idle-class
 "Gloomy Greaves of the Idling Gods" con=1000 agi=1000 dex=500 vampire=1 defense=1 poison=1
 
