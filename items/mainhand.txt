@@ -385,6 +385,7 @@
 "Reaper's Cursed Scythe" str=18000 dex=12000 int=14000 con=20000 agi=13000 luk=9000 hp=120000 xp=-10000
 "Serena Williams’ Drone Smashing Tennis Racquet" str=20000 dex=5000 int=1000 con=1000 agi=10000
 "Callandor" str=10000 dex=2458 int=-735 con=1500 agi=-200 luk=4792 hp=-800 gold=36
+"Serverkiller" str=8493 dex=9346 int=6593 con=759 agi=7493 luk=8408 hp=-18999 xp=28 gold=39
 
 # custom
 "Pan Galactic Gargle Blaster" int=500 agi=500
