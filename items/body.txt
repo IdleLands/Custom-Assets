@@ -145,3 +145,5 @@
 "skimpy armor" str=200 con=300 agi=50 int=100 lethal=1
 "Zero Suit" dex=500 agi=1000
 "jester garb" str=-2500 int=500 con=-5000 agi=250 luk=11235
+"scaly hide" str=99 con=9999 agi=999 luk=9 hp=99
+"red-hot metal armor" str=21250 dex=-999 int=-9999 con=-4000 agi=14500 luk=-10 hp=-333 xp=-1 gold=-5

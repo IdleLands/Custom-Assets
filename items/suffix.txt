@@ -169,6 +169,7 @@
 "idle wanderer" con=500 luk=5 hp=250 xp=33 gold=1
 "duplicitous dolphin" dex=750 agi=300 luk=75 gold=300
 "poke" dex=1000 con=1000 gold=10
+"triumphant turkey" str=1000 dex=1000 int=750 con=300 agi=500 luk=400 hp=-100 xp=3 gold=5
 
 # Legendary
 "Billionaire" gold=50000 sReqCharacter*Gold*Gain=10000000000

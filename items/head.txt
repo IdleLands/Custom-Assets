@@ -166,3 +166,5 @@
 "huntsman's hat" str=750 dex=2500 con=750 deadeye=1 vorpal=5 power=15 silver=15 aReqProfessional:_Archer=1
 "sweaty headband" str=2500 con=2500 power=20 shatter=2 aReqProfessional:_Barbarian=1
 "inspiration" int=11235 con=25 luk=25 xp=5
+"zombified brain" str=4000 dex=1200 int=-2500 con=4000 agi=-500 luk=-300 hp=3000 xp=-1
+"beak" str=1400 dex=14450 int=-450 con=450 agi=750

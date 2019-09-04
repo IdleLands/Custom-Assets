@@ -437,6 +437,9 @@
 "bar of soap" sentimentality=50
 "wad of cash" gold=350
 "pencil" int=500 hp=250
+"Tuba" dex=3000 int=1200 agi=-50 gold=1
+"Bugle" dex=1500 int=500 agi=-25
+"Theremin" dex=13000 int=3500 agi=-500 luk=25 xp=1
 
 #bricks
 "wood brick" str=250 dex=250 luk=20 hp=500 hpregen=50 vector=3 aReqJailbird=1

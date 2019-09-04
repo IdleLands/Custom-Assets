@@ -158,3 +158,5 @@
 "luck-filled doughnut" dex=-500 agi=-500 luk=5555 hp=55 gold=-100
 "lore-filled doughnut" str=1000 dex=1000 int=1000 con=1000 agi=1000 luk=1000 hp=1000 xp=100 gold=-125
 "moxie-filled doughnut" dex=6500 agi=12250 hp=500 xp=1 gold=-15
+"musical triangle" dex=9000 int=1400 agi=-350 xp=2 gold=2
+

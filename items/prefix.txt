@@ -346,6 +346,7 @@
 "splendid" str=1000 con=1000 dex=1000 agi=1000 int=1000 luk=1000 aReqClassfluid=1
 "magnificent" str=10000 con=10000 dex=10000 agi=10000 int=10000 luk=10000 glowing=10 gold=10 aegis=1 xp=3 aReqClassfluid=5
 "plaid" str=2468 con=2468 dex=2468 offense=1 defense=1
+"gelatinous" con=100 agi=4545 luk=25 hp=30
 
 # special prefixes
 "Abhorrent" str=-200 con=-200 int=-200 glowing=1

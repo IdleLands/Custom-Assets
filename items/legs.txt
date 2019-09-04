@@ -83,3 +83,4 @@
 "kilt" dex=50 agi=50 int=50
 "thorns" str=775 con=50 dex=50 agi=775 offense=1
 "rather dashing pants" dex=4000 con=2700 agi=6000 luk=-2500 xp=5 gold=-5
+"pseudopods" dex=21250 int=-450 con=-1000 agi=21250 xp=2

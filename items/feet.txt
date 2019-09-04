@@ -102,3 +102,4 @@
 "tap shoes" agi=105 dance=1
 "slippers" agi=5 int=15
 "Speed Shoes" agi=567
+"hooves" str=8150 con=6500 agi=-600 hp=150 xp=2
