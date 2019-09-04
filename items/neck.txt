@@ -67,6 +67,7 @@
 "Transcendent Torc of the Idling Gods" agi=2000 int=2000 shatter=1 power=1
 "Halter of YOLO" dex=100 con=-10 agi=100 luk=500 hp=-1000
 "unspeakable modification" str=256 dex=128 int=64 con=32 agi=16 luk=8 hp=4 xp=2 gold=1
+"Wizard Mouse's Tail" str=-70 dex=20 int=125 hp=5 xp=50 gold=20
 
 # godly-class
 "Visible Light" agi=4500 int=4500 deadeye=1 glowing=1
@@ -79,6 +80,7 @@
 "Friendship Eternis Necklace" con=5022 int=1750 luk=4000 damageReduction=2500 sentimentality=10000 glowing=15
 "Photonic Bowtie" con=3140 dex=4000 agi=2997 int=17750 gold=106 dance=3 glowing=40
 "Bashful Boozle’s Kiss Covered My Little Pony Reins" str=400 dex=5000 int=2000 con=2000 agi=30000 luk=1000
+"Ruth Bader Minsburg’s Mini Tar Dissent Collar” str=800 dex=955 int=2000 con=9550 agi=7410 luk=200 gold=40
 
 # omega-Class
 "Black Ribbon of That Girl Whose Head Could Fall Off" str=5000 dex=25000 int=35000 con=5000 agi=2500 luk=100 hp=5000 xp=10 gold=10
