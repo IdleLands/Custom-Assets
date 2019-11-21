@@ -33,6 +33,7 @@
 "Pixelated Gloves" dex=350 str=100
 "Godhand" dex=400 str=200
 "Hands of Fate" dex=500 str=500 power=1
+"slices of bread" str=5 dex=4 hp=50
 
 # luck/str
 "gloves" luk=1 str=3
@@ -66,6 +67,7 @@
 "Illustrious Magic Paws" int=6000 con=6000 hp=15000 gold=25
 "Golden Gauntlets" str=100 dex=100 int=100 con=100 agi=100 luk=100 hp=100 xp=10 gold=100
 "Hooked Talons of Ghost Parrot LeChuck" str=3400 dex=4500 int=5600 con=7800 agi=8900 luk=9100 hp=10000
+"Cephalogod’s Terror Tentacle" str=4600 dex=75000 int=9433 con=8855 agi=854 luk=400 gold=41
 
 # custom
 "fingerless gloves" agi=100 dex=100

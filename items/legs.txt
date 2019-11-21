@@ -5,6 +5,7 @@
 "stockings" agi=1
 "oak leaf" agi=5
 "poison ivy leaf" agi=8 poison=1
+"tassets with no pants" agi=55
 "flexible thong" agi=60
 "fuzzy legwarmers" agi=150 int=-5
 "kneesocks" agi=245
@@ -58,6 +59,9 @@
 "assless chaps" agi=30 con=-5 luk=-1
 "potato sack"  agi=10  con=46 luk=1
 "Untouchable Pants"  agi=300 con=315 luk=35
+
+# hybrid
+"candy thong" str=20 dex=100 int=-20 con=40 agi=150 luk=10 hp=-30 gold=3
 
 # idle-class
 "Gloomy Greaves of the Idling Gods" con=1000 agi=1000 dex=500 vampire=1 defense=1 poison=1

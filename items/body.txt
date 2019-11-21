@@ -99,6 +99,7 @@
 "Super Tie Dye Shirt" str=70 con=70 int=70 dex=70 luk=10
 "Plasma Mail" int=100 con=450 dex=50 str=50 agi=100 offense=1
 "Brick Plate" str=300 con=500 agi=-50 defense=1
+"nipple pasties" str=10 int=-5 con=-5 agi=7 luk=5 gold=2
 
 # luck
 "luck mail" luk=15
