@@ -145,7 +145,7 @@
 "Soapy One" sentimentality=12345
 "Thrift" str=-10 con=-10 dex=-10 agi=-10 int=-10 luk=-10 gold=610
 "Frugal" str=-100 con=-100 dex=-100 agi=-100 int=-100 luk=-100 gold=6100
-"Parsimonious" str=-1000 con=-1000 dex=-1000 agi=-1000 int=-1000 luk=-1000 gold=61000
+"Parsimonious" str=-1000 con=-1000 dex=-1000 agi=-1000 int=-1000 luk=-1000 gold=12000
 "hangry" str=29 con=-10 int=-1 offense=1
 "blown budget" str=50 con=50 dex=50 agi=50 int=50 luk=50 gold=-200
 "Bulwark" con=606 agi=-20 defense=10
@@ -172,7 +172,7 @@
 "triumphant turkey" str=1000 dex=1000 int=750 con=300 agi=500 luk=400 hp=-100 xp=3 gold=5
 
 # Legendary
-"Billionaire" gold=50000 sReqCharacter*Gold*Gain=10000000000
+"Billionaire" gold=10000 sReqCharacter*Gold*Gain=10000000000
 "Tempter" luk=4000 aReqTempterOfFate=1
 "Spiritual" str=2000 con=2000 dex=2000 agi=2000 int=2000 aegis=1 aReqSpiritualist=1
 "Enchanted" enchantLevel=10 crit=5 offense=5 defense=5 glowing=5 xp=30 gold=1000 venom=5 poison=5 vampire=5 aReqEnchanted=1
@@ -180,7 +180,7 @@
 "Yes Man" luk=3000 offense=10 defense=10 xp=50 aReqAffirmer=1
 "World Explorer" luk=2000 xp=200 aReqExplorative=18 aReqLevelable=10
 "Dragon Slayer" str=5000 agi=5000 int=5000 hpregen=1250 sReqBossKills*Ukad-Aghag_the_Exile=1 sReqBossKills*White_Dragon=1 sReqBossKills*Blue_Dragon=1 sReqBossKills*Old_Copper_Dragon=1 sReqBossKills*Drunken_Dragon=1 sReqBossKills*Branor_the_Hungry=1
-"Swapped A" con=-3000 luk=-1000 crit=-100 glowing=-30 sentimentality=500 gold=20000 xp=600 salvage=5 sReqCharacter*Event*Switcheroo=500 aReqLevelable=10
+"Swapped A" con=-3000 luk=-1000 crit=-100 glowing=-30 sentimentality=500 gold=10000 xp=700 salvage=5 sReqCharacter*Event*Switcheroo=500 aReqLevelable=10
 "Swapped B" gold=-10000 xp=-300 salvage=-2 sentimentality=500 agi=5000 con=3000 crit=100 glowing=80 aegis=10 sReqCharacter*Event*Switcheroo=500
 "Gorgon" crit=20 prone=20 poison=20 hpregen=2000 cReqGorgon_Snake=1
 "Donator" luk=1500 dance=5 xp=200 aReqDonator=1 aReqLevelable=10

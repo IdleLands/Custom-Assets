@@ -84,7 +84,7 @@
 "Black Ribbon of That Girl Whose Head Could Fall Off" str=5000 dex=25000 int=35000 con=5000 agi=2500 luk=100 hp=5000 xp=10 gold=10
 
 # artifacts
-"Cavernous Coin Necklace" con=500 luk=2000 gold=100000 cReqCavernous_Coin_Pouch=1 cReqGold_Bank_Coin=2 cReqMedium_Sized_Bank_Coin=2 cReqRather_Large_Bank_Coin=2 cReqWeirdly_Sized_Bank_Coin=2 cReqEvil_Bank_Coin=2 cReqAshen_Bank_Coin=2
+"Cavernous Coin Necklace" con=500 luk=2000 gold=10000 cReqCavernous_Coin_Pouch=1 cReqGold_Bank_Coin=2 cReqMedium_Sized_Bank_Coin=2 cReqRather_Large_Bank_Coin=2 cReqWeirdly_Sized_Bank_Coin=2 cReqEvil_Bank_Coin=2 cReqAshen_Bank_Coin=2
 
 # custom
 "key-board" str=50 int=50 agi=50 dex=50
